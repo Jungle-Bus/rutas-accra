@@ -19,7 +19,7 @@ $(document).ready(function (){
   });
 
   var search = function(){
-    var inp = document.getElementById("search-string") + ", Managua, Nicaragua";
+    var inp = document.getElementById("search-string") + ", Greater Accra Region";
     $.getJSON('http://nominatim.openstreetmap.org/search?format=json&limit=5&q=' + inp.value, function(data) {
     var items = [];
     $.each(data, function(key, val) {
@@ -31,7 +31,7 @@ $(document).ready(function (){
       if (items.length != 0) {
         $('#modal-content').html(items.join(''));
       } else {
-        $('<div/>', { html: "No se encontraron resultados." }).appendTo('#modal-content');
+        $('<div/>', { html: "No result" }).appendTo('#modal-content');
       }
     });
 
@@ -48,7 +48,7 @@ $(document).ready(function (){
 
     // Search callback logic
     var inp = document.getElementById("search-string");
-    $.getJSON('http://nominatim.openstreetmap.org/search?format=json&limit=5&q=' + inp.value + ", Managua, Nicaragua", function(data) {
+    $.getJSON('http://nominatim.openstreetmap.org/search?format=json&limit=5&q=' + inp.value + ", Greater Accra Region", function(data) {
       var items = [];
       $.each(data, function(key, val) {
         bb = val.boundingbox;
@@ -59,7 +59,7 @@ $(document).ready(function (){
       if (items.length != 0) {
         $('#modal-content').html(items.join(''));
       } else {
-        $('<div/>', { html: "No se encontraron resultados." }).appendTo('#modal-content');
+        $('<div/>', { html: "No result." }).appendTo('#modal-content');
       }
     });
   });
