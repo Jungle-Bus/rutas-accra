@@ -1,0 +1,1481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2638583,
+            5.581196
+          ],
+          [
+            -0.2638026,
+            5.5810639
+          ],
+          [
+            -0.2636471,
+            5.5809538
+          ],
+          [
+            -0.2634563,
+            5.5809168
+          ],
+          [
+            -0.2633677,
+            5.5806533
+          ],
+          [
+            -0.2632897,
+            5.5805814
+          ],
+          [
+            -0.2632199,
+            5.580544
+          ],
+          [
+            -0.2631438,
+            5.5805429
+          ],
+          [
+            -0.262894,
+            5.5805994
+          ],
+          [
+            -0.2625115,
+            5.5806579
+          ],
+          [
+            -0.2621114,
+            5.5806776
+          ],
+          [
+            -0.2617188,
+            5.5806464
+          ],
+          [
+            -0.2613809,
+            5.5805745
+          ],
+          [
+            -0.2611938,
+            5.580512
+          ],
+          [
+            -0.2610792,
+            5.5804738
+          ],
+          [
+            -0.2610579,
+            5.580465
+          ],
+          [
+            -0.2608805,
+            5.5803922
+          ],
+          [
+            -0.2607901,
+            5.5803551
+          ],
+          [
+            -0.2605274,
+            5.5802183
+          ],
+          [
+            -0.2594961,
+            5.5796091
+          ],
+          [
+            -0.2582594,
+            5.5788721
+          ],
+          [
+            -0.2580902,
+            5.5787713
+          ],
+          [
+            -0.2549169,
+            5.5768694
+          ],
+          [
+            -0.2524776,
+            5.5753889
+          ],
+          [
+            -0.2514326,
+            5.5747376
+          ],
+          [
+            -0.2505334,
+            5.5742123
+          ],
+          [
+            -0.2471108,
+            5.5721419
+          ],
+          [
+            -0.2462131,
+            5.5716027
+          ],
+          [
+            -0.2451192,
+            5.5709457
+          ],
+          [
+            -0.2426891,
+            5.56952
+          ],
+          [
+            -0.2426661,
+            5.5694581
+          ],
+          [
+            -0.2426515,
+            5.5693791
+          ],
+          [
+            -0.2421792,
+            5.569138
+          ],
+          [
+            -0.2420896,
+            5.5690922
+          ],
+          [
+            -0.2420255,
+            5.5690531
+          ],
+          [
+            -0.2413525,
+            5.5686213
+          ],
+          [
+            -0.2412179,
+            5.5685464
+          ],
+          [
+            -0.2404816,
+            5.5681217
+          ],
+          [
+            -0.239656,
+            5.5676298
+          ],
+          [
+            -0.2387772,
+            5.5670839
+          ],
+          [
+            -0.2370776,
+            5.566057
+          ],
+          [
+            -0.235888,
+            5.5653383
+          ],
+          [
+            -0.2358156,
+            5.5652946
+          ],
+          [
+            -0.2346417,
+            5.5645854
+          ],
+          [
+            -0.2330153,
+            5.563625
+          ],
+          [
+            -0.2321232,
+            5.5630644
+          ],
+          [
+            -0.2317559,
+            5.5628328
+          ],
+          [
+            -0.230017,
+            5.5618064
+          ],
+          [
+            -0.2298641,
+            5.5617423
+          ],
+          [
+            -0.2297723,
+            5.5617116
+          ],
+          [
+            -0.2296905,
+            5.5616996
+          ],
+          [
+            -0.2295516,
+            5.5616898
+          ],
+          [
+            -0.2295002,
+            5.5617096
+          ],
+          [
+            -0.2294464,
+            5.5617216
+          ],
+          [
+            -0.2293915,
+            5.5617254
+          ],
+          [
+            -0.229316,
+            5.5617171
+          ],
+          [
+            -0.2292438,
+            5.5616936
+          ],
+          [
+            -0.229178,
+            5.5616558
+          ],
+          [
+            -0.2291214,
+            5.5616054
+          ],
+          [
+            -0.2290765,
+            5.5615444
+          ],
+          [
+            -0.2290432,
+            5.5614697
+          ],
+          [
+            -0.2290275,
+            5.5613896
+          ],
+          [
+            -0.2289824,
+            5.5613285
+          ],
+          [
+            -0.2289099,
+            5.5612231
+          ],
+          [
+            -0.2287919,
+            5.5611123
+          ],
+          [
+            -0.2282191,
+            5.5607562
+          ],
+          [
+            -0.227994,
+            5.5606152
+          ],
+          [
+            -0.2272714,
+            5.5601686
+          ],
+          [
+            -0.2252088,
+            5.5589192
+          ],
+          [
+            -0.2229247,
+            5.5575436
+          ],
+          [
+            -0.2228304,
+            5.5574935
+          ],
+          [
+            -0.2226537,
+            5.5574059
+          ],
+          [
+            -0.2224448,
+            5.5572761
+          ],
+          [
+            -0.2215141,
+            5.5566968
+          ],
+          [
+            -0.2210118,
+            5.556368
+          ],
+          [
+            -0.2208037,
+            5.5562424
+          ],
+          [
+            -0.2207128,
+            5.556187
+          ],
+          [
+            -0.2203668,
+            5.5561127
+          ],
+          [
+            -0.2201132,
+            5.5560141
+          ],
+          [
+            -0.2200115,
+            5.5559746
+          ],
+          [
+            -0.2198616,
+            5.555914
+          ],
+          [
+            -0.2191066,
+            5.5556879
+          ],
+          [
+            -0.2189177,
+            5.5555182
+          ],
+          [
+            -0.2187053,
+            5.5554614
+          ],
+          [
+            -0.218278,
+            5.555346
+          ],
+          [
+            -0.2179347,
+            5.5552472
+          ],
+          [
+            -0.2169623,
+            5.5549761
+          ],
+          [
+            -0.2167584,
+            5.5549468
+          ],
+          [
+            -0.2163132,
+            5.5549094
+          ],
+          [
+            -0.2159994,
+            5.554856
+          ],
+          [
+            -0.2157016,
+            5.5547599
+          ],
+          [
+            -0.2152859,
+            5.5545997
+          ],
+          [
+            -0.2150499,
+            5.5544956
+          ],
+          [
+            -0.2147307,
+            5.5544075
+          ],
+          [
+            -0.2143525,
+            5.5543167
+          ],
+          [
+            -0.2143035,
+            5.554219
+          ],
+          [
+            -0.2147119,
+            5.5528191
+          ],
+          [
+            -0.2147763,
+            5.5526269
+          ],
+          [
+            -0.2149426,
+            5.5521891
+          ],
+          [
+            -0.2149801,
+            5.5520049
+          ],
+          [
+            -0.2149815,
+            5.5518527
+          ],
+          [
+            -0.21384,
+            5.5511351
+          ],
+          [
+            -0.213234,
+            5.5507193
+          ],
+          [
+            -0.213098,
+            5.5506346
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 228 : Accra CMB → Odorkor",
+        "attributes": {
+          "operator": "Accra CMB Branch No. 2 of GPRTU",
+          "to": "Odorkor",
+          "from": "Accra CMB",
+          "ref": "228",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.213098,
+            5.5506346
+          ],
+          [
+            -0.213234,
+            5.5507193
+          ],
+          [
+            -0.21384,
+            5.5511351
+          ],
+          [
+            -0.2149815,
+            5.5518527
+          ],
+          [
+            -0.2149801,
+            5.5520049
+          ],
+          [
+            -0.2149426,
+            5.5521891
+          ],
+          [
+            -0.2147763,
+            5.5526269
+          ],
+          [
+            -0.2147119,
+            5.5528191
+          ],
+          [
+            -0.2143035,
+            5.554219
+          ],
+          [
+            -0.2146851,
+            5.5542901
+          ],
+          [
+            -0.2156292,
+            5.5545517
+          ],
+          [
+            -0.2161576,
+            5.5546718
+          ],
+          [
+            -0.216973,
+            5.5548667
+          ],
+          [
+            -0.2181601,
+            5.555185
+          ],
+          [
+            -0.218357,
+            5.5552378
+          ],
+          [
+            -0.2184634,
+            5.5552732
+          ],
+          [
+            -0.2186636,
+            5.5553398
+          ],
+          [
+            -0.2189648,
+            5.5553514
+          ],
+          [
+            -0.2194215,
+            5.5554508
+          ],
+          [
+            -0.2199611,
+            5.5556298
+          ],
+          [
+            -0.2201993,
+            5.5557385
+          ],
+          [
+            -0.2206667,
+            5.5559547
+          ],
+          [
+            -0.2208476,
+            5.5561462
+          ],
+          [
+            -0.2210621,
+            5.5562977
+          ],
+          [
+            -0.2215731,
+            5.5566167
+          ],
+          [
+            -0.2225106,
+            5.557176
+          ],
+          [
+            -0.222814,
+            5.5573607
+          ],
+          [
+            -0.2229149,
+            5.5574221
+          ],
+          [
+            -0.2231027,
+            5.5575261
+          ],
+          [
+            -0.2260202,
+            5.5592876
+          ],
+          [
+            -0.2280384,
+            5.5605082
+          ],
+          [
+            -0.2282795,
+            5.5606546
+          ],
+          [
+            -0.2283355,
+            5.5606896
+          ],
+          [
+            -0.2288456,
+            5.5610082
+          ],
+          [
+            -0.2289368,
+            5.5610442
+          ],
+          [
+            -0.2290172,
+            5.5610629
+          ],
+          [
+            -0.229099,
+            5.5610656
+          ],
+          [
+            -0.2292065,
+            5.5610452
+          ],
+          [
+            -0.2292814,
+            5.5610117
+          ],
+          [
+            -0.2293618,
+            5.5609956
+          ],
+          [
+            -0.2294439,
+            5.5609977
+          ],
+          [
+            -0.2295236,
+            5.561018
+          ],
+          [
+            -0.2295967,
+            5.5610553
+          ],
+          [
+            -0.2296597,
+            5.5611079
+          ],
+          [
+            -0.2297059,
+            5.5611675
+          ],
+          [
+            -0.2297388,
+            5.5612351
+          ],
+          [
+            -0.2297571,
+            5.5613081
+          ],
+          [
+            -0.2297601,
+            5.5613833
+          ],
+          [
+            -0.2298018,
+            5.561458
+          ],
+          [
+            -0.2298782,
+            5.5615368
+          ],
+          [
+            -0.22996,
+            5.5616128
+          ],
+          [
+            -0.2301873,
+            5.5617637
+          ],
+          [
+            -0.2319554,
+            5.5628056
+          ],
+          [
+            -0.2321948,
+            5.5629477
+          ],
+          [
+            -0.2326508,
+            5.5632254
+          ],
+          [
+            -0.232856,
+            5.5633442
+          ],
+          [
+            -0.2332096,
+            5.5635677
+          ],
+          [
+            -0.2347878,
+            5.5645551
+          ],
+          [
+            -0.2349202,
+            5.5646343
+          ],
+          [
+            -0.2354576,
+            5.5649558
+          ],
+          [
+            -0.2359153,
+            5.5652296
+          ],
+          [
+            -0.2359472,
+            5.5652487
+          ],
+          [
+            -0.2363003,
+            5.56546
+          ],
+          [
+            -0.2387592,
+            5.5669795
+          ],
+          [
+            -0.2419337,
+            5.5688052
+          ],
+          [
+            -0.2420777,
+            5.5688778
+          ],
+          [
+            -0.2421728,
+            5.5689254
+          ],
+          [
+            -0.2423297,
+            5.5690175
+          ],
+          [
+            -0.2424788,
+            5.5691083
+          ],
+          [
+            -0.2426045,
+            5.5691214
+          ],
+          [
+            -0.2427577,
+            5.5691674
+          ],
+          [
+            -0.2450907,
+            5.5705595
+          ],
+          [
+            -0.2457641,
+            5.5709442
+          ],
+          [
+            -0.2473637,
+            5.5718913
+          ],
+          [
+            -0.2481734,
+            5.5723855
+          ],
+          [
+            -0.2524124,
+            5.5749502
+          ],
+          [
+            -0.2533109,
+            5.5754682
+          ],
+          [
+            -0.2542121,
+            5.5760087
+          ],
+          [
+            -0.2547852,
+            5.5764948
+          ],
+          [
+            -0.2549859,
+            5.5766118
+          ],
+          [
+            -0.2569311,
+            5.5777966
+          ],
+          [
+            -0.2601876,
+            5.5797583
+          ],
+          [
+            -0.2605846,
+            5.5799991
+          ],
+          [
+            -0.2607606,
+            5.5800992
+          ],
+          [
+            -0.2609408,
+            5.5801774
+          ],
+          [
+            -0.2611,
+            5.5802379
+          ],
+          [
+            -0.2612645,
+            5.5802952
+          ],
+          [
+            -0.261452,
+            5.5803463
+          ],
+          [
+            -0.2616474,
+            5.5803906
+          ],
+          [
+            -0.261814,
+            5.5804188
+          ],
+          [
+            -0.2619816,
+            5.5804354
+          ],
+          [
+            -0.262166,
+            5.5804448
+          ],
+          [
+            -0.262355,
+            5.5804401
+          ],
+          [
+            -0.2625227,
+            5.5804328
+          ],
+          [
+            -0.2627091,
+            5.580412
+          ],
+          [
+            -0.262883,
+            5.5803776
+          ],
+          [
+            -0.2632325,
+            5.5802736
+          ],
+          [
+            -0.2632803,
+            5.5804032
+          ],
+          [
+            -0.2633173,
+            5.5805036
+          ],
+          [
+            -0.2633677,
+            5.5806533
+          ],
+          [
+            -0.2634563,
+            5.5809168
+          ],
+          [
+            -0.2636471,
+            5.5809538
+          ],
+          [
+            -0.2638026,
+            5.5810639
+          ],
+          [
+            -0.2638583,
+            5.581196
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 228 : Odorkor → Accra CMB",
+        "attributes": {
+          "operator": "Accra CMB Branch No. 2 of GPRTU",
+          "to": "Accra CMB",
+          "from": "Odorkor",
+          "ref": "228",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2426319,
+          5.5695562
+        ]
+      },
+      "properties": {
+        "name": "First Light",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2349515,
+          5.5645675
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2317319,
+          5.5626433
+        ]
+      },
+      "properties": {
+        "name": "Pamprom",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2354851,
+          5.5648934
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Second Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2373694,
+          5.566022
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie First Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2429732,
+          5.5692626
+        ]
+      },
+      "properties": {
+        "name": "First Light",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2455052,
+          5.5707697
+        ]
+      },
+      "properties": {
+        "name": "Accra Academy",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2475403,
+          5.5719739
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Quarters",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2511787,
+          5.5741643
+        ]
+      },
+      "properties": {
+        "name": "Atico",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2274073,
+          5.5602898
+        ]
+      },
+      "properties": {
+        "name": "Mtn office / Kaneshie Roundabout",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2279677,
+          5.5604129
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Roundabout",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2359506,
+          5.5651668
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Foot Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2197027,
+          5.5555071
+        ]
+      },
+      "properties": {
+        "name": "Graphic",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.235801,
+          5.5653237
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Foot Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2325967,
+          5.5633981
+        ]
+      },
+      "properties": {
+        "name": "Pamprom",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2219632,
+          5.5570165
+        ]
+      },
+      "properties": {
+        "name": "Fata",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2187955,
+          5.5555348
+        ]
+      },
+      "properties": {
+        "name": "Graphic",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2146609,
+          5.5526127
+        ]
+      },
+      "properties": {
+        "name": "Gate",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2222051,
+          5.5569473
+        ]
+      },
+      "properties": {
+        "name": "Cold store",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2130633,
+          5.5506809
+        ]
+      },
+      "properties": {
+        "name": "Accra CMB",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2130633,
+          5.5506809
+        ]
+      },
+      "properties": {
+        "name": "Accra CMB",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2544491,
+          5.5761129
+        ]
+      },
+      "properties": {
+        "name": "Darkuman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2147169,
+          5.5542539
+        ]
+      },
+      "properties": {
+        "name": "First Gate",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2597268,
+          5.5798092
+        ]
+      },
+      "properties": {
+        "name": "Waterworks junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2574568,
+          5.5784262
+        ]
+      },
+      "properties": {
+        "name": "Glory Land junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2550811,
+          5.5770094
+        ]
+      },
+      "properties": {
+        "name": "Darkuman junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2490946,
+          5.5733854
+        ]
+      },
+      "properties": {
+        "name": "Goil",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2454645,
+          5.5711838
+        ]
+      },
+      "properties": {
+        "name": "Accra Academy",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2142871,
+          5.5541473
+        ]
+      },
+      "properties": {
+        "name": "Graphic junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2521162,
+          5.5752116
+        ]
+      },
+      "properties": {
+        "name": "Dansoman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2477455,
+          5.5725993
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Quarters",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2380144,
+          5.566669
+        ]
+      },
+      "properties": {
+        "name": "Mallam Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2342995,
+          5.5644409
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2146793,
+          5.5530563
+        ]
+      },
+      "properties": {
+        "name": "Maingate",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2525564,
+          5.5749979
+        ]
+      },
+      "properties": {
+        "name": "Dansoman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2639052,
+          5.5811887
+        ]
+      },
+      "properties": {
+        "name": "Odorkor",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2639052,
+          5.5811887
+        ]
+      },
+      "properties": {
+        "name": "Odorkor",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2244496,
+          5.5585234
+        ]
+      },
+      "properties": {
+        "name": "Rana motors",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

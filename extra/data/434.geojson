@@ -1,0 +1,1413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2638583,
+            5.581196
+          ],
+          [
+            -0.263869,
+            5.5812841
+          ],
+          [
+            -0.2638434,
+            5.5815836
+          ],
+          [
+            -0.2647758,
+            5.5817503
+          ],
+          [
+            -0.2651251,
+            5.5818277
+          ],
+          [
+            -0.2654276,
+            5.5819117
+          ],
+          [
+            -0.2656767,
+            5.5819776
+          ],
+          [
+            -0.2657363,
+            5.5819934
+          ],
+          [
+            -0.2671475,
+            5.5823482
+          ],
+          [
+            -0.2671789,
+            5.5823531
+          ],
+          [
+            -0.2676981,
+            5.582483
+          ],
+          [
+            -0.2680964,
+            5.5825871
+          ],
+          [
+            -0.2692906,
+            5.5828658
+          ],
+          [
+            -0.2698337,
+            5.5829889
+          ],
+          [
+            -0.2704191,
+            5.5831196
+          ],
+          [
+            -0.2707811,
+            5.5832152
+          ],
+          [
+            -0.2709703,
+            5.5832651
+          ],
+          [
+            -0.2715208,
+            5.5834173
+          ],
+          [
+            -0.2718678,
+            5.5834991
+          ],
+          [
+            -0.2721042,
+            5.5835548
+          ],
+          [
+            -0.2726809,
+            5.583675
+          ],
+          [
+            -0.2731585,
+            5.5837727
+          ],
+          [
+            -0.2732763,
+            5.5838511
+          ],
+          [
+            -0.2733784,
+            5.583903
+          ],
+          [
+            -0.2736372,
+            5.5840485
+          ],
+          [
+            -0.2739319,
+            5.5842191
+          ],
+          [
+            -0.2740833,
+            5.5843067
+          ],
+          [
+            -0.2743633,
+            5.5844687
+          ],
+          [
+            -0.2769792,
+            5.5858851
+          ],
+          [
+            -0.2771234,
+            5.5859613
+          ],
+          [
+            -0.2772982,
+            5.5861417
+          ],
+          [
+            -0.2774768,
+            5.5862361
+          ],
+          [
+            -0.2786826,
+            5.5868889
+          ],
+          [
+            -0.278931,
+            5.5870414
+          ],
+          [
+            -0.2804457,
+            5.5879709
+          ],
+          [
+            -0.2815622,
+            5.5886021
+          ],
+          [
+            -0.2824853,
+            5.5891514
+          ],
+          [
+            -0.2839902,
+            5.5899942
+          ],
+          [
+            -0.2845946,
+            5.590372
+          ],
+          [
+            -0.2865448,
+            5.591509
+          ],
+          [
+            -0.2872636,
+            5.5919193
+          ],
+          [
+            -0.2875291,
+            5.5920709
+          ],
+          [
+            -0.2878355,
+            5.5922771
+          ],
+          [
+            -0.288,
+            5.5924241
+          ],
+          [
+            -0.2881456,
+            5.5925785
+          ],
+          [
+            -0.2883079,
+            5.5928477
+          ],
+          [
+            -0.2884316,
+            5.5930838
+          ],
+          [
+            -0.2887027,
+            5.5937722
+          ],
+          [
+            -0.2889552,
+            5.5944523
+          ],
+          [
+            -0.2902369,
+            5.597911
+          ],
+          [
+            -0.2903103,
+            5.5980997
+          ],
+          [
+            -0.2906133,
+            5.5988363
+          ],
+          [
+            -0.2908231,
+            5.5993137
+          ],
+          [
+            -0.2910716,
+            5.5997735
+          ],
+          [
+            -0.2912086,
+            5.5999756
+          ],
+          [
+            -0.2934063,
+            5.6033978
+          ],
+          [
+            -0.2946382,
+            5.6051998
+          ],
+          [
+            -0.296433,
+            5.6077218
+          ],
+          [
+            -0.2964933,
+            5.6078035
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 434 : Odorkor → Anyah",
+        "attributes": {
+          "operator": "Odorkor Branch Of GPRTU",
+          "to": "Anyah",
+          "from": "Odorkor",
+          "ref": "434",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2638583,
+            5.581196
+          ],
+          [
+            -0.2638026,
+            5.5810639
+          ],
+          [
+            -0.2636471,
+            5.5809538
+          ],
+          [
+            -0.2634563,
+            5.5809168
+          ],
+          [
+            -0.2633677,
+            5.5806533
+          ],
+          [
+            -0.2633173,
+            5.5805036
+          ],
+          [
+            -0.2632803,
+            5.5804032
+          ],
+          [
+            -0.2632325,
+            5.5802736
+          ],
+          [
+            -0.2642722,
+            5.5799871
+          ],
+          [
+            -0.2653052,
+            5.5796858
+          ],
+          [
+            -0.2653929,
+            5.5796602
+          ],
+          [
+            -0.2655263,
+            5.5796229
+          ],
+          [
+            -0.2657158,
+            5.5795699
+          ],
+          [
+            -0.267633,
+            5.5790296
+          ],
+          [
+            -0.2703513,
+            5.5782252
+          ],
+          [
+            -0.2706112,
+            5.5781347
+          ],
+          [
+            -0.2711754,
+            5.5779387
+          ],
+          [
+            -0.2714537,
+            5.5778373
+          ],
+          [
+            -0.2718781,
+            5.5776574
+          ],
+          [
+            -0.2725343,
+            5.577329
+          ],
+          [
+            -0.2746916,
+            5.5760624
+          ],
+          [
+            -0.27488,
+            5.5759629
+          ],
+          [
+            -0.2772597,
+            5.5745799
+          ],
+          [
+            -0.2791027,
+            5.5735149
+          ],
+          [
+            -0.2798375,
+            5.5729045
+          ],
+          [
+            -0.2804053,
+            5.5725811
+          ],
+          [
+            -0.2808822,
+            5.5723688
+          ],
+          [
+            -0.2811552,
+            5.5721965
+          ],
+          [
+            -0.2813532,
+            5.572026
+          ],
+          [
+            -0.2814864,
+            5.5718442
+          ],
+          [
+            -0.2816158,
+            5.5716323
+          ],
+          [
+            -0.2816869,
+            5.5714369
+          ],
+          [
+            -0.2817413,
+            5.5712307
+          ],
+          [
+            -0.2817929,
+            5.5710111
+          ],
+          [
+            -0.2818425,
+            5.5707682
+          ],
+          [
+            -0.2819582,
+            5.5703219
+          ],
+          [
+            -0.2820151,
+            5.5701704
+          ],
+          [
+            -0.2820743,
+            5.5700379
+          ],
+          [
+            -0.2821807,
+            5.5698973
+          ],
+          [
+            -0.2823028,
+            5.5697909
+          ],
+          [
+            -0.282425,
+            5.5697286
+          ],
+          [
+            -0.2825823,
+            5.569683
+          ],
+          [
+            -0.2827151,
+            5.5696693
+          ],
+          [
+            -0.282851,
+            5.5696724
+          ],
+          [
+            -0.2830236,
+            5.5697195
+          ],
+          [
+            -0.2831488,
+            5.5697863
+          ],
+          [
+            -0.2832587,
+            5.5698684
+          ],
+          [
+            -0.2833732,
+            5.5699717
+          ],
+          [
+            -0.2834755,
+            5.5701131
+          ],
+          [
+            -0.2837382,
+            5.5705751
+          ],
+          [
+            -0.2839977,
+            5.5710356
+          ],
+          [
+            -0.2840833,
+            5.5712149
+          ],
+          [
+            -0.2841459,
+            5.5714216
+          ],
+          [
+            -0.2841672,
+            5.5716374
+          ],
+          [
+            -0.2841627,
+            5.5718456
+          ],
+          [
+            -0.2841447,
+            5.572044
+          ],
+          [
+            -0.2840764,
+            5.5722266
+          ],
+          [
+            -0.2839768,
+            5.5723561
+          ],
+          [
+            -0.2838877,
+            5.5725013
+          ],
+          [
+            -0.283808,
+            5.5726122
+          ],
+          [
+            -0.2836203,
+            5.5728745
+          ],
+          [
+            -0.2831251,
+            5.5735674
+          ],
+          [
+            -0.2825803,
+            5.5743408
+          ],
+          [
+            -0.2818546,
+            5.5752391
+          ],
+          [
+            -0.2811419,
+            5.5760429
+          ],
+          [
+            -0.2807946,
+            5.5764446
+          ],
+          [
+            -0.2805948,
+            5.5766715
+          ],
+          [
+            -0.2804578,
+            5.5768607
+          ],
+          [
+            -0.2799135,
+            5.5774564
+          ],
+          [
+            -0.2793885,
+            5.5780666
+          ],
+          [
+            -0.2786389,
+            5.5789213
+          ],
+          [
+            -0.2785764,
+            5.5789927
+          ],
+          [
+            -0.2777842,
+            5.5799061
+          ],
+          [
+            -0.2774351,
+            5.5802922
+          ],
+          [
+            -0.2767053,
+            5.5811609
+          ],
+          [
+            -0.274472,
+            5.5838193
+          ],
+          [
+            -0.274435,
+            5.5839626
+          ],
+          [
+            -0.2744224,
+            5.5841013
+          ],
+          [
+            -0.2744726,
+            5.5841812
+          ],
+          [
+            -0.2745382,
+            5.5842536
+          ],
+          [
+            -0.2749086,
+            5.5844783
+          ],
+          [
+            -0.2752288,
+            5.5846479
+          ],
+          [
+            -0.2772297,
+            5.5857076
+          ],
+          [
+            -0.2790511,
+            5.5867558
+          ],
+          [
+            -0.2795948,
+            5.5870718
+          ],
+          [
+            -0.2801944,
+            5.5874235
+          ],
+          [
+            -0.2807614,
+            5.5877369
+          ],
+          [
+            -0.2814647,
+            5.5881444
+          ],
+          [
+            -0.2822239,
+            5.5885841
+          ],
+          [
+            -0.284328,
+            5.5898228
+          ],
+          [
+            -0.285042,
+            5.5902495
+          ],
+          [
+            -0.2856885,
+            5.5906461
+          ],
+          [
+            -0.2858935,
+            5.5907611
+          ],
+          [
+            -0.2873787,
+            5.5916185
+          ],
+          [
+            -0.2878824,
+            5.5919093
+          ],
+          [
+            -0.2882323,
+            5.5921903
+          ],
+          [
+            -0.2884267,
+            5.5924106
+          ],
+          [
+            -0.2886276,
+            5.5927356
+          ],
+          [
+            -0.2890001,
+            5.5936042
+          ],
+          [
+            -0.2890735,
+            5.5938036
+          ],
+          [
+            -0.2891234,
+            5.5939394
+          ],
+          [
+            -0.2891584,
+            5.5940345
+          ],
+          [
+            -0.2895962,
+            5.595225
+          ],
+          [
+            -0.2899351,
+            5.5961695
+          ],
+          [
+            -0.290306,
+            5.5971358
+          ],
+          [
+            -0.2905663,
+            5.597855
+          ],
+          [
+            -0.2907881,
+            5.5984521
+          ],
+          [
+            -0.2908836,
+            5.5986933
+          ],
+          [
+            -0.2910701,
+            5.5990898
+          ],
+          [
+            -0.291245,
+            5.5994092
+          ],
+          [
+            -0.2913536,
+            5.5995797
+          ],
+          [
+            -0.2917941,
+            5.6002836
+          ],
+          [
+            -0.292305,
+            5.6010785
+          ],
+          [
+            -0.2928709,
+            5.6019666
+          ],
+          [
+            -0.2934478,
+            5.6028193
+          ],
+          [
+            -0.2939424,
+            5.603615
+          ],
+          [
+            -0.2945077,
+            5.6043834
+          ],
+          [
+            -0.295875,
+            5.6063146
+          ],
+          [
+            -0.2963796,
+            5.6070425
+          ],
+          [
+            -0.2966175,
+            5.6073807
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 434 : Anyah → Odorkor",
+        "attributes": {
+          "operator": "Odorkor Branch Of GPRTU",
+          "to": "Odorkor",
+          "from": "Anyah",
+          "ref": "434",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2648468,
+          5.5796764
+        ]
+      },
+      "properties": {
+        "name": "Odorkor",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2638295,
+          5.5812053
+        ]
+      },
+      "properties": {
+        "name": "Odorkor",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2638295,
+          5.5812053
+        ]
+      },
+      "properties": {
+        "name": "Odorkor",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2779412,
+          5.5798023
+        ]
+      },
+      "properties": {
+        "name": "Water Works",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2679084,
+          5.5789059
+        ]
+      },
+      "properties": {
+        "name": "Busia Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2742332,
+          5.5762799
+        ]
+      },
+      "properties": {
+        "name": "Sakaman",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2872307,
+          5.5919397
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Last stop",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2874057,
+          5.5915677
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Last stop",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2803866,
+          5.5725434
+        ]
+      },
+      "properties": {
+        "name": "Mallam Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2788954,
+          5.5870425
+        ]
+      },
+      "properties": {
+        "name": "Awoshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2794811,
+          5.5869789
+        ]
+      },
+      "properties": {
+        "name": "Awoshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2930233,
+          5.6028846
+        ]
+      },
+      "properties": {
+        "name": "Anyaa School Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2906915,
+          5.5991156
+        ]
+      },
+      "properties": {
+        "name": "Anyaa Market (Awoshie)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2865352,
+          5.5915481
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Onyinase",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.281869,
+          5.588814
+        ]
+      },
+      "properties": {
+        "name": "Abrantie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2778301,
+          5.5864521
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Amangoase",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2743695,
+          5.5844992
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Vineyard",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2748911,
+          5.5833641
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Vineyard",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.277084,
+          5.5855914
+        ]
+      },
+      "properties": {
+        "name": "Mallam",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2911004,
+          5.5990706
+        ]
+      },
+      "properties": {
+        "name": "Anyaa Market (Awoshie)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2958537,
+          5.6062098
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.296444,
+          5.6078144
+        ]
+      },
+      "properties": {
+        "name": "Anyaa last stop",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2951326,
+          5.6059551
+        ]
+      },
+      "properties": {
+        "name": "Academy",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2945155,
+          5.6050824
+        ]
+      },
+      "properties": {
+        "name": "Anyaa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2896446,
+          5.596397
+        ]
+      },
+      "properties": {
+        "name": "Nii Bortey",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2885705,
+          5.5935559
+        ]
+      },
+      "properties": {
+        "name": "Calvary",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2781256,
+          5.5861833
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Amangoase",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2769539,
+          5.57471
+        ]
+      },
+      "properties": {
+        "name": "Chabaar",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2769539,
+          5.57471
+        ]
+      },
+      "properties": {
+        "name": "Chabaar",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2751275,
+          5.5845542
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Vineyard",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2824024,
+          5.5886559
+        ]
+      },
+      "properties": {
+        "name": "Abrantie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2851295,
+          5.5902859
+        ]
+      },
+      "properties": {
+        "name": "Awoshie Onyinase",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2895633,
+          5.595059
+        ]
+      },
+      "properties": {
+        "name": "Calvary",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2903817,
+          5.5972881
+        ]
+      },
+      "properties": {
+        "name": "Nii Bortey",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2699562,
+          5.5783095
+        ]
+      },
+      "properties": {
+        "name": "Tipper",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2837014,
+          5.5898741
+        ]
+      },
+      "properties": {
+        "name": "Odogorno",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2932405,
+          5.6023961
+        ]
+      },
+      "properties": {
+        "name": "Anyaa School Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2638583,
+          5.581196
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2638583,
+          5.581196
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2964933,
+          5.6078035
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2966175,
+          5.6073807
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2714245,
+            5.6141321
+          ],
+          [
+            -0.2712988,
+            5.6140973
+          ],
+          [
+            -0.2706398,
+            5.6138959
+          ],
+          [
+            -0.2702453,
+            5.613712
+          ],
+          [
+            -0.2700102,
+            5.6135509
+          ],
+          [
+            -0.2697309,
+            5.6133436
+          ],
+          [
+            -0.26949,
+            5.6131271
+          ],
+          [
+            -0.2692942,
+            5.6129723
+          ],
+          [
+            -0.2692554,
+            5.6129549
+          ],
+          [
+            -0.2692245,
+            5.6129536
+          ],
+          [
+            -0.2689898,
+            5.6126827
+          ],
+          [
+            -0.2685339,
+            5.6122611
+          ],
+          [
+            -0.2684755,
+            5.6122059
+          ],
+          [
+            -0.2680288,
+            5.6117829
+          ],
+          [
+            -0.2679596,
+            5.6118255
+          ],
+          [
+            -0.2675408,
+            5.6122487
+          ],
+          [
+            -0.2672668,
+            5.6119861
+          ],
+          [
+            -0.266983,
+            5.6117086
+          ],
+          [
+            -0.2666997,
+            5.6114865
+          ],
+          [
+            -0.2664746,
+            5.611376
+          ],
+          [
+            -0.2663445,
+            5.6113306
+          ],
+          [
+            -0.2661581,
+            5.6113039
+          ],
+          [
+            -0.2660468,
+            5.6112892
+          ],
+          [
+            -0.2659542,
+            5.6112666
+          ],
+          [
+            -0.265914,
+            5.6112385
+          ],
+          [
+            -0.2658563,
+            5.6111798
+          ],
+          [
+            -0.2656283,
+            5.6106312
+          ],
+          [
+            -0.2655586,
+            5.6105178
+          ],
+          [
+            -0.2654822,
+            5.610423
+          ],
+          [
+            -0.2652429,
+            5.6102068
+          ],
+          [
+            -0.2646742,
+            5.6096769
+          ],
+          [
+            -0.2641236,
+            5.6091591
+          ],
+          [
+            -0.2640083,
+            5.609055
+          ],
+          [
+            -0.2632076,
+            5.6082809
+          ],
+          [
+            -0.2625371,
+            5.6076442
+          ],
+          [
+            -0.2623279,
+            5.6074921
+          ],
+          [
+            -0.2619879,
+            5.6072847
+          ],
+          [
+            -0.2616721,
+            5.607081
+          ],
+          [
+            -0.2614586,
+            5.6069265
+          ],
+          [
+            -0.2610535,
+            5.6066387
+          ],
+          [
+            -0.2607326,
+            5.606371
+          ],
+          [
+            -0.2602926,
+            5.6059818
+          ],
+          [
+            -0.2601759,
+            5.6059244
+          ],
+          [
+            -0.2599902,
+            5.6059017
+          ],
+          [
+            -0.2598901,
+            5.6060261
+          ],
+          [
+            -0.2597476,
+            5.6061889
+          ],
+          [
+            -0.2595414,
+            5.6064005
+          ],
+          [
+            -0.2593256,
+            5.6065608
+          ],
+          [
+            -0.2590582,
+            5.6067541
+          ],
+          [
+            -0.2587975,
+            5.6069972
+          ],
+          [
+            -0.2583384,
+            5.6074522
+          ],
+          [
+            -0.2579233,
+            5.6077919
+          ],
+          [
+            -0.2575083,
+            5.6075913
+          ],
+          [
+            -0.2572143,
+            5.6074632
+          ],
+          [
+            -0.2570798,
+            5.6074046
+          ],
+          [
+            -0.2560784,
+            5.6071097
+          ],
+          [
+            -0.2557548,
+            5.6070024
+          ],
+          [
+            -0.2554551,
+            5.6068946
+          ],
+          [
+            -0.2550007,
+            5.6065824
+          ],
+          [
+            -0.2546779,
+            5.6072347
+          ],
+          [
+            -0.2544058,
+            5.607836
+          ],
+          [
+            -0.2542094,
+            5.6083302
+          ],
+          [
+            -0.2540833,
+            5.6087689
+          ],
+          [
+            -0.2538854,
+            5.6095532
+          ],
+          [
+            -0.2537633,
+            5.6098804
+          ],
+          [
+            -0.253715,
+            5.6099547
+          ],
+          [
+            -0.2536607,
+            5.6099938
+          ],
+          [
+            -0.2534769,
+            5.609972
+          ],
+          [
+            -0.2529962,
+            5.6098887
+          ],
+          [
+            -0.2527246,
+            5.6098404
+          ],
+          [
+            -0.2521426,
+            5.609737
+          ],
+          [
+            -0.2515479,
+            5.6096314
+          ],
+          [
+            -0.251292,
+            5.6095918
+          ],
+          [
+            -0.2507127,
+            5.6095021
+          ],
+          [
+            -0.2508181,
+            5.608815
+          ],
+          [
+            -0.2508614,
+            5.6086344
+          ],
+          [
+            -0.250285,
+            5.6085357
+          ],
+          [
+            -0.2497357,
+            5.608535
+          ],
+          [
+            -0.2497325,
+            5.6084576
+          ],
+          [
+            -0.2497395,
+            5.6082211
+          ],
+          [
+            -0.2497497,
+            5.6068688
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 343 : Race Course → Abeka Lapaz",
+        "attributes": {
+          "operator": "Grace PROTOA Lapaz Taxi",
+          "to": "Abeka Lapaz",
+          "from": "Race Course",
+          "ref": "343",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.249778,
+          5.6080792
+        ]
+      },
+      "properties": {
+        "name": "Lapaz Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2508921,
+          5.6094963
+        ]
+      },
+      "properties": {
+        "name": "Lapaz Last stop",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2571886,
+          5.6074265
+        ]
+      },
+      "properties": {
+        "name": "Lapaz Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2604171,
+          5.6060498
+        ]
+      },
+      "properties": {
+        "name": "Tabora Number2",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.260941,
+          5.606501
+        ]
+      },
+      "properties": {
+        "name": "Ahenfie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2623911,
+          5.6074933
+        ]
+      },
+      "properties": {
+        "name": "Race Course Blue Gate",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2632488,
+          5.6082761
+        ]
+      },
+      "properties": {
+        "name": "School Junction Race Course",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2640514,
+          5.6090589
+        ]
+      },
+      "properties": {
+        "name": "Container Race Course",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2653242,
+          5.6102493
+        ]
+      },
+      "properties": {
+        "name": "Attah Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2661016,
+          5.6112754
+        ]
+      },
+      "properties": {
+        "name": "Rasta Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.267781,
+          5.6119558
+        ]
+      },
+      "properties": {
+        "name": "Gyedu Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2714308,
+          5.6141046
+        ]
+      },
+      "properties": {
+        "name": "Race Course",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2497374,
+          5.6068813
+        ]
+      },
+      "properties": {
+        "name": "Abeka Lapaz",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2540407,
+          5.6088407
+        ]
+      },
+      "properties": {
+        "name": "Lapaz Community Hospital",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2526918,
+          5.6098074
+        ]
+      },
+      "properties": {
+        "name": "Lapaz Masalaashie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2549116,
+          5.6066991
+        ]
+      },
+      "properties": {
+        "name": "Abrantie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

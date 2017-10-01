@@ -1,0 +1,2173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.195899,
+            5.6164821
+          ],
+          [
+            -0.1959673,
+            5.616418
+          ],
+          [
+            -0.1961967,
+            5.6163099
+          ],
+          [
+            -0.1964421,
+            5.6161497
+          ],
+          [
+            -0.1966553,
+            5.6159829
+          ],
+          [
+            -0.1968096,
+            5.6158561
+          ],
+          [
+            -0.1960576,
+            5.6147716
+          ],
+          [
+            -0.1956167,
+            5.6141196
+          ],
+          [
+            -0.1967647,
+            5.6131658
+          ],
+          [
+            -0.1972356,
+            5.6127557
+          ],
+          [
+            -0.1978406,
+            5.6122066
+          ],
+          [
+            -0.1982003,
+            5.611878
+          ],
+          [
+            -0.1985785,
+            5.611535
+          ],
+          [
+            -0.1987273,
+            5.6114015
+          ],
+          [
+            -0.1988115,
+            5.6113376
+          ],
+          [
+            -0.198895,
+            5.6114362
+          ],
+          [
+            -0.1992413,
+            5.6118893
+          ],
+          [
+            -0.2001208,
+            5.6111191
+          ],
+          [
+            -0.2005351,
+            5.6115497
+          ],
+          [
+            -0.200926,
+            5.6119614
+          ],
+          [
+            -0.2012797,
+            5.6123334
+          ],
+          [
+            -0.2019283,
+            5.6130308
+          ],
+          [
+            -0.2023483,
+            5.6126321
+          ],
+          [
+            -0.2027818,
+            5.6121935
+          ],
+          [
+            -0.2034777,
+            5.6115247
+          ],
+          [
+            -0.2037352,
+            5.6112784
+          ],
+          [
+            -0.2039615,
+            5.6110795
+          ],
+          [
+            -0.2042834,
+            5.6107689
+          ],
+          [
+            -0.2047198,
+            5.6103506
+          ],
+          [
+            -0.204913,
+            5.6101573
+          ],
+          [
+            -0.2054395,
+            5.6096491
+          ],
+          [
+            -0.2059183,
+            5.6091919
+          ],
+          [
+            -0.2062402,
+            5.6088817
+          ],
+          [
+            -0.206567,
+            5.6085334
+          ],
+          [
+            -0.2067861,
+            5.6083196
+          ],
+          [
+            -0.2070473,
+            5.608054
+          ],
+          [
+            -0.2072836,
+            5.6078126
+          ],
+          [
+            -0.2073546,
+            5.6077219
+          ],
+          [
+            -0.2073629,
+            5.6076661
+          ],
+          [
+            -0.2073629,
+            5.6076034
+          ],
+          [
+            -0.2073388,
+            5.6075306
+          ],
+          [
+            -0.2072952,
+            5.6074793
+          ],
+          [
+            -0.207246,
+            5.6074232
+          ],
+          [
+            -0.2068739,
+            5.6071799
+          ],
+          [
+            -0.2062966,
+            5.6068011
+          ],
+          [
+            -0.2061168,
+            5.6066815
+          ],
+          [
+            -0.2043603,
+            5.6055425
+          ],
+          [
+            -0.2042729,
+            5.6054836
+          ],
+          [
+            -0.2035278,
+            5.6050017
+          ],
+          [
+            -0.2028124,
+            5.6045315
+          ],
+          [
+            -0.2012452,
+            5.6035095
+          ],
+          [
+            -0.1996488,
+            5.6024668
+          ],
+          [
+            -0.1978759,
+            5.6013282
+          ],
+          [
+            -0.1975326,
+            5.601076
+          ],
+          [
+            -0.1971074,
+            5.6008077
+          ],
+          [
+            -0.1966857,
+            5.6005908
+          ],
+          [
+            -0.1966098,
+            5.6005371
+          ],
+          [
+            -0.1965803,
+            5.6004814
+          ],
+          [
+            -0.1965735,
+            5.6004188
+          ],
+          [
+            -0.1965903,
+            5.6003581
+          ],
+          [
+            -0.1966283,
+            5.600308
+          ],
+          [
+            -0.1966821,
+            5.6002752
+          ],
+          [
+            -0.1967442,
+            5.6002644
+          ],
+          [
+            -0.196806,
+            5.6002771
+          ],
+          [
+            -0.1968728,
+            5.6002111
+          ],
+          [
+            -0.1970985,
+            5.5998894
+          ],
+          [
+            -0.1972347,
+            5.5998012
+          ],
+          [
+            -0.1972645,
+            5.5997554
+          ],
+          [
+            -0.1978311,
+            5.5988985
+          ],
+          [
+            -0.1980594,
+            5.5985524
+          ],
+          [
+            -0.1983056,
+            5.5981743
+          ],
+          [
+            -0.1983381,
+            5.5981247
+          ],
+          [
+            -0.1984046,
+            5.5980231
+          ],
+          [
+            -0.1987823,
+            5.5974647
+          ],
+          [
+            -0.1988376,
+            5.5973823
+          ],
+          [
+            -0.1991458,
+            5.5969234
+          ],
+          [
+            -0.1992664,
+            5.5967412
+          ],
+          [
+            -0.1993935,
+            5.5965893
+          ],
+          [
+            -0.1994984,
+            5.5964997
+          ],
+          [
+            -0.1996153,
+            5.596422
+          ],
+          [
+            -0.2004025,
+            5.5960236
+          ],
+          [
+            -0.2007598,
+            5.5958532
+          ],
+          [
+            -0.2013226,
+            5.5955557
+          ],
+          [
+            -0.2015814,
+            5.5953506
+          ],
+          [
+            -0.202047,
+            5.5948468
+          ],
+          [
+            -0.2024395,
+            5.5944215
+          ],
+          [
+            -0.2027935,
+            5.5940021
+          ],
+          [
+            -0.2035245,
+            5.5931427
+          ],
+          [
+            -0.2037128,
+            5.5929461
+          ],
+          [
+            -0.204541,
+            5.592036
+          ],
+          [
+            -0.2046389,
+            5.591952
+          ],
+          [
+            -0.204725,
+            5.5919272
+          ],
+          [
+            -0.2048012,
+            5.5919733
+          ],
+          [
+            -0.2052037,
+            5.5923076
+          ],
+          [
+            -0.2061737,
+            5.591228
+          ],
+          [
+            -0.2062524,
+            5.591139
+          ],
+          [
+            -0.2066526,
+            5.5906863
+          ],
+          [
+            -0.2070683,
+            5.5901939
+          ],
+          [
+            -0.2071721,
+            5.5899665
+          ],
+          [
+            -0.2072167,
+            5.589847
+          ],
+          [
+            -0.2072561,
+            5.5896586
+          ],
+          [
+            -0.2072963,
+            5.5894383
+          ],
+          [
+            -0.2073546,
+            5.5890027
+          ],
+          [
+            -0.2074525,
+            5.5883114
+          ],
+          [
+            -0.2074977,
+            5.5879864
+          ],
+          [
+            -0.2075322,
+            5.5877384
+          ],
+          [
+            -0.2075645,
+            5.5875056
+          ],
+          [
+            -0.2076363,
+            5.5870031
+          ],
+          [
+            -0.2076858,
+            5.5867522
+          ],
+          [
+            -0.2077468,
+            5.5864427
+          ],
+          [
+            -0.2078471,
+            5.585934
+          ],
+          [
+            -0.2079556,
+            5.5853571
+          ],
+          [
+            -0.2080815,
+            5.5847548
+          ],
+          [
+            -0.2081947,
+            5.584171
+          ],
+          [
+            -0.2083287,
+            5.5834914
+          ],
+          [
+            -0.2084034,
+            5.583056
+          ],
+          [
+            -0.2084615,
+            5.5827191
+          ],
+          [
+            -0.2084818,
+            5.5826011
+          ],
+          [
+            -0.2085179,
+            5.5824403
+          ],
+          [
+            -0.2085737,
+            5.5823018
+          ],
+          [
+            -0.2086544,
+            5.5821426
+          ],
+          [
+            -0.2090217,
+            5.5816425
+          ],
+          [
+            -0.2090461,
+            5.5816093
+          ],
+          [
+            -0.2093408,
+            5.58121
+          ],
+          [
+            -0.2096188,
+            5.5808295
+          ],
+          [
+            -0.2098124,
+            5.5805924
+          ],
+          [
+            -0.2103201,
+            5.57988
+          ],
+          [
+            -0.2107265,
+            5.579348
+          ],
+          [
+            -0.2111303,
+            5.5788225
+          ],
+          [
+            -0.2114597,
+            5.5783721
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 298 : Kokomlemle → Dzorwulu",
+        "attributes": {
+          "operator": "Kokomlemle - Pig Farm - Dzorwulu - Abelemkpe Local of Pig Farm Branch.",
+          "to": "Dzorwulu",
+          "from": "Kokomlemle",
+          "ref": "298",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.195899,
+            5.6164821
+          ],
+          [
+            -0.1959673,
+            5.616418
+          ],
+          [
+            -0.1961967,
+            5.6163099
+          ],
+          [
+            -0.1964421,
+            5.6161497
+          ],
+          [
+            -0.1966553,
+            5.6159829
+          ],
+          [
+            -0.1968096,
+            5.6158561
+          ],
+          [
+            -0.1960576,
+            5.6147716
+          ],
+          [
+            -0.1956167,
+            5.6141196
+          ],
+          [
+            -0.1967647,
+            5.6131658
+          ],
+          [
+            -0.1972356,
+            5.6127557
+          ],
+          [
+            -0.1978406,
+            5.6122066
+          ],
+          [
+            -0.1982003,
+            5.611878
+          ],
+          [
+            -0.1985785,
+            5.611535
+          ],
+          [
+            -0.1987273,
+            5.6114015
+          ],
+          [
+            -0.1988115,
+            5.6113376
+          ],
+          [
+            -0.198895,
+            5.6114362
+          ],
+          [
+            -0.1992413,
+            5.6118893
+          ],
+          [
+            -0.2001208,
+            5.6111191
+          ],
+          [
+            -0.2005351,
+            5.6115497
+          ],
+          [
+            -0.200926,
+            5.6119614
+          ],
+          [
+            -0.2012797,
+            5.6123334
+          ],
+          [
+            -0.2019283,
+            5.6130308
+          ],
+          [
+            -0.2023483,
+            5.6126321
+          ],
+          [
+            -0.2027818,
+            5.6121935
+          ],
+          [
+            -0.2034777,
+            5.6115247
+          ],
+          [
+            -0.2037352,
+            5.6112784
+          ],
+          [
+            -0.2039615,
+            5.6110795
+          ],
+          [
+            -0.2042834,
+            5.6107689
+          ],
+          [
+            -0.2047198,
+            5.6103506
+          ],
+          [
+            -0.204913,
+            5.6101573
+          ],
+          [
+            -0.2054395,
+            5.6096491
+          ],
+          [
+            -0.2059183,
+            5.6091919
+          ],
+          [
+            -0.2062402,
+            5.6088817
+          ],
+          [
+            -0.206567,
+            5.6085334
+          ],
+          [
+            -0.2067861,
+            5.6083196
+          ],
+          [
+            -0.2070473,
+            5.608054
+          ],
+          [
+            -0.2072836,
+            5.6078126
+          ],
+          [
+            -0.2073546,
+            5.6077219
+          ],
+          [
+            -0.2074726,
+            5.6075713
+          ],
+          [
+            -0.207532,
+            5.607483
+          ],
+          [
+            -0.2069664,
+            5.6071172
+          ],
+          [
+            -0.2064036,
+            5.6067504
+          ],
+          [
+            -0.2061766,
+            5.6065951
+          ],
+          [
+            -0.2044363,
+            5.6054664
+          ],
+          [
+            -0.2043483,
+            5.6054068
+          ],
+          [
+            -0.2043409,
+            5.6053594
+          ],
+          [
+            -0.2043458,
+            5.605302
+          ],
+          [
+            -0.2044239,
+            5.6052274
+          ],
+          [
+            -0.2046497,
+            5.6050101
+          ],
+          [
+            -0.2047382,
+            5.6049071
+          ],
+          [
+            -0.2048046,
+            5.6047901
+          ],
+          [
+            -0.2048474,
+            5.6045837
+          ],
+          [
+            -0.2048683,
+            5.6043398
+          ],
+          [
+            -0.2048729,
+            5.6041781
+          ],
+          [
+            -0.2048823,
+            5.6040863
+          ],
+          [
+            -0.2049154,
+            5.6040153
+          ],
+          [
+            -0.2049651,
+            5.6039544
+          ],
+          [
+            -0.2051783,
+            5.6038071
+          ],
+          [
+            -0.204784,
+            5.6031412
+          ],
+          [
+            -0.2043093,
+            5.6024562
+          ],
+          [
+            -0.2042446,
+            5.6023889
+          ],
+          [
+            -0.204177,
+            5.6023479
+          ],
+          [
+            -0.2041211,
+            5.6023421
+          ],
+          [
+            -0.2038815,
+            5.602362
+          ],
+          [
+            -0.203586,
+            5.602396
+          ],
+          [
+            -0.2034337,
+            5.6024035
+          ],
+          [
+            -0.2033316,
+            5.6023915
+          ],
+          [
+            -0.2031818,
+            5.6023137
+          ],
+          [
+            -0.2029248,
+            5.6021675
+          ],
+          [
+            -0.2023268,
+            5.6017726
+          ],
+          [
+            -0.2017067,
+            5.6013747
+          ],
+          [
+            -0.2015684,
+            5.6012552
+          ],
+          [
+            -0.2013045,
+            5.6010183
+          ],
+          [
+            -0.1995258,
+            5.5993702
+          ],
+          [
+            -0.1989228,
+            5.59885
+          ],
+          [
+            -0.1986354,
+            5.5985493
+          ],
+          [
+            -0.1984243,
+            5.5983093
+          ],
+          [
+            -0.1983056,
+            5.5981743
+          ],
+          [
+            -0.1983381,
+            5.5981247
+          ],
+          [
+            -0.1984046,
+            5.5980231
+          ],
+          [
+            -0.1987823,
+            5.5974647
+          ],
+          [
+            -0.1988376,
+            5.5973823
+          ],
+          [
+            -0.1991458,
+            5.5969234
+          ],
+          [
+            -0.1992664,
+            5.5967412
+          ],
+          [
+            -0.1993935,
+            5.5965893
+          ],
+          [
+            -0.1994984,
+            5.5964997
+          ],
+          [
+            -0.1996153,
+            5.596422
+          ],
+          [
+            -0.2004025,
+            5.5960236
+          ],
+          [
+            -0.2007598,
+            5.5958532
+          ],
+          [
+            -0.2013226,
+            5.5955557
+          ],
+          [
+            -0.2015814,
+            5.5953506
+          ],
+          [
+            -0.202047,
+            5.5948468
+          ],
+          [
+            -0.2024395,
+            5.5944215
+          ],
+          [
+            -0.2027935,
+            5.5940021
+          ],
+          [
+            -0.2035245,
+            5.5931427
+          ],
+          [
+            -0.2037128,
+            5.5929461
+          ],
+          [
+            -0.204541,
+            5.592036
+          ],
+          [
+            -0.2046389,
+            5.591952
+          ],
+          [
+            -0.204725,
+            5.5919272
+          ],
+          [
+            -0.2048012,
+            5.5919733
+          ],
+          [
+            -0.2052037,
+            5.5923076
+          ],
+          [
+            -0.2061737,
+            5.591228
+          ],
+          [
+            -0.2062524,
+            5.591139
+          ],
+          [
+            -0.2066526,
+            5.5906863
+          ],
+          [
+            -0.2070683,
+            5.5901939
+          ],
+          [
+            -0.2071721,
+            5.5899665
+          ],
+          [
+            -0.2072167,
+            5.589847
+          ],
+          [
+            -0.2072561,
+            5.5896586
+          ],
+          [
+            -0.2072963,
+            5.5894383
+          ],
+          [
+            -0.2073546,
+            5.5890027
+          ],
+          [
+            -0.2074525,
+            5.5883114
+          ],
+          [
+            -0.2074977,
+            5.5879864
+          ],
+          [
+            -0.2075322,
+            5.5877384
+          ],
+          [
+            -0.2075645,
+            5.5875056
+          ],
+          [
+            -0.2076363,
+            5.5870031
+          ],
+          [
+            -0.2076858,
+            5.5867522
+          ],
+          [
+            -0.2077468,
+            5.5864427
+          ],
+          [
+            -0.2078471,
+            5.585934
+          ],
+          [
+            -0.2079556,
+            5.5853571
+          ],
+          [
+            -0.2080815,
+            5.5847548
+          ],
+          [
+            -0.2081947,
+            5.584171
+          ],
+          [
+            -0.2083287,
+            5.5834914
+          ],
+          [
+            -0.2084034,
+            5.583056
+          ],
+          [
+            -0.2084615,
+            5.5827191
+          ],
+          [
+            -0.2084818,
+            5.5826011
+          ],
+          [
+            -0.2085179,
+            5.5824403
+          ],
+          [
+            -0.2085737,
+            5.5823018
+          ],
+          [
+            -0.2086544,
+            5.5821426
+          ],
+          [
+            -0.2090217,
+            5.5816425
+          ],
+          [
+            -0.2090461,
+            5.5816093
+          ],
+          [
+            -0.2093408,
+            5.58121
+          ],
+          [
+            -0.2096188,
+            5.5808295
+          ],
+          [
+            -0.2098124,
+            5.5805924
+          ],
+          [
+            -0.2103201,
+            5.57988
+          ],
+          [
+            -0.2107265,
+            5.579348
+          ],
+          [
+            -0.2111303,
+            5.5788225
+          ],
+          [
+            -0.2114597,
+            5.5783721
+          ],
+          [
+            -0.2115247,
+            5.5782832
+          ],
+          [
+            -0.211919,
+            5.5777493
+          ],
+          [
+            -0.2121317,
+            5.5774674
+          ],
+          [
+            -0.212327,
+            5.5772127
+          ],
+          [
+            -0.2127217,
+            5.5766804
+          ],
+          [
+            -0.2130156,
+            5.5762855
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 298 : Dzorwulu → Kokomlemle",
+        "attributes": {
+          "operator": "Kokomlemle - Pig Farm - Dzorwulu - Abelemkpe Local of Pig Farm Branch.",
+          "to": "Kokomlemle",
+          "from": "Dzorwulu",
+          "ref": "298",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2070102,
+          5.6073118
+        ]
+      },
+      "properties": {
+        "name": "Dzorwulu Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2036896,
+          5.6051616
+        ]
+      },
+      "properties": {
+        "name": "Ebony",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2003114,
+          5.6029353
+        ]
+      },
+      "properties": {
+        "name": "Roman Ridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2070947,
+          5.6071496
+        ]
+      },
+      "properties": {
+        "name": "Dzorwulu Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2084889,
+          5.5827214
+        ]
+      },
+      "properties": {
+        "name": "New Town",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2054596,
+          5.5919778
+        ]
+      },
+      "properties": {
+        "name": "Taxi Rank",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2064931,
+          5.5908254
+        ]
+      },
+      "properties": {
+        "name": "Nkansah Gyan",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2072405,
+          5.5896396
+        ]
+      },
+      "properties": {
+        "name": "Five Five",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2084037,
+          5.58326
+        ]
+      },
+      "properties": {
+        "name": "College",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2082377,
+          5.5840866
+        ]
+      },
+      "properties": {
+        "name": "Lapaz Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2079115,
+          5.5857666
+        ]
+      },
+      "properties": {
+        "name": "Newtown Total",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2077006,
+          5.5867746
+        ]
+      },
+      "properties": {
+        "name": "Accra New Town (37 Station)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2074913,
+          5.5882485
+        ]
+      },
+      "properties": {
+        "name": "Agbadinar",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2074167,
+          5.588822
+        ]
+      },
+      "properties": {
+        "name": "Master Chef",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2072625,
+          5.5897724
+        ]
+      },
+      "properties": {
+        "name": "Five five",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2062694,
+          5.5911473
+        ]
+      },
+      "properties": {
+        "name": "Nkansah Gyan",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.205397,
+          5.592146
+        ]
+      },
+      "properties": {
+        "name": "Taxi Rank",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.204254,
+          5.5923915
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Police Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2024678,
+          5.5944284
+        ]
+      },
+      "properties": {
+        "name": "Abavana",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200338,
+          5.596089
+        ]
+      },
+      "properties": {
+        "name": "Club 1000",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1990851,
+          5.5970686
+        ]
+      },
+      "properties": {
+        "name": "Top Class",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1983215,
+          5.5981141
+        ]
+      },
+      "properties": {
+        "name": "Pig Farm",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.202741,
+          5.5940064
+        ]
+      },
+      "properties": {
+        "name": "Abavana",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2044636,
+          5.5920743
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Police Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2076612,
+          5.5867356
+        ]
+      },
+      "properties": {
+        "name": "Accra New Town (37 Station)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2080453,
+          5.5848356
+        ]
+      },
+      "properties": {
+        "name": "Ghana Commercial Bank",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2085833,
+          5.5822317
+        ]
+      },
+      "properties": {
+        "name": "Nima Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2005099,
+          5.5959381
+        ]
+      },
+      "properties": {
+        "name": "Club 1000",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2073193,
+          5.5890703
+        ]
+      },
+      "properties": {
+        "name": "Master Chef",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2074836,
+          5.587907
+        ]
+      },
+      "properties": {
+        "name": "Agbadinar",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1994135,
+          5.5964991
+        ]
+      },
+      "properties": {
+        "name": "Top Class",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2033918,
+          5.5932618
+        ]
+      },
+      "properties": {
+        "name": "Vulcanizer",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2079,
+          5.5855719
+        ]
+      },
+      "properties": {
+        "name": "Newtown Total",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.208338,
+          5.5832983
+        ]
+      },
+      "properties": {
+        "name": "College",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2092693,
+          5.5812484
+        ]
+      },
+      "properties": {
+        "name": "Mallam Atta",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2105227,
+          5.57957
+        ]
+      },
+      "properties": {
+        "name": "Asantewaa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2126757,
+          5.5767693
+        ]
+      },
+      "properties": {
+        "name": "Express",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2120326,
+          5.5776349
+        ]
+      },
+      "properties": {
+        "name": "Fidelity",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2105004,
+          5.5796924
+        ]
+      },
+      "properties": {
+        "name": "Asantewaa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2090541,
+          5.5816598
+        ]
+      },
+      "properties": {
+        "name": "Mallam Atta",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2085784,
+          5.5823679
+        ]
+      },
+      "properties": {
+        "name": "Nima Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1988839,
+          5.5974079
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Down",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1984398,
+          5.5982811
+        ]
+      },
+      "properties": {
+        "name": "Pig Farm Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2022434,
+          5.6016833
+        ]
+      },
+      "properties": {
+        "name": "Asore Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2031546,
+          5.6022629
+        ]
+      },
+      "properties": {
+        "name": "Ebony",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2035456,
+          5.6114863
+        ]
+      },
+      "properties": {
+        "name": "Sea Theatre",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2008508,
+          5.611814
+        ]
+      },
+      "properties": {
+        "name": "Vulcanizer",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2003886,
+          5.6113178
+        ]
+      },
+      "properties": {
+        "name": "Bayere Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1989623,
+          5.6115555
+        ]
+      },
+      "properties": {
+        "name": "Last Chance",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1977866,
+          5.6122814
+        ]
+      },
+      "properties": {
+        "name": "Special Ice",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1958779,
+          5.6164702
+        ]
+      },
+      "properties": {
+        "name": "Dzorwolu",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1958779,
+          5.6164702
+        ]
+      },
+      "properties": {
+        "name": "Dzorwolu",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1974387,
+          5.612501
+        ]
+      },
+      "properties": {
+        "name": "Special Ice",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1958124,
+          5.6139249
+        ]
+      },
+      "properties": {
+        "name": "Presby",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1981811,
+          5.6118448
+        ]
+      },
+      "properties": {
+        "name": "Last Chance",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2028493,
+          5.6120496
+        ]
+      },
+      "properties": {
+        "name": "Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2045516,
+          5.6104734
+        ]
+      },
+      "properties": {
+        "name": "Fidelity",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2115164,
+          5.5783909
+        ]
+      },
+      "properties": {
+        "name": "Pro credit",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2110655,
+          5.5789982
+        ]
+      },
+      "properties": {
+        "name": "School Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2045102,
+          5.6106146
+        ]
+      },
+      "properties": {
+        "name": "Fidelity",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2006901,
+          5.6117737
+        ]
+      },
+      "properties": {
+        "name": "Vulcanizer",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1975412,
+          5.601231
+        ]
+      },
+      "properties": {
+        "name": "Pig Farm Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1962331,
+          5.6135692
+        ]
+      },
+      "properties": {
+        "name": "White Wall",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2114448,
+          5.5783627
+        ]
+      },
+      "properties": {
+        "name": "Kokomlemle (Pro Credit)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2130455,
+          5.576308
+        ]
+      },
+      "properties": {
+        "name": "Kokomlemle",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

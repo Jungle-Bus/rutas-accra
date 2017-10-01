@@ -36,7 +36,7 @@ function load_map(url_params) {
 
   // Initialize map
   map = new L.map('map', {
-    center: [12.125,-86.25],
+    center: [5.5781, -0.2432],
     zoom: 13,
     attributionControl: false,
     layers: baseLayers[url_params.layers] || new_transport
@@ -173,7 +173,7 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
   // Load data from file
   $.ajax({
     type: "GET",
-    url: "/data/" + bus_number + "-1.geojson",
+    url: "/data/" + bus_number + ".geojson",
     dataType: 'json',
     async: true,
     cache: true,
@@ -238,7 +238,7 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
       console.log(textStatus + " (1): " + errorThrown);
    }
   });
-
+/*
       // Load data from file
   $.ajax({
     type: "GET",
@@ -294,6 +294,7 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
       console.log(textStatus + " (2): " + errorThrown);
     }
   });
+*/
 }
 
 $(document).ready(function() {

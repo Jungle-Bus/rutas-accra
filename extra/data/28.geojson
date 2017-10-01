@@ -1,0 +1,905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2391494,
+            5.600759
+          ],
+          [
+            -0.2386612,
+            5.600478
+          ],
+          [
+            -0.2381595,
+            5.6001841
+          ],
+          [
+            -0.2376329,
+            5.5998789
+          ],
+          [
+            -0.2372542,
+            5.599729
+          ],
+          [
+            -0.2369381,
+            5.5996226
+          ],
+          [
+            -0.2364791,
+            5.599446
+          ],
+          [
+            -0.2359586,
+            5.5992495
+          ],
+          [
+            -0.2351648,
+            5.5989722
+          ],
+          [
+            -0.2343792,
+            5.5987129
+          ],
+          [
+            -0.2342213,
+            5.5986632
+          ],
+          [
+            -0.2340349,
+            5.5986323
+          ],
+          [
+            -0.2338358,
+            5.5986133
+          ],
+          [
+            -0.2337688,
+            5.5985999
+          ],
+          [
+            -0.2337272,
+            5.5985745
+          ],
+          [
+            -0.2336923,
+            5.5985439
+          ],
+          [
+            -0.2336749,
+            5.5984985
+          ],
+          [
+            -0.2335716,
+            5.5981608
+          ],
+          [
+            -0.2335525,
+            5.5980641
+          ],
+          [
+            -0.2335451,
+            5.598008
+          ],
+          [
+            -0.2334655,
+            5.597362
+          ],
+          [
+            -0.2333758,
+            5.5966779
+          ],
+          [
+            -0.2332646,
+            5.5960359
+          ],
+          [
+            -0.2332063,
+            5.5954263
+          ],
+          [
+            -0.2331719,
+            5.5951636
+          ],
+          [
+            -0.2331254,
+            5.5948794
+          ],
+          [
+            -0.2329215,
+            5.5940879
+          ],
+          [
+            -0.2328937,
+            5.5939427
+          ],
+          [
+            -0.232571,
+            5.5943413
+          ],
+          [
+            -0.2323424,
+            5.5946084
+          ],
+          [
+            -0.232242,
+            5.5947172
+          ],
+          [
+            -0.2319038,
+            5.5950049
+          ],
+          [
+            -0.2319187,
+            5.5936207
+          ],
+          [
+            -0.2318945,
+            5.5935459
+          ],
+          [
+            -0.2318356,
+            5.5934903
+          ],
+          [
+            -0.2312782,
+            5.5933026
+          ],
+          [
+            -0.2313344,
+            5.5932163
+          ],
+          [
+            -0.2315261,
+            5.5926023
+          ],
+          [
+            -0.2317001,
+            5.5918909
+          ],
+          [
+            -0.2316414,
+            5.5916007
+          ],
+          [
+            -0.231401,
+            5.5913444
+          ],
+          [
+            -0.2310319,
+            5.5911397
+          ],
+          [
+            -0.2307915,
+            5.5910287
+          ],
+          [
+            -0.2303428,
+            5.5908886
+          ],
+          [
+            -0.2290406,
+            5.590482
+          ],
+          [
+            -0.2288003,
+            5.5903453
+          ],
+          [
+            -0.2286454,
+            5.5902102
+          ],
+          [
+            -0.2283923,
+            5.5898908
+          ],
+          [
+            -0.2265858,
+            5.5875817
+          ],
+          [
+            -0.2257066,
+            5.5863366
+          ],
+          [
+            -0.2250465,
+            5.5852162
+          ],
+          [
+            -0.2245906,
+            5.5843292
+          ],
+          [
+            -0.2241616,
+            5.5831814
+          ],
+          [
+            -0.2240342,
+            5.5827477
+          ],
+          [
+            -0.2238572,
+            5.5821417
+          ],
+          [
+            -0.2236762,
+            5.5815211
+          ],
+          [
+            -0.2235655,
+            5.5802497
+          ],
+          [
+            -0.2234226,
+            5.5790477
+          ],
+          [
+            -0.2232437,
+            5.5773943
+          ],
+          [
+            -0.2232268,
+            5.577178
+          ],
+          [
+            -0.2230076,
+            5.575104
+          ],
+          [
+            -0.2228866,
+            5.5740952
+          ],
+          [
+            -0.2227106,
+            5.5723342
+          ],
+          [
+            -0.2197178,
+            5.5725243
+          ],
+          [
+            -0.2194962,
+            5.5703305
+          ],
+          [
+            -0.2194116,
+            5.5692129
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 28 : Abeka Main Market → Circle Indust. Area",
+        "attributes": {
+          "operator": "Abeka Trotro Branch of GPRTU",
+          "to": "Circle Industrial Area",
+          "from": "Abeka Main Market",
+          "ref": "28",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2391494,
+            5.600759
+          ],
+          [
+            -0.2386612,
+            5.600478
+          ],
+          [
+            -0.2381595,
+            5.6001841
+          ],
+          [
+            -0.2376329,
+            5.5998789
+          ],
+          [
+            -0.2372542,
+            5.599729
+          ],
+          [
+            -0.2369381,
+            5.5996226
+          ],
+          [
+            -0.2364791,
+            5.599446
+          ],
+          [
+            -0.2359586,
+            5.5992495
+          ],
+          [
+            -0.2351648,
+            5.5989722
+          ],
+          [
+            -0.2343792,
+            5.5987129
+          ],
+          [
+            -0.2342213,
+            5.5986632
+          ],
+          [
+            -0.2340349,
+            5.5986323
+          ],
+          [
+            -0.2338358,
+            5.5986133
+          ],
+          [
+            -0.2337688,
+            5.5985999
+          ],
+          [
+            -0.2337272,
+            5.5985745
+          ],
+          [
+            -0.2336923,
+            5.5985439
+          ],
+          [
+            -0.2336749,
+            5.5984985
+          ],
+          [
+            -0.2335716,
+            5.5981608
+          ],
+          [
+            -0.2335525,
+            5.5980641
+          ],
+          [
+            -0.2335451,
+            5.598008
+          ],
+          [
+            -0.2334655,
+            5.597362
+          ],
+          [
+            -0.2333758,
+            5.5966779
+          ],
+          [
+            -0.2332646,
+            5.5960359
+          ],
+          [
+            -0.2332063,
+            5.5954263
+          ],
+          [
+            -0.2331719,
+            5.5951636
+          ],
+          [
+            -0.2331254,
+            5.5948794
+          ],
+          [
+            -0.2329215,
+            5.5940879
+          ],
+          [
+            -0.2328937,
+            5.5939427
+          ],
+          [
+            -0.232571,
+            5.5943413
+          ],
+          [
+            -0.2323424,
+            5.5946084
+          ],
+          [
+            -0.232242,
+            5.5947172
+          ],
+          [
+            -0.2319038,
+            5.5950049
+          ],
+          [
+            -0.2319187,
+            5.5936207
+          ],
+          [
+            -0.2318945,
+            5.5935459
+          ],
+          [
+            -0.2318356,
+            5.5934903
+          ],
+          [
+            -0.2312782,
+            5.5933026
+          ],
+          [
+            -0.2313344,
+            5.5932163
+          ],
+          [
+            -0.2315261,
+            5.5926023
+          ],
+          [
+            -0.2317001,
+            5.5918909
+          ],
+          [
+            -0.2316414,
+            5.5916007
+          ],
+          [
+            -0.231401,
+            5.5913444
+          ],
+          [
+            -0.2310319,
+            5.5911397
+          ],
+          [
+            -0.2307915,
+            5.5910287
+          ],
+          [
+            -0.2303428,
+            5.5908886
+          ],
+          [
+            -0.2290406,
+            5.590482
+          ],
+          [
+            -0.2288003,
+            5.5903453
+          ],
+          [
+            -0.2286454,
+            5.5902102
+          ],
+          [
+            -0.2283923,
+            5.5898908
+          ],
+          [
+            -0.2265858,
+            5.5875817
+          ],
+          [
+            -0.2257066,
+            5.5863366
+          ],
+          [
+            -0.2250465,
+            5.5852162
+          ],
+          [
+            -0.2245906,
+            5.5843292
+          ],
+          [
+            -0.2241616,
+            5.5831814
+          ],
+          [
+            -0.2240342,
+            5.5827477
+          ],
+          [
+            -0.2238572,
+            5.5821417
+          ],
+          [
+            -0.2236762,
+            5.5815211
+          ],
+          [
+            -0.2235655,
+            5.5802497
+          ],
+          [
+            -0.2234226,
+            5.5790477
+          ],
+          [
+            -0.2232437,
+            5.5773943
+          ],
+          [
+            -0.2232268,
+            5.577178
+          ],
+          [
+            -0.2230076,
+            5.575104
+          ],
+          [
+            -0.2228866,
+            5.5740952
+          ],
+          [
+            -0.2227106,
+            5.5723342
+          ],
+          [
+            -0.2197178,
+            5.5725243
+          ],
+          [
+            -0.2194962,
+            5.5703305
+          ],
+          [
+            -0.2194116,
+            5.5692129
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 28 : Circle Industrial Area → Abeka Main Market",
+        "attributes": {
+          "operator": "Abeka Trotro Branch of GPRTU",
+          "to": "Abeka Main Market",
+          "from": "Circle Indust. Area",
+          "ref": "28",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2368642,
+          5.5995687
+        ]
+      },
+      "properties": {
+        "name": "Adom Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2376645,
+          5.5998619
+        ]
+      },
+      "properties": {
+        "name": "Free Pipe",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2393011,
+          5.6008086
+        ]
+      },
+      "properties": {
+        "name": "Abeka Main Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2391297,
+          5.6007988
+        ]
+      },
+      "properties": {
+        "name": "Abeka Main Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2373871,
+          5.599799
+        ]
+      },
+      "properties": {
+        "name": "Free Pipe",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2369134,
+          5.5996325
+        ]
+      },
+      "properties": {
+        "name": "Adom Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2336448,
+          5.5984513
+        ]
+      },
+      "properties": {
+        "name": "Total Curve",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2357075,
+          5.5991258
+        ]
+      },
+      "properties": {
+        "name": "PnP Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2349533,
+          5.598944
+        ]
+      },
+      "properties": {
+        "name": "Abeka Bcos Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.235791,
+          5.5992202
+        ]
+      },
+      "properties": {
+        "name": "PnP Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2194154,
+          5.5692159
+        ]
+      },
+      "properties": {
+        "name": "Circle Industrial Area",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2194154,
+          5.5692159
+        ]
+      },
+      "properties": {
+        "name": "Circle Industrial Area",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2228472,
+          5.5731943
+        ]
+      },
+      "properties": {
+        "name": "Fan Milk Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2241143,
+          5.582849
+        ]
+      },
+      "properties": {
+        "name": "Ashfoam Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2269332,
+          5.5879449
+        ]
+      },
+      "properties": {
+        "name": "Melcom",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2299199,
+          5.5907051
+        ]
+      },
+      "properties": {
+        "name": "Mesco",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2335625,
+          5.597953
+        ]
+      },
+      "properties": {
+        "name": "Abeka Total",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2335007,
+          5.5977942
+        ]
+      },
+      "properties": {
+        "name": "Abeka Total",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2267337,
+          5.5878478
+        ]
+      },
+      "properties": {
+        "name": "Melcom",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2238648,
+          5.5823796
+        ]
+      },
+      "properties": {
+        "name": "Ashfoam Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2226925,
+          5.5727399
+        ]
+      },
+      "properties": {
+        "name": "Fan Milk Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

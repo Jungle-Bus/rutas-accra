@@ -1,0 +1,797 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1763961,
+            5.6409277
+          ],
+          [
+            -0.176053,
+            5.6409693
+          ],
+          [
+            -0.1750941,
+            5.6410643
+          ],
+          [
+            -0.1735449,
+            5.6412148
+          ],
+          [
+            -0.1722521,
+            5.641263
+          ],
+          [
+            -0.1716087,
+            5.6413589
+          ],
+          [
+            -0.1709774,
+            5.641448
+          ],
+          [
+            -0.1703563,
+            5.6415079
+          ],
+          [
+            -0.1697597,
+            5.6415796
+          ],
+          [
+            -0.168884,
+            5.6416909
+          ],
+          [
+            -0.1680066,
+            5.6417831
+          ],
+          [
+            -0.1673175,
+            5.6418398
+          ],
+          [
+            -0.1668602,
+            5.6418918
+          ],
+          [
+            -0.1666644,
+            5.6418818
+          ],
+          [
+            -0.1664928,
+            5.6418671
+          ],
+          [
+            -0.1663119,
+            5.6418354
+          ],
+          [
+            -0.1660994,
+            5.6418338
+          ],
+          [
+            -0.1659147,
+            5.6418631
+          ],
+          [
+            -0.1657301,
+            5.6419117
+          ],
+          [
+            -0.165099,
+            5.6420898
+          ],
+          [
+            -0.1649237,
+            5.6421447
+          ],
+          [
+            -0.1647329,
+            5.6421842
+          ],
+          [
+            -0.1640768,
+            5.6422198
+          ],
+          [
+            -0.1632459,
+            5.6422848
+          ],
+          [
+            -0.1624283,
+            5.6423414
+          ],
+          [
+            -0.1622701,
+            5.6423543
+          ],
+          [
+            -0.1621464,
+            5.6423674
+          ],
+          [
+            -0.1615933,
+            5.6424262
+          ],
+          [
+            -0.161078,
+            5.6424844
+          ],
+          [
+            -0.1607572,
+            5.6425601
+          ],
+          [
+            -0.1602754,
+            5.6427451
+          ],
+          [
+            -0.1600416,
+            5.6428554
+          ],
+          [
+            -0.1599986,
+            5.6428757
+          ],
+          [
+            -0.1594115,
+            5.6431578
+          ],
+          [
+            -0.159293,
+            5.6432224
+          ],
+          [
+            -0.1587787,
+            5.64351
+          ],
+          [
+            -0.1582127,
+            5.6438683
+          ],
+          [
+            -0.155141,
+            5.6461846
+          ],
+          [
+            -0.1550378,
+            5.6462554
+          ],
+          [
+            -0.1549117,
+            5.646342
+          ],
+          [
+            -0.1542887,
+            5.6467224
+          ],
+          [
+            -0.1536369,
+            5.6470921
+          ],
+          [
+            -0.1530536,
+            5.6473692
+          ],
+          [
+            -0.152784,
+            5.6474764
+          ],
+          [
+            -0.1525159,
+            5.6475748
+          ],
+          [
+            -0.1523884,
+            5.6475939
+          ],
+          [
+            -0.1522784,
+            5.6476215
+          ],
+          [
+            -0.1511251,
+            5.6479832
+          ],
+          [
+            -0.1505736,
+            5.6481562
+          ],
+          [
+            -0.1504738,
+            5.6481409
+          ],
+          [
+            -0.1504094,
+            5.6481342
+          ],
+          [
+            -0.1503544,
+            5.6481142
+          ],
+          [
+            -0.1503088,
+            5.6480875
+          ],
+          [
+            -0.150232,
+            5.6480237
+          ],
+          [
+            -0.149949,
+            5.6473853
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 441 : Okponglo → American House",
+        "attributes": {
+          "operator": "Okponglo Co-operative Transport Society",
+          "to": "American House",
+          "from": "Okponglo",
+          "ref": "441",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1763961,
+            5.6409277
+          ],
+          [
+            -0.176053,
+            5.6409693
+          ],
+          [
+            -0.1750941,
+            5.6410643
+          ],
+          [
+            -0.1735449,
+            5.6412148
+          ],
+          [
+            -0.1722521,
+            5.641263
+          ],
+          [
+            -0.1716087,
+            5.6413589
+          ],
+          [
+            -0.1709774,
+            5.641448
+          ],
+          [
+            -0.1703563,
+            5.6415079
+          ],
+          [
+            -0.1697597,
+            5.6415796
+          ],
+          [
+            -0.168884,
+            5.6416909
+          ],
+          [
+            -0.1680066,
+            5.6417831
+          ],
+          [
+            -0.1673175,
+            5.6418398
+          ],
+          [
+            -0.1668602,
+            5.6418918
+          ],
+          [
+            -0.1666644,
+            5.6418818
+          ],
+          [
+            -0.1664928,
+            5.6418671
+          ],
+          [
+            -0.1663119,
+            5.6418354
+          ],
+          [
+            -0.1660994,
+            5.6418338
+          ],
+          [
+            -0.1659147,
+            5.6418631
+          ],
+          [
+            -0.1657301,
+            5.6419117
+          ],
+          [
+            -0.165099,
+            5.6420898
+          ],
+          [
+            -0.1649237,
+            5.6421447
+          ],
+          [
+            -0.1647329,
+            5.6421842
+          ],
+          [
+            -0.1640768,
+            5.6422198
+          ],
+          [
+            -0.1632459,
+            5.6422848
+          ],
+          [
+            -0.1624283,
+            5.6423414
+          ],
+          [
+            -0.1622701,
+            5.6423543
+          ],
+          [
+            -0.1621464,
+            5.6423674
+          ],
+          [
+            -0.1615933,
+            5.6424262
+          ],
+          [
+            -0.161078,
+            5.6424844
+          ],
+          [
+            -0.1607572,
+            5.6425601
+          ],
+          [
+            -0.1602754,
+            5.6427451
+          ],
+          [
+            -0.1600416,
+            5.6428554
+          ],
+          [
+            -0.1599986,
+            5.6428757
+          ],
+          [
+            -0.1594115,
+            5.6431578
+          ],
+          [
+            -0.159293,
+            5.6432224
+          ],
+          [
+            -0.1587787,
+            5.64351
+          ],
+          [
+            -0.1582127,
+            5.6438683
+          ],
+          [
+            -0.155141,
+            5.6461846
+          ],
+          [
+            -0.1550378,
+            5.6462554
+          ],
+          [
+            -0.1549117,
+            5.646342
+          ],
+          [
+            -0.1542887,
+            5.6467224
+          ],
+          [
+            -0.1536369,
+            5.6470921
+          ],
+          [
+            -0.1530536,
+            5.6473692
+          ],
+          [
+            -0.152784,
+            5.6474764
+          ],
+          [
+            -0.1525159,
+            5.6475748
+          ],
+          [
+            -0.1524313,
+            5.6476419
+          ],
+          [
+            -0.152316,
+            5.6477016
+          ],
+          [
+            -0.1511466,
+            5.6480499
+          ],
+          [
+            -0.1507137,
+            5.6481992
+          ],
+          [
+            -0.1506974,
+            5.6483471
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 441 : American House → Okponglo",
+        "attributes": {
+          "operator": "Okponglo Co-operative Transport Society",
+          "to": "Okponglo",
+          "from": "American House",
+          "ref": "441",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.164944,
+          5.6420983
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshie Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1500724,
+          5.6475723
+        ]
+      },
+      "properties": {
+        "name": "American House",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1613522,
+          5.6424108
+        ]
+      },
+      "properties": {
+        "name": "Beduwa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1506845,
+          5.6483539
+        ]
+      },
+      "properties": {
+        "name": "American House",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1673192,
+          5.6418746
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshi Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1611693,
+          5.6425178
+        ]
+      },
+      "properties": {
+        "name": "Beduwa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1550035,
+          5.6463234
+        ]
+      },
+      "properties": {
+        "name": "Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.159918,
+          5.6429575
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshie Acheampong",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.155141,
+          5.6461391
+        ]
+      },
+      "properties": {
+        "name": "Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1567348,
+          5.6449389
+        ]
+      },
+      "properties": {
+        "name": "MTN",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1673155,
+          5.6418176
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshie First",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1691411,
+          5.6416293
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshie Traffic Light",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1600681,
+          5.6428153
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshie Acheampong",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1648465,
+          5.6421651
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshie First",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1763927,
+          5.6408993
+        ]
+      },
+      "properties": {
+        "name": "Okponglo",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1763916,
+          5.6409416
+        ]
+      },
+      "properties": {
+        "name": "Okponglo",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1692293,
+          5.6416649
+        ]
+      },
+      "properties": {
+        "name": "Bawaleshie Traffic Light",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1763961,
+          5.6409277
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1763961,
+          5.6409277
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.149949,
+          5.6473853
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1506974,
+          5.6483471
+        ]
+      },
+      "properties": {
+        "name": null,
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

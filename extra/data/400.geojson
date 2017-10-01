@@ -1,0 +1,1285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1986947,
+            5.581475
+          ],
+          [
+            -0.1984985,
+            5.581811
+          ],
+          [
+            -0.1984092,
+            5.5819988
+          ],
+          [
+            -0.1983976,
+            5.5820337
+          ],
+          [
+            -0.1982794,
+            5.5823899
+          ],
+          [
+            -0.1981561,
+            5.5828141
+          ],
+          [
+            -0.197857,
+            5.5837901
+          ],
+          [
+            -0.197607,
+            5.5847412
+          ],
+          [
+            -0.1973692,
+            5.5856031
+          ],
+          [
+            -0.1972113,
+            5.5861323
+          ],
+          [
+            -0.1971277,
+            5.5864125
+          ],
+          [
+            -0.1969072,
+            5.5871929
+          ],
+          [
+            -0.1967455,
+            5.5877539
+          ],
+          [
+            -0.1965995,
+            5.5882543
+          ],
+          [
+            -0.1965946,
+            5.5882724
+          ],
+          [
+            -0.1965352,
+            5.5884916
+          ],
+          [
+            -0.1963542,
+            5.589104
+          ],
+          [
+            -0.1964967,
+            5.5891153
+          ],
+          [
+            -0.1971023,
+            5.5890879
+          ],
+          [
+            -0.1971807,
+            5.5891007
+          ],
+          [
+            -0.1972618,
+            5.5891273
+          ],
+          [
+            -0.1974492,
+            5.5892202
+          ],
+          [
+            -0.197824,
+            5.5894107
+          ],
+          [
+            -0.1981814,
+            5.5895772
+          ],
+          [
+            -0.1985035,
+            5.5898593
+          ],
+          [
+            -0.1992731,
+            5.5905865
+          ],
+          [
+            -0.2000235,
+            5.5912679
+          ],
+          [
+            -0.1998409,
+            5.5915034
+          ],
+          [
+            -0.1995495,
+            5.5918513
+          ],
+          [
+            -0.1995244,
+            5.5919263
+          ],
+          [
+            -0.1995456,
+            5.5921639
+          ],
+          [
+            -0.1996512,
+            5.5926241
+          ],
+          [
+            -0.1997014,
+            5.592742
+          ],
+          [
+            -0.2001672,
+            5.5931542
+          ],
+          [
+            -0.2006451,
+            5.5935883
+          ],
+          [
+            -0.2011067,
+            5.5940092
+          ],
+          [
+            -0.2015705,
+            5.5944215
+          ],
+          [
+            -0.202047,
+            5.5948468
+          ],
+          [
+            -0.2024395,
+            5.5944215
+          ],
+          [
+            -0.2027935,
+            5.5940021
+          ],
+          [
+            -0.2035245,
+            5.5931427
+          ],
+          [
+            -0.2037128,
+            5.5929461
+          ],
+          [
+            -0.204541,
+            5.592036
+          ],
+          [
+            -0.2046389,
+            5.591952
+          ],
+          [
+            -0.204725,
+            5.5919272
+          ],
+          [
+            -0.2048012,
+            5.5919733
+          ],
+          [
+            -0.2052037,
+            5.5923076
+          ],
+          [
+            -0.2054771,
+            5.5925739
+          ],
+          [
+            -0.2057299,
+            5.5928
+          ],
+          [
+            -0.2062469,
+            5.5932631
+          ],
+          [
+            -0.2064981,
+            5.5934993
+          ],
+          [
+            -0.2067107,
+            5.593706
+          ],
+          [
+            -0.2070234,
+            5.5940315
+          ],
+          [
+            -0.2072961,
+            5.5943436
+          ],
+          [
+            -0.2074512,
+            5.5945043
+          ],
+          [
+            -0.207586,
+            5.5946423
+          ],
+          [
+            -0.2076468,
+            5.5947022
+          ],
+          [
+            -0.2079313,
+            5.5949354
+          ],
+          [
+            -0.2082096,
+            5.5951308
+          ],
+          [
+            -0.2082347,
+            5.5951485
+          ],
+          [
+            -0.2087179,
+            5.5954625
+          ],
+          [
+            -0.2091735,
+            5.5958565
+          ],
+          [
+            -0.2091983,
+            5.595878
+          ],
+          [
+            -0.209483,
+            5.5961179
+          ],
+          [
+            -0.2097529,
+            5.596352
+          ],
+          [
+            -0.2105652,
+            5.5970629
+          ],
+          [
+            -0.211383,
+            5.5977496
+          ],
+          [
+            -0.2115128,
+            5.5978542
+          ],
+          [
+            -0.2117964,
+            5.5980866
+          ],
+          [
+            -0.2120999,
+            5.5983014
+          ],
+          [
+            -0.212278,
+            5.5983909
+          ],
+          [
+            -0.2124347,
+            5.5984497
+          ],
+          [
+            -0.2125652,
+            5.5984818
+          ],
+          [
+            -0.2130114,
+            5.5985071
+          ],
+          [
+            -0.213572,
+            5.5985244
+          ],
+          [
+            -0.2146002,
+            5.5985549
+          ],
+          [
+            -0.2146492,
+            5.5985554
+          ],
+          [
+            -0.2157131,
+            5.5986271
+          ],
+          [
+            -0.2158519,
+            5.5986365
+          ],
+          [
+            -0.217067,
+            5.5987158
+          ],
+          [
+            -0.2170564,
+            5.5984627
+          ],
+          [
+            -0.217028,
+            5.5979037
+          ],
+          [
+            -0.2169642,
+            5.5972165
+          ],
+          [
+            -0.2168579,
+            5.5959093
+          ],
+          [
+            -0.2168362,
+            5.5956027
+          ],
+          [
+            -0.2168325,
+            5.5955519
+          ],
+          [
+            -0.2168124,
+            5.595272
+          ],
+          [
+            -0.2167984,
+            5.5950752
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 400 : Nima Overhead Maamobi → Alajo Station",
+        "attributes": {
+          "operator": "Maamobi Branch of GPRTU",
+          "to": "Alajo Station",
+          "from": "Nima Overhead Maamobi",
+          "ref": "400",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1972113,
+            5.5861323
+          ],
+          [
+            -0.1971277,
+            5.5864125
+          ],
+          [
+            -0.1969072,
+            5.5871929
+          ],
+          [
+            -0.1967455,
+            5.5877539
+          ],
+          [
+            -0.1965995,
+            5.5882543
+          ],
+          [
+            -0.1965946,
+            5.5882724
+          ],
+          [
+            -0.1965352,
+            5.5884916
+          ],
+          [
+            -0.1963542,
+            5.589104
+          ],
+          [
+            -0.1964967,
+            5.5891153
+          ],
+          [
+            -0.1971023,
+            5.5890879
+          ],
+          [
+            -0.1971807,
+            5.5891007
+          ],
+          [
+            -0.1972618,
+            5.5891273
+          ],
+          [
+            -0.1974492,
+            5.5892202
+          ],
+          [
+            -0.197824,
+            5.5894107
+          ],
+          [
+            -0.1981814,
+            5.5895772
+          ],
+          [
+            -0.1985035,
+            5.5898593
+          ],
+          [
+            -0.1992731,
+            5.5905865
+          ],
+          [
+            -0.2000235,
+            5.5912679
+          ],
+          [
+            -0.2003678,
+            5.5909161
+          ],
+          [
+            -0.2008422,
+            5.5903516
+          ],
+          [
+            -0.2013089,
+            5.589806
+          ],
+          [
+            -0.2017051,
+            5.589356
+          ],
+          [
+            -0.2021069,
+            5.5896616
+          ],
+          [
+            -0.2025241,
+            5.589977
+          ],
+          [
+            -0.203061,
+            5.5904346
+          ],
+          [
+            -0.2034291,
+            5.5907599
+          ],
+          [
+            -0.2041101,
+            5.5913776
+          ],
+          [
+            -0.2045078,
+            5.591733
+          ],
+          [
+            -0.2046618,
+            5.5918707
+          ],
+          [
+            -0.204725,
+            5.5919272
+          ],
+          [
+            -0.2048012,
+            5.5919733
+          ],
+          [
+            -0.2052037,
+            5.5923076
+          ],
+          [
+            -0.2054771,
+            5.5925739
+          ],
+          [
+            -0.2057299,
+            5.5928
+          ],
+          [
+            -0.2062469,
+            5.5932631
+          ],
+          [
+            -0.2064981,
+            5.5934993
+          ],
+          [
+            -0.2067107,
+            5.593706
+          ],
+          [
+            -0.2070234,
+            5.5940315
+          ],
+          [
+            -0.2072961,
+            5.5943436
+          ],
+          [
+            -0.2074512,
+            5.5945043
+          ],
+          [
+            -0.207586,
+            5.5946423
+          ],
+          [
+            -0.2076468,
+            5.5947022
+          ],
+          [
+            -0.2079313,
+            5.5949354
+          ],
+          [
+            -0.2082096,
+            5.5951308
+          ],
+          [
+            -0.2082347,
+            5.5951485
+          ],
+          [
+            -0.2087179,
+            5.5954625
+          ],
+          [
+            -0.2091735,
+            5.5958565
+          ],
+          [
+            -0.2091983,
+            5.595878
+          ],
+          [
+            -0.209483,
+            5.5961179
+          ],
+          [
+            -0.2097529,
+            5.596352
+          ],
+          [
+            -0.2105652,
+            5.5970629
+          ],
+          [
+            -0.211383,
+            5.5977496
+          ],
+          [
+            -0.2115128,
+            5.5978542
+          ],
+          [
+            -0.2117964,
+            5.5980866
+          ],
+          [
+            -0.2120999,
+            5.5983014
+          ],
+          [
+            -0.212278,
+            5.5983909
+          ],
+          [
+            -0.2124347,
+            5.5984497
+          ],
+          [
+            -0.2125652,
+            5.5984818
+          ],
+          [
+            -0.2130114,
+            5.5985071
+          ],
+          [
+            -0.213572,
+            5.5985244
+          ],
+          [
+            -0.2146002,
+            5.5985549
+          ],
+          [
+            -0.2146492,
+            5.5985554
+          ],
+          [
+            -0.2157131,
+            5.5986271
+          ],
+          [
+            -0.2158519,
+            5.5986365
+          ],
+          [
+            -0.217067,
+            5.5987158
+          ],
+          [
+            -0.2170564,
+            5.5984627
+          ],
+          [
+            -0.217028,
+            5.5979037
+          ],
+          [
+            -0.2169642,
+            5.5972165
+          ],
+          [
+            -0.2168579,
+            5.5959093
+          ],
+          [
+            -0.2168362,
+            5.5956027
+          ],
+          [
+            -0.2168325,
+            5.5955519
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 400 : Alajo Station → Nima Overhead Maamobi",
+        "attributes": {
+          "operator": "Maamobi Branch of GPRTU",
+          "to": "Nima Overhead Maamobi",
+          "from": "Alajo Station",
+          "ref": "400",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2062882,
+          5.5933223
+        ]
+      },
+      "properties": {
+        "name": "Tobinco Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2063142,
+          5.593276
+        ]
+      },
+      "properties": {
+        "name": "Tobinco Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1965863,
+          5.5884974
+        ]
+      },
+      "properties": {
+        "name": "Gutter",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1971293,
+          5.5862518
+        ]
+      },
+      "properties": {
+        "name": "Alaska",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1972468,
+          5.5861405
+        ]
+      },
+      "properties": {
+        "name": "Alaska (Nima Maamobi)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.204254,
+          5.5923915
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Police Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2024678,
+          5.5944284
+        ]
+      },
+      "properties": {
+        "name": "Abavana",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2170081,
+          5.597308
+        ]
+      },
+      "properties": {
+        "name": "Pele",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2169013,
+          5.5960336
+        ]
+      },
+      "properties": {
+        "name": "Taxi Rank Alajo",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2170403,
+          5.5985897
+        ]
+      },
+      "properties": {
+        "name": "Alajo T-Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2169196,
+          5.5970786
+        ]
+      },
+      "properties": {
+        "name": "Pele",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2168285,
+          5.5958552
+        ]
+      },
+      "properties": {
+        "name": "Taxi Rank Alajo",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2091548,
+          5.5958908
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Down (Polo Park)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2091993,
+          5.5958129
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Down (Polo Park)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2080939,
+          5.5950069
+        ]
+      },
+      "properties": {
+        "name": "Ojawe",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2076275,
+          5.5947354
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Market junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2065183,
+          5.5935661
+        ]
+      },
+      "properties": {
+        "name": "Labour Centre",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1966034,
+          5.5881572
+        ]
+      },
+      "properties": {
+        "name": "Gutter",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2113101,
+          5.59762
+        ]
+      },
+      "properties": {
+        "name": "Ridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2059211,
+          5.59301
+        ]
+      },
+      "properties": {
+        "name": "Prempeh",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.217095,
+          5.5985442
+        ]
+      },
+      "properties": {
+        "name": "Alajo T-Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2046852,
+          5.5918437
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Police Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2056691,
+          5.5927096
+        ]
+      },
+      "properties": {
+        "name": "CJ School",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2067663,
+          5.5937165
+        ]
+      },
+      "properties": {
+        "name": "Prempeh",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2076808,
+          5.5946942
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Night Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2097218,
+          5.5962339
+        ]
+      },
+      "properties": {
+        "name": "Modest",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2122558,
+          5.5983216
+        ]
+      },
+      "properties": {
+        "name": "Polo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2145178,
+          5.5984993
+        ]
+      },
+      "properties": {
+        "name": "Alajo Blue Kiosk",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2135911,
+          5.5985535
+        ]
+      },
+      "properties": {
+        "name": "Merciful Hotel",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2123745,
+          5.5984629
+        ]
+      },
+      "properties": {
+        "name": "Polo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2097089,
+          5.5963532
+        ]
+      },
+      "properties": {
+        "name": "Modest",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2082218,
+          5.5951637
+        ]
+      },
+      "properties": {
+        "name": "Social",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1986518,
+          5.5814723
+        ]
+      },
+      "properties": {
+        "name": "Nima Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2168405,
+          5.595073
+        ]
+      },
+      "properties": {
+        "name": "Alajo Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2146076,
+          5.5985826
+        ]
+      },
+      "properties": {
+        "name": "Alajo Blue Kiosk",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1987842,
+          5.5900425
+        ]
+      },
+      "properties": {
+        "name": "Maamobi",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2015221,
+          5.5894988
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.216785,
+          5.5955561
+        ]
+      },
+      "properties": {
+        "name": "Alajo Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2359278,
+            5.5641143
+          ],
+          [
+            -0.2358396,
+            5.5642501
+          ],
+          [
+            -0.2361764,
+            5.5644503
+          ],
+          [
+            -0.2367174,
+            5.5647726
+          ],
+          [
+            -0.2372256,
+            5.5639609
+          ],
+          [
+            -0.2374832,
+            5.5635165
+          ],
+          [
+            -0.23843,
+            5.5619308
+          ],
+          [
+            -0.2387733,
+            5.5613462
+          ],
+          [
+            -0.2388431,
+            5.5611847
+          ],
+          [
+            -0.2389343,
+            5.5609351
+          ],
+          [
+            -0.2391019,
+            5.5603037
+          ],
+          [
+            -0.2393113,
+            5.5595513
+          ],
+          [
+            -0.2397324,
+            5.5581364
+          ],
+          [
+            -0.2398271,
+            5.5578019
+          ],
+          [
+            -0.2398957,
+            5.5575599
+          ],
+          [
+            -0.2399535,
+            5.5573561
+          ],
+          [
+            -0.2401012,
+            5.5568432
+          ],
+          [
+            -0.2401379,
+            5.5566624
+          ],
+          [
+            -0.240155,
+            5.5564798
+          ],
+          [
+            -0.2401607,
+            5.5564195
+          ],
+          [
+            -0.2401567,
+            5.5560457
+          ],
+          [
+            -0.2408453,
+            5.5560534
+          ],
+          [
+            -0.2422999,
+            5.5560715
+          ],
+          [
+            -0.2438,
+            5.5560877
+          ],
+          [
+            -0.243814,
+            5.5555899
+          ],
+          [
+            -0.2438154,
+            5.5544243
+          ],
+          [
+            -0.2438094,
+            5.5532818
+          ],
+          [
+            -0.2438118,
+            5.5511706
+          ],
+          [
+            -0.2438164,
+            5.5509123
+          ],
+          [
+            -0.2438187,
+            5.5504875
+          ],
+          [
+            -0.2438136,
+            5.5501571
+          ],
+          [
+            -0.2438028,
+            5.5487208
+          ],
+          [
+            -0.2437868,
+            5.5480507
+          ],
+          [
+            -0.2437975,
+            5.5474127
+          ],
+          [
+            -0.2437948,
+            5.5467426
+          ],
+          [
+            -0.2446602,
+            5.5467483
+          ],
+          [
+            -0.2453371,
+            5.5467426
+          ],
+          [
+            -0.2460623,
+            5.5467603
+          ],
+          [
+            -0.2465011,
+            5.546743
+          ],
+          [
+            -0.246646,
+            5.5467373
+          ],
+          [
+            -0.2467157,
+            5.543523
+          ],
+          [
+            -0.2467372,
+            5.5428209
+          ],
+          [
+            -0.2474755,
+            5.5427629
+          ],
+          [
+            -0.2484911,
+            5.5426639
+          ],
+          [
+            -0.248528,
+            5.5429222
+          ],
+          [
+            -0.2488478,
+            5.5429878
+          ],
+          [
+            -0.2489257,
+            5.5431313
+          ],
+          [
+            -0.2489134,
+            5.5441973
+          ],
+          [
+            -0.2489499,
+            5.5452923
+          ],
+          [
+            -0.2497627,
+            5.5452743
+          ],
+          [
+            -0.2499988,
+            5.5452289
+          ],
+          [
+            -0.2502267,
+            5.5452236
+          ],
+          [
+            -0.2509053,
+            5.5452316
+          ],
+          [
+            -0.2517315,
+            5.5452316
+          ],
+          [
+            -0.2524073,
+            5.5452441
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 267 : Kaneshie → Appiah Danquah/ Soko",
+        "attributes": {
+          "operator": "Kaneshie No. 2 Branch of GPRTU",
+          "to": "Appiah Danquah/ Soko",
+          "from": "Kaneshie",
+          "ref": "267",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2358676,
+          5.5640961
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2399215,
+          5.5575568
+        ]
+      },
+      "properties": {
+        "name": "Zongo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2432794,
+          5.5561071
+        ]
+      },
+      "properties": {
+        "name": "Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2524094,
+          5.5452748
+        ]
+      },
+      "properties": {
+        "name": "Appiah Danquah/Soko",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2516712,
+          5.5452739
+        ]
+      },
+      "properties": {
+        "name": "Masalaachi",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2501886,
+          5.5452559
+        ]
+      },
+      "properties": {
+        "name": "Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2489086,
+          5.5452074
+        ]
+      },
+      "properties": {
+        "name": "Soko Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2488941,
+          5.5439896
+        ]
+      },
+      "properties": {
+        "name": "Container",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2484715,
+          5.5427609
+        ]
+      },
+      "properties": {
+        "name": "Curve",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2475634,
+          5.5427919
+        ]
+      },
+      "properties": {
+        "name": "Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2470342,
+          5.5428374
+        ]
+      },
+      "properties": {
+        "name": "Toilets",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2467559,
+          5.5429552
+        ]
+      },
+      "properties": {
+        "name": "Adonteng",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2467136,
+          5.5444578
+        ]
+      },
+      "properties": {
+        "name": "Pentecost",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2446172,
+          5.5467826
+        ]
+      },
+      "properties": {
+        "name": "School Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2439343,
+          5.5467781
+        ]
+      },
+      "properties": {
+        "name": "Video City",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2438196,
+          5.5479323
+        ]
+      },
+      "properties": {
+        "name": "Lotto Kiosk",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2438382,
+          5.5489919
+        ]
+      },
+      "properties": {
+        "name": "Transformer",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2438594,
+          5.5505008
+        ]
+      },
+      "properties": {
+        "name": "Printing Press",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2438623,
+          5.5531498
+        ]
+      },
+      "properties": {
+        "name": "First Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

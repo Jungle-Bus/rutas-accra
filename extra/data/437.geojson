@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2638583,
+            5.581196
+          ],
+          [
+            -0.2638026,
+            5.5810639
+          ],
+          [
+            -0.2636471,
+            5.5809538
+          ],
+          [
+            -0.2634563,
+            5.5809168
+          ],
+          [
+            -0.2633677,
+            5.5806533
+          ],
+          [
+            -0.2633173,
+            5.5805036
+          ],
+          [
+            -0.2632803,
+            5.5804032
+          ],
+          [
+            -0.2632325,
+            5.5802736
+          ],
+          [
+            -0.262883,
+            5.5803776
+          ],
+          [
+            -0.2627091,
+            5.580412
+          ],
+          [
+            -0.2625227,
+            5.5804328
+          ],
+          [
+            -0.262355,
+            5.5804401
+          ],
+          [
+            -0.262166,
+            5.5804448
+          ],
+          [
+            -0.2619816,
+            5.5804354
+          ],
+          [
+            -0.261814,
+            5.5804188
+          ],
+          [
+            -0.2616474,
+            5.5803906
+          ],
+          [
+            -0.261452,
+            5.5803463
+          ],
+          [
+            -0.2612645,
+            5.5802952
+          ],
+          [
+            -0.2611,
+            5.5802379
+          ],
+          [
+            -0.2609408,
+            5.5801774
+          ],
+          [
+            -0.2607606,
+            5.5800992
+          ],
+          [
+            -0.2605846,
+            5.5799991
+          ],
+          [
+            -0.2601876,
+            5.5797583
+          ],
+          [
+            -0.2569311,
+            5.5777966
+          ],
+          [
+            -0.2549859,
+            5.5766118
+          ],
+          [
+            -0.2547852,
+            5.5764948
+          ],
+          [
+            -0.2542121,
+            5.5760087
+          ],
+          [
+            -0.2533109,
+            5.5754682
+          ],
+          [
+            -0.2524124,
+            5.5749502
+          ],
+          [
+            -0.2481734,
+            5.5723855
+          ],
+          [
+            -0.2473637,
+            5.5718913
+          ],
+          [
+            -0.2457641,
+            5.5709442
+          ],
+          [
+            -0.2450907,
+            5.5705595
+          ],
+          [
+            -0.2427577,
+            5.5691674
+          ],
+          [
+            -0.2426045,
+            5.5691214
+          ],
+          [
+            -0.2424788,
+            5.5691083
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 437 : Odorkor → South Odorkor",
+        "attributes": {
+          "operator": "Odorkor Branch Of GPRTU",
+          "to": "South Odorkor",
+          "from": "Odorkor",
+          "ref": "437",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2638583,
+            5.581196
+          ],
+          [
+            -0.2638026,
+            5.5810639
+          ],
+          [
+            -0.2636471,
+            5.5809538
+          ],
+          [
+            -0.2634563,
+            5.5809168
+          ],
+          [
+            -0.2633677,
+            5.5806533
+          ],
+          [
+            -0.2632897,
+            5.5805814
+          ],
+          [
+            -0.2632199,
+            5.580544
+          ],
+          [
+            -0.2631438,
+            5.5805429
+          ],
+          [
+            -0.262894,
+            5.5805994
+          ],
+          [
+            -0.2625115,
+            5.5806579
+          ],
+          [
+            -0.2621114,
+            5.5806776
+          ],
+          [
+            -0.2617188,
+            5.5806464
+          ],
+          [
+            -0.2613809,
+            5.5805745
+          ],
+          [
+            -0.2611938,
+            5.580512
+          ],
+          [
+            -0.2610792,
+            5.5804738
+          ],
+          [
+            -0.2610579,
+            5.580465
+          ],
+          [
+            -0.2608805,
+            5.5803922
+          ],
+          [
+            -0.2607901,
+            5.5803551
+          ],
+          [
+            -0.2605274,
+            5.5802183
+          ],
+          [
+            -0.2594961,
+            5.5796091
+          ],
+          [
+            -0.2582594,
+            5.5788721
+          ],
+          [
+            -0.2580902,
+            5.5787713
+          ],
+          [
+            -0.2549169,
+            5.5768694
+          ],
+          [
+            -0.2524776,
+            5.5753889
+          ],
+          [
+            -0.2514326,
+            5.5747376
+          ],
+          [
+            -0.2505334,
+            5.5742123
+          ],
+          [
+            -0.2471108,
+            5.5721419
+          ],
+          [
+            -0.2462131,
+            5.5716027
+          ],
+          [
+            -0.2451192,
+            5.5709457
+          ],
+          [
+            -0.2426891,
+            5.56952
+          ],
+          [
+            -0.2426661,
+            5.5694581
+          ],
+          [
+            -0.2426515,
+            5.5693791
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 437 : South Odorkor → Odorkor",
+        "attributes": {
+          "operator": "Odorkor Branch Of GPRTU",
+          "to": "Odorkor",
+          "from": "South Odorkor",
+          "ref": "437",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2426319,
+          5.5695562
+        ]
+      },
+      "properties": {
+        "name": "First Light",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2638295,
+          5.5812053
+        ]
+      },
+      "properties": {
+        "name": "Odorkor",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2429732,
+          5.5692626
+        ]
+      },
+      "properties": {
+        "name": "First Light",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2455052,
+          5.5707697
+        ]
+      },
+      "properties": {
+        "name": "Accra Academy",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2475403,
+          5.5719739
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Quarters",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2511787,
+          5.5741643
+        ]
+      },
+      "properties": {
+        "name": "Atico",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2544491,
+          5.5761129
+        ]
+      },
+      "properties": {
+        "name": "Darkuman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2597268,
+          5.5798092
+        ]
+      },
+      "properties": {
+        "name": "Waterworks junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2574568,
+          5.5784262
+        ]
+      },
+      "properties": {
+        "name": "Glory Land junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2550811,
+          5.5770094
+        ]
+      },
+      "properties": {
+        "name": "Darkuman junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2490946,
+          5.5733854
+        ]
+      },
+      "properties": {
+        "name": "Goil",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2454645,
+          5.5711838
+        ]
+      },
+      "properties": {
+        "name": "Accra Academy",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2521162,
+          5.5752116
+        ]
+      },
+      "properties": {
+        "name": "Dansoman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2477455,
+          5.5725993
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Quarters",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2525564,
+          5.5749979
+        ]
+      },
+      "properties": {
+        "name": "Dansoman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2639052,
+          5.5811887
+        ]
+      },
+      "properties": {
+        "name": "Odorkor",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2580518,
+          5.5782711
+        ]
+      },
+      "properties": {
+        "name": "Glory Land",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2601827,
+          5.5795988
+        ]
+      },
+      "properties": {
+        "name": "Waterworks junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2507167,
+          5.5743722
+        ]
+      },
+      "properties": {
+        "name": "Atico",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2490097,
+          5.5728553
+        ]
+      },
+      "properties": {
+        "name": "Goil",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2564844,
+          5.5773181
+        ]
+      },
+      "properties": {
+        "name": "Odorkor Police Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2561054,
+          5.5776529
+        ]
+      },
+      "properties": {
+        "name": "Odorkor Police Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

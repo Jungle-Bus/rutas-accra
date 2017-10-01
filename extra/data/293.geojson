@@ -1,0 +1,1185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2459124,
+            5.5266085
+          ],
+          [
+            -0.2454879,
+            5.5266398
+          ],
+          [
+            -0.2438417,
+            5.5267778
+          ],
+          [
+            -0.242186,
+            5.5269094
+          ],
+          [
+            -0.2422471,
+            5.5275574
+          ],
+          [
+            -0.2423008,
+            5.5282481
+          ],
+          [
+            -0.2423545,
+            5.5289111
+          ],
+          [
+            -0.2424051,
+            5.5295861
+          ],
+          [
+            -0.2424514,
+            5.5302437
+          ],
+          [
+            -0.2425193,
+            5.5308813
+          ],
+          [
+            -0.2425795,
+            5.5317298
+          ],
+          [
+            -0.2426579,
+            5.5327274
+          ],
+          [
+            -0.2427178,
+            5.5333734
+          ],
+          [
+            -0.2427757,
+            5.5340047
+          ],
+          [
+            -0.242758,
+            5.534181
+          ],
+          [
+            -0.2427285,
+            5.5343525
+          ],
+          [
+            -0.2426486,
+            5.5346908
+          ],
+          [
+            -0.2426097,
+            5.5347575
+          ],
+          [
+            -0.2421148,
+            5.5353062
+          ],
+          [
+            -0.2416307,
+            5.5358455
+          ],
+          [
+            -0.2415797,
+            5.5359002
+          ],
+          [
+            -0.2412438,
+            5.5362439
+          ],
+          [
+            -0.2408009,
+            5.5367311
+          ],
+          [
+            -0.2403637,
+            5.5372223
+          ],
+          [
+            -0.2399225,
+            5.5377149
+          ],
+          [
+            -0.2394712,
+            5.5381941
+          ],
+          [
+            -0.2392351,
+            5.5384453
+          ],
+          [
+            -0.2390085,
+            5.5386799
+          ],
+          [
+            -0.2389039,
+            5.5387774
+          ],
+          [
+            -0.2388194,
+            5.5388562
+          ],
+          [
+            -0.2390285,
+            5.5397642
+          ],
+          [
+            -0.2392204,
+            5.5405587
+          ],
+          [
+            -0.2392328,
+            5.5406162
+          ],
+          [
+            -0.239483,
+            5.5416386
+          ],
+          [
+            -0.2395627,
+            5.5419752
+          ],
+          [
+            -0.2397929,
+            5.5429598
+          ],
+          [
+            -0.2398922,
+            5.5433335
+          ],
+          [
+            -0.2400182,
+            5.5438528
+          ],
+          [
+            -0.2401255,
+            5.5442465
+          ],
+          [
+            -0.240151,
+            5.5444054
+          ],
+          [
+            -0.2401617,
+            5.5446056
+          ],
+          [
+            -0.240155,
+            5.5454505
+          ],
+          [
+            -0.2401567,
+            5.5469375
+          ],
+          [
+            -0.2401604,
+            5.5470575
+          ],
+          [
+            -0.2401628,
+            5.5471813
+          ],
+          [
+            -0.2401658,
+            5.547342
+          ],
+          [
+            -0.2401607,
+            5.5480238
+          ],
+          [
+            -0.2401564,
+            5.5492401
+          ],
+          [
+            -0.2401591,
+            5.5502492
+          ],
+          [
+            -0.2401651,
+            5.5504802
+          ],
+          [
+            -0.2401624,
+            5.5507405
+          ],
+          [
+            -0.2401557,
+            5.5511663
+          ],
+          [
+            -0.2401624,
+            5.5532833
+          ],
+          [
+            -0.2401634,
+            5.5545534
+          ],
+          [
+            -0.2401607,
+            5.5553997
+          ],
+          [
+            -0.2401567,
+            5.5560457
+          ],
+          [
+            -0.2401607,
+            5.5564195
+          ],
+          [
+            -0.240155,
+            5.5564798
+          ],
+          [
+            -0.2401379,
+            5.5566624
+          ],
+          [
+            -0.2401012,
+            5.5568432
+          ],
+          [
+            -0.2399535,
+            5.5573561
+          ],
+          [
+            -0.2398957,
+            5.5575599
+          ],
+          [
+            -0.2398271,
+            5.5578019
+          ],
+          [
+            -0.2397324,
+            5.5581364
+          ],
+          [
+            -0.2393113,
+            5.5595513
+          ],
+          [
+            -0.2391019,
+            5.5603037
+          ],
+          [
+            -0.2389343,
+            5.5609351
+          ],
+          [
+            -0.2388431,
+            5.5611847
+          ],
+          [
+            -0.2387733,
+            5.5613462
+          ],
+          [
+            -0.23843,
+            5.5619308
+          ],
+          [
+            -0.2374832,
+            5.5635165
+          ],
+          [
+            -0.2372256,
+            5.5639609
+          ],
+          [
+            -0.2367174,
+            5.5647726
+          ],
+          [
+            -0.2369099,
+            5.5648821
+          ],
+          [
+            -0.2371348,
+            5.565034
+          ],
+          [
+            -0.2372468,
+            5.5648545
+          ],
+          [
+            -0.2371355,
+            5.5647838
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 293 : Kaneshie Takoradi Station → Mamprobi C Lante",
+        "attributes": {
+          "operator": "Okaikwe Taxi Drivers Union",
+          "to": "Mamprobi C Lante",
+          "from": "Kaneshie Takoradi Station",
+          "ref": "293",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2461359,
+            5.526592
+          ],
+          [
+            -0.2459124,
+            5.5266085
+          ],
+          [
+            -0.2454879,
+            5.5266398
+          ],
+          [
+            -0.2438417,
+            5.5267778
+          ],
+          [
+            -0.242186,
+            5.5269094
+          ],
+          [
+            -0.2422471,
+            5.5275574
+          ],
+          [
+            -0.2423008,
+            5.5282481
+          ],
+          [
+            -0.2423545,
+            5.5289111
+          ],
+          [
+            -0.2424051,
+            5.5295861
+          ],
+          [
+            -0.2424514,
+            5.5302437
+          ],
+          [
+            -0.2425193,
+            5.5308813
+          ],
+          [
+            -0.2425795,
+            5.5317298
+          ],
+          [
+            -0.2426579,
+            5.5327274
+          ],
+          [
+            -0.2427178,
+            5.5333734
+          ],
+          [
+            -0.2427757,
+            5.5340047
+          ],
+          [
+            -0.242758,
+            5.534181
+          ],
+          [
+            -0.2427285,
+            5.5343525
+          ],
+          [
+            -0.2426486,
+            5.5346908
+          ],
+          [
+            -0.2426097,
+            5.5347575
+          ],
+          [
+            -0.2421148,
+            5.5353062
+          ],
+          [
+            -0.2416307,
+            5.5358455
+          ],
+          [
+            -0.2415797,
+            5.5359002
+          ],
+          [
+            -0.2412438,
+            5.5362439
+          ],
+          [
+            -0.2408009,
+            5.5367311
+          ],
+          [
+            -0.2403637,
+            5.5372223
+          ],
+          [
+            -0.2399225,
+            5.5377149
+          ],
+          [
+            -0.2394712,
+            5.5381941
+          ],
+          [
+            -0.2392351,
+            5.5384453
+          ],
+          [
+            -0.2390085,
+            5.5386799
+          ],
+          [
+            -0.2389039,
+            5.5387774
+          ],
+          [
+            -0.2388194,
+            5.5388562
+          ],
+          [
+            -0.2390285,
+            5.5397642
+          ],
+          [
+            -0.2392204,
+            5.5405587
+          ],
+          [
+            -0.2392328,
+            5.5406162
+          ],
+          [
+            -0.239483,
+            5.5416386
+          ],
+          [
+            -0.2395627,
+            5.5419752
+          ],
+          [
+            -0.2397929,
+            5.5429598
+          ],
+          [
+            -0.2398922,
+            5.5433335
+          ],
+          [
+            -0.2400182,
+            5.5438528
+          ],
+          [
+            -0.2401255,
+            5.5442465
+          ],
+          [
+            -0.240151,
+            5.5444054
+          ],
+          [
+            -0.2401617,
+            5.5446056
+          ],
+          [
+            -0.240155,
+            5.5454505
+          ],
+          [
+            -0.2401567,
+            5.5469375
+          ],
+          [
+            -0.2401604,
+            5.5470575
+          ],
+          [
+            -0.2401628,
+            5.5471813
+          ],
+          [
+            -0.2401658,
+            5.547342
+          ],
+          [
+            -0.2401607,
+            5.5480238
+          ],
+          [
+            -0.2401564,
+            5.5492401
+          ],
+          [
+            -0.2401591,
+            5.5502492
+          ],
+          [
+            -0.2401651,
+            5.5504802
+          ],
+          [
+            -0.2401624,
+            5.5507405
+          ],
+          [
+            -0.2401557,
+            5.5511663
+          ],
+          [
+            -0.2401624,
+            5.5532833
+          ],
+          [
+            -0.2401634,
+            5.5545534
+          ],
+          [
+            -0.2401607,
+            5.5553997
+          ],
+          [
+            -0.2401567,
+            5.5560457
+          ],
+          [
+            -0.2401607,
+            5.5564195
+          ],
+          [
+            -0.240155,
+            5.5564798
+          ],
+          [
+            -0.2401379,
+            5.5566624
+          ],
+          [
+            -0.2401012,
+            5.5568432
+          ],
+          [
+            -0.2399535,
+            5.5573561
+          ],
+          [
+            -0.2398957,
+            5.5575599
+          ],
+          [
+            -0.2398271,
+            5.5578019
+          ],
+          [
+            -0.2397324,
+            5.5581364
+          ],
+          [
+            -0.2393113,
+            5.5595513
+          ],
+          [
+            -0.2391019,
+            5.5603037
+          ],
+          [
+            -0.2389343,
+            5.5609351
+          ],
+          [
+            -0.2388431,
+            5.5611847
+          ],
+          [
+            -0.2387733,
+            5.5613462
+          ],
+          [
+            -0.23843,
+            5.5619308
+          ],
+          [
+            -0.2374832,
+            5.5635165
+          ],
+          [
+            -0.2372256,
+            5.5639609
+          ],
+          [
+            -0.2367174,
+            5.5647726
+          ],
+          [
+            -0.2369099,
+            5.5648821
+          ],
+          [
+            -0.2370295,
+            5.5647137
+          ],
+          [
+            -0.2371355,
+            5.5647838
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 293 : Mamprobi C Lante → Kaneshie Takoradi Station",
+        "attributes": {
+          "operator": "Okaikwe Taxi Drivers Union",
+          "to": "Kaneshie Takoradi Station",
+          "from": "Mamprobi C Lante",
+          "ref": "293",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2399263,
+          5.5436043
+        ]
+      },
+      "properties": {
+        "name": "Korle Bu Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2376365,
+          5.5632117
+        ]
+      },
+      "properties": {
+        "name": "Dansoman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2387208,
+          5.561402
+        ]
+      },
+      "properties": {
+        "name": "Asoredan ho",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2397888,
+          5.5577934
+        ]
+      },
+      "properties": {
+        "name": "Zongo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401432,
+          5.5562747
+        ]
+      },
+      "properties": {
+        "name": "Kasoa Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401289,
+          5.5535038
+        ]
+      },
+      "properties": {
+        "name": "Pipeier Naa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401201,
+          5.5511073
+        ]
+      },
+      "properties": {
+        "name": "Black Smith",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401327,
+          5.5480701
+        ]
+      },
+      "properties": {
+        "name": "Radio Gold",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2392821,
+          5.5409656
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2402048,
+          5.5529372
+        ]
+      },
+      "properties": {
+        "name": "Pipeier Naa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2402106,
+          5.5486332
+        ]
+      },
+      "properties": {
+        "name": "Radio Gold",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2395311,
+          5.5416466
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2399215,
+          5.5575568
+        ]
+      },
+      "properties": {
+        "name": "Zongo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2402081,
+          5.5508347
+        ]
+      },
+      "properties": {
+        "name": "Black Smith",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2390579,
+          5.5385926
+        ]
+      },
+      "properties": {
+        "name": "Sempe First",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2370755,
+          5.5648094
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Takoradi Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2370755,
+          5.5648094
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Takoradi Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2400797,
+          5.5375136
+        ]
+      },
+      "properties": {
+        "name": "Sempe Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2422865,
+          5.53506
+        ]
+      },
+      "properties": {
+        "name": "Abodwe",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2422987,
+          5.5351291
+        ]
+      },
+      "properties": {
+        "name": "Abodwe",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.239819,
+          5.5378518
+        ]
+      },
+      "properties": {
+        "name": "Sempe Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2461495,
+          5.5265448
+        ]
+      },
+      "properties": {
+        "name": "Lantemame",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2437244,
+          5.5268044
+        ]
+      },
+      "properties": {
+        "name": "Alomo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2422749,
+          5.5276379
+        ]
+      },
+      "properties": {
+        "name": "Tea Gadern",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2425509,
+          5.531008
+        ]
+      },
+      "properties": {
+        "name": "Kakalika",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2426232,
+          5.5319185
+        ]
+      },
+      "properties": {
+        "name": "Girl School",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2412274,
+          5.5362127
+        ]
+      },
+      "properties": {
+        "name": "Liju",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2425715,
+          5.5318558
+        ]
+      },
+      "properties": {
+        "name": "Girl School",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2425133,
+          5.5309921
+        ]
+      },
+      "properties": {
+        "name": "Kakalika",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2423989,
+          5.5296554
+        ]
+      },
+      "properties": {
+        "name": "Anna Larbi",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2423556,
+          5.5290841
+        ]
+      },
+      "properties": {
+        "name": "Extra O",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2422238,
+          5.527449
+        ]
+      },
+      "properties": {
+        "name": "Tea Gadern",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2459136,
+          5.5266297
+        ]
+      },
+      "properties": {
+        "name": "Lantemame",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

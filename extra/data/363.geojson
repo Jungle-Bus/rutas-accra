@@ -1,0 +1,1133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2378153,
+            5.5640316
+          ],
+          [
+            -0.2377239,
+            5.5636416
+          ],
+          [
+            -0.2381517,
+            5.5635508
+          ],
+          [
+            -0.2382107,
+            5.5635428
+          ],
+          [
+            -0.2382657,
+            5.5635388
+          ],
+          [
+            -0.2383395,
+            5.5635495
+          ],
+          [
+            -0.2383958,
+            5.5635721
+          ],
+          [
+            -0.2384554,
+            5.5636053
+          ],
+          [
+            -0.2389463,
+            5.5639025
+          ],
+          [
+            -0.2400853,
+            5.5646027
+          ],
+          [
+            -0.2422419,
+            5.5658941
+          ],
+          [
+            -0.2426178,
+            5.5652874
+          ],
+          [
+            -0.2432102,
+            5.5656597
+          ],
+          [
+            -0.2437991,
+            5.5660337
+          ],
+          [
+            -0.2441819,
+            5.5653109
+          ],
+          [
+            -0.2446218,
+            5.5643669
+          ],
+          [
+            -0.24475,
+            5.5643324
+          ],
+          [
+            -0.2449046,
+            5.5644297
+          ],
+          [
+            -0.2452021,
+            5.5645875
+          ],
+          [
+            -0.2455073,
+            5.5647625
+          ],
+          [
+            -0.2457845,
+            5.5649292
+          ],
+          [
+            -0.2464533,
+            5.5653403
+          ],
+          [
+            -0.2470921,
+            5.5657199
+          ],
+          [
+            -0.2476504,
+            5.5660478
+          ],
+          [
+            -0.2480345,
+            5.5662946
+          ],
+          [
+            -0.2482589,
+            5.5664315
+          ],
+          [
+            -0.2488904,
+            5.5668118
+          ],
+          [
+            -0.2494234,
+            5.5671475
+          ],
+          [
+            -0.2501897,
+            5.5676374
+          ],
+          [
+            -0.250793,
+            5.5680305
+          ],
+          [
+            -0.2512129,
+            5.5683422
+          ],
+          [
+            -0.251615,
+            5.5686382
+          ],
+          [
+            -0.2528721,
+            5.5666283
+          ],
+          [
+            -0.2531949,
+            5.5667758
+          ],
+          [
+            -0.2538834,
+            5.5656536
+          ],
+          [
+            -0.2543576,
+            5.5658633
+          ],
+          [
+            -0.2548099,
+            5.5652345
+          ],
+          [
+            -0.2552326,
+            5.5647963
+          ],
+          [
+            -0.2552845,
+            5.5647692
+          ],
+          [
+            -0.2560061,
+            5.5644333
+          ],
+          [
+            -0.2558075,
+            5.5640922
+          ],
+          [
+            -0.2555966,
+            5.5636684
+          ],
+          [
+            -0.255188,
+            5.5626213
+          ],
+          [
+            -0.2549264,
+            5.5619432
+          ],
+          [
+            -0.2548465,
+            5.5617463
+          ],
+          [
+            -0.254761,
+            5.5615354
+          ],
+          [
+            -0.2546323,
+            5.5610148
+          ],
+          [
+            -0.2545711,
+            5.5607913
+          ],
+          [
+            -0.2544915,
+            5.560595
+          ],
+          [
+            -0.2542458,
+            5.5600992
+          ],
+          [
+            -0.2540117,
+            5.5595793
+          ],
+          [
+            -0.2539488,
+            5.5593918
+          ],
+          [
+            -0.2538919,
+            5.5591963
+          ],
+          [
+            -0.253863,
+            5.5590794
+          ],
+          [
+            -0.2539042,
+            5.5590676
+          ],
+          [
+            -0.2541613,
+            5.558994
+          ],
+          [
+            -0.2544657,
+            5.5589186
+          ],
+          [
+            -0.2549901,
+            5.5588192
+          ],
+          [
+            -0.2554962,
+            5.5587188
+          ],
+          [
+            -0.2557181,
+            5.5586719
+          ],
+          [
+            -0.2564185,
+            5.5585034
+          ],
+          [
+            -0.2569736,
+            5.5583784
+          ],
+          [
+            -0.256966,
+            5.5582128
+          ],
+          [
+            -0.2569638,
+            5.5581661
+          ],
+          [
+            -0.2569133,
+            5.5570714
+          ],
+          [
+            -0.256935,
+            5.5568876
+          ],
+          [
+            -0.2569601,
+            5.5568299
+          ],
+          [
+            -0.2570051,
+            5.5567981
+          ],
+          [
+            -0.2572023,
+            5.5567824
+          ],
+          [
+            -0.2572337,
+            5.5564095
+          ],
+          [
+            -0.2572292,
+            5.5563564
+          ],
+          [
+            -0.2571398,
+            5.556272
+          ],
+          [
+            -0.2570919,
+            5.5562095
+          ],
+          [
+            -0.2571191,
+            5.555675
+          ],
+          [
+            -0.2571151,
+            5.5556044
+          ],
+          [
+            -0.2570822,
+            5.5550148
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 363 : Mataheko → Kaneshie",
+        "attributes": {
+          "operator": "Accra Arena - Total Zongo - Russia - Marteheko Branch of G.P.R.T.U",
+          "to": "Kaneshie",
+          "from": "Mataheko",
+          "ref": "363",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2570822,
+            5.5550148
+          ],
+          [
+            -0.2571151,
+            5.5556044
+          ],
+          [
+            -0.2571191,
+            5.555675
+          ],
+          [
+            -0.2570919,
+            5.5562095
+          ],
+          [
+            -0.2571398,
+            5.556272
+          ],
+          [
+            -0.2572292,
+            5.5563564
+          ],
+          [
+            -0.2572337,
+            5.5564095
+          ],
+          [
+            -0.2572023,
+            5.5567824
+          ],
+          [
+            -0.2570051,
+            5.5567981
+          ],
+          [
+            -0.2569601,
+            5.5568299
+          ],
+          [
+            -0.256935,
+            5.5568876
+          ],
+          [
+            -0.2569133,
+            5.5570714
+          ],
+          [
+            -0.2569638,
+            5.5581661
+          ],
+          [
+            -0.256966,
+            5.5582128
+          ],
+          [
+            -0.2569736,
+            5.5583784
+          ],
+          [
+            -0.2564185,
+            5.5585034
+          ],
+          [
+            -0.2557181,
+            5.5586719
+          ],
+          [
+            -0.2554962,
+            5.5587188
+          ],
+          [
+            -0.2549901,
+            5.5588192
+          ],
+          [
+            -0.2544657,
+            5.5589186
+          ],
+          [
+            -0.2541613,
+            5.558994
+          ],
+          [
+            -0.2539042,
+            5.5590676
+          ],
+          [
+            -0.2538919,
+            5.5591963
+          ],
+          [
+            -0.2539488,
+            5.5593918
+          ],
+          [
+            -0.2540117,
+            5.5595793
+          ],
+          [
+            -0.2542458,
+            5.5600992
+          ],
+          [
+            -0.2544915,
+            5.560595
+          ],
+          [
+            -0.2545711,
+            5.5607913
+          ],
+          [
+            -0.2546323,
+            5.5610148
+          ],
+          [
+            -0.254761,
+            5.5615354
+          ],
+          [
+            -0.2548465,
+            5.5617463
+          ],
+          [
+            -0.2549264,
+            5.5619432
+          ],
+          [
+            -0.255188,
+            5.5626213
+          ],
+          [
+            -0.2555966,
+            5.5636684
+          ],
+          [
+            -0.2558075,
+            5.5640922
+          ],
+          [
+            -0.2560061,
+            5.5644333
+          ],
+          [
+            -0.2552845,
+            5.5647692
+          ],
+          [
+            -0.2552326,
+            5.5647963
+          ],
+          [
+            -0.2548099,
+            5.5652345
+          ],
+          [
+            -0.2543576,
+            5.5658633
+          ],
+          [
+            -0.2538834,
+            5.5656536
+          ],
+          [
+            -0.2531949,
+            5.5667758
+          ],
+          [
+            -0.2528721,
+            5.5666283
+          ],
+          [
+            -0.251615,
+            5.5686382
+          ],
+          [
+            -0.2512129,
+            5.5683422
+          ],
+          [
+            -0.250793,
+            5.5680305
+          ],
+          [
+            -0.2501897,
+            5.5676374
+          ],
+          [
+            -0.2494234,
+            5.5671475
+          ],
+          [
+            -0.2488904,
+            5.5668118
+          ],
+          [
+            -0.2482589,
+            5.5664315
+          ],
+          [
+            -0.2480345,
+            5.5662946
+          ],
+          [
+            -0.2476504,
+            5.5660478
+          ],
+          [
+            -0.2470921,
+            5.5657199
+          ],
+          [
+            -0.2464533,
+            5.5653403
+          ],
+          [
+            -0.2457845,
+            5.5649292
+          ],
+          [
+            -0.2455073,
+            5.5647625
+          ],
+          [
+            -0.2452021,
+            5.5645875
+          ],
+          [
+            -0.2449046,
+            5.5644297
+          ],
+          [
+            -0.24475,
+            5.5643324
+          ],
+          [
+            -0.2447345,
+            5.5642859
+          ],
+          [
+            -0.2447014,
+            5.564203
+          ],
+          [
+            -0.2447303,
+            5.5641415
+          ],
+          [
+            -0.2449434,
+            5.5636437
+          ],
+          [
+            -0.2449086,
+            5.5635402
+          ],
+          [
+            -0.2448674,
+            5.5634795
+          ],
+          [
+            -0.2440289,
+            5.5629629
+          ],
+          [
+            -0.2429403,
+            5.5623043
+          ],
+          [
+            -0.2418042,
+            5.5616064
+          ],
+          [
+            -0.2415123,
+            5.5622134
+          ],
+          [
+            -0.2408122,
+            5.563364
+          ],
+          [
+            -0.2404582,
+            5.563962
+          ],
+          [
+            -0.2400853,
+            5.5646027
+          ],
+          [
+            -0.2389463,
+            5.5639025
+          ],
+          [
+            -0.2384554,
+            5.5636053
+          ],
+          [
+            -0.2383958,
+            5.5635721
+          ],
+          [
+            -0.2383395,
+            5.5635495
+          ],
+          [
+            -0.2382657,
+            5.5635388
+          ],
+          [
+            -0.2382107,
+            5.5635428
+          ],
+          [
+            -0.2381517,
+            5.5635508
+          ],
+          [
+            -0.2377239,
+            5.5636416
+          ],
+          [
+            -0.2378153,
+            5.5640316
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 363 : Kaneshie → Mataheko",
+        "attributes": {
+          "operator": "Accra Arena - Total Zongo - Russia - Marteheko Branch of G.P.R.T.U",
+          "to": "Mataheko",
+          "from": "Kaneshie",
+          "ref": "363",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2513486,
+          5.568473
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Pharmacy",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.249833,
+          5.5674461
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Police Quarters",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2473776,
+          5.5659396
+        ]
+      },
+      "properties": {
+        "name": "Peace Clinic",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.245349,
+          5.5647406
+        ]
+      },
+      "properties": {
+        "name": "JT",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2569765,
+          5.5582129
+        ]
+      },
+      "properties": {
+        "name": "New Russia Last Stop",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.256926,
+          5.5584066
+        ]
+      },
+      "properties": {
+        "name": "Slow Down",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2557587,
+          5.5586842
+        ]
+      },
+      "properties": {
+        "name": "Okwahu Motors",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2378979,
+          5.5635742
+        ]
+      },
+      "properties": {
+        "name": "Dansoman Trotro Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2388382,
+          5.5638148
+        ]
+      },
+      "properties": {
+        "name": "Ashley's",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2405406,
+          5.564836
+        ]
+      },
+      "properties": {
+        "name": "Kant",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2425567,
+          5.565345
+        ]
+      },
+      "properties": {
+        "name": "Central University",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2439167,
+          5.5657429
+        ]
+      },
+      "properties": {
+        "name": "Kateco",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2540148,
+          5.558998
+        ]
+      },
+      "properties": {
+        "name": "Mars Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2553837,
+          5.5587045
+        ]
+      },
+      "properties": {
+        "name": "Okwahu Motors",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2378684,
+          5.564024
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2450339,
+          5.564454
+        ]
+      },
+      "properties": {
+        "name": "JT",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2499014,
+          5.5674059
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Police Quarters",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2514544,
+          5.5684844
+        ]
+      },
+      "properties": {
+        "name": "Mataheko Pharmacy",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2377839,
+          5.5640396
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2445081,
+          5.5645406
+        ]
+      },
+      "properties": {
+        "name": "Flamingo",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2477508,
+          5.5660553
+        ]
+      },
+      "properties": {
+        "name": "Peace Clinic",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2548057,
+          5.565211
+        ]
+      },
+      "properties": {
+        "name": "Liberty",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2549669,
+          5.5621759
+        ]
+      },
+      "properties": {
+        "name": "Mars",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2570488,
+          5.5561363
+        ]
+      },
+      "properties": {
+        "name": "New Russia",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.257078,
+          5.5556049
+        ]
+      },
+      "properties": {
+        "name": "Mataheko",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2571133,
+          5.5550155
+        ]
+      },
+      "properties": {
+        "name": "Mataheko",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2539324,
+          5.5591365
+        ]
+      },
+      "properties": {
+        "name": "Filling Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2559659,
+          5.564507
+        ]
+      },
+      "properties": {
+        "name": "Mars",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2528763,
+          5.566682
+        ]
+      },
+      "properties": {
+        "name": "Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1633 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2089864,
+            5.540502
+          ],
+          [
+            -0.2089927,
+            5.5404997
+          ],
+          [
+            -0.209079,
+            5.5404927
+          ],
+          [
+            -0.2090769,
+            5.5403762
+          ],
+          [
+            -0.2090637,
+            5.5401485
+          ],
+          [
+            -0.209051,
+            5.5401125
+          ],
+          [
+            -0.2090402,
+            5.5400851
+          ],
+          [
+            -0.2089765,
+            5.5400137
+          ],
+          [
+            -0.2089672,
+            5.5399949
+          ],
+          [
+            -0.2089651,
+            5.5399737
+          ],
+          [
+            -0.2089691,
+            5.5399597
+          ],
+          [
+            -0.2089785,
+            5.5399383
+          ],
+          [
+            -0.2089933,
+            5.539921
+          ],
+          [
+            -0.2091284,
+            5.5397488
+          ],
+          [
+            -0.2091351,
+            5.5397294
+          ],
+          [
+            -0.2091425,
+            5.5397054
+          ],
+          [
+            -0.2091405,
+            5.53968
+          ],
+          [
+            -0.2087335,
+            5.5385928
+          ],
+          [
+            -0.209058,
+            5.5382457
+          ],
+          [
+            -0.2093719,
+            5.5379053
+          ],
+          [
+            -0.2095985,
+            5.5376797
+          ],
+          [
+            -0.2099981,
+            5.5373047
+          ],
+          [
+            -0.2100585,
+            5.5372579
+          ],
+          [
+            -0.2103736,
+            5.5369736
+          ],
+          [
+            -0.2105239,
+            5.5368188
+          ],
+          [
+            -0.210603,
+            5.5366973
+          ],
+          [
+            -0.2106435,
+            5.5366112
+          ],
+          [
+            -0.2106928,
+            5.536465
+          ],
+          [
+            -0.2107103,
+            5.5363689
+          ],
+          [
+            -0.2107411,
+            5.536114
+          ],
+          [
+            -0.2108176,
+            5.5356228
+          ],
+          [
+            -0.2108524,
+            5.5354906
+          ],
+          [
+            -0.2109497,
+            5.5352223
+          ],
+          [
+            -0.2110683,
+            5.5349246
+          ],
+          [
+            -0.2111656,
+            5.5349587
+          ],
+          [
+            -0.2112165,
+            5.5349987
+          ],
+          [
+            -0.2112802,
+            5.5350721
+          ],
+          [
+            -0.2120456,
+            5.5362173
+          ],
+          [
+            -0.2123308,
+            5.5366823
+          ],
+          [
+            -0.212596,
+            5.5371414
+          ],
+          [
+            -0.2127353,
+            5.5374597
+          ],
+          [
+            -0.2128845,
+            5.5378861
+          ],
+          [
+            -0.212931,
+            5.5380951
+          ],
+          [
+            -0.2130164,
+            5.5384905
+          ],
+          [
+            -0.2130879,
+            5.5388266
+          ],
+          [
+            -0.2130981,
+            5.5388745
+          ],
+          [
+            -0.2131088,
+            5.5389249
+          ],
+          [
+            -0.2131352,
+            5.5390489
+          ],
+          [
+            -0.2139916,
+            5.5388622
+          ],
+          [
+            -0.2144066,
+            5.5387702
+          ],
+          [
+            -0.2151381,
+            5.5386202
+          ],
+          [
+            -0.2152757,
+            5.5385894
+          ],
+          [
+            -0.2158529,
+            5.5384602
+          ],
+          [
+            -0.2161969,
+            5.5383881
+          ],
+          [
+            -0.2168622,
+            5.5382334
+          ],
+          [
+            -0.2170223,
+            5.5381719
+          ],
+          [
+            -0.2172503,
+            5.5381159
+          ],
+          [
+            -0.2174089,
+            5.5380872
+          ],
+          [
+            -0.217516,
+            5.5380701
+          ],
+          [
+            -0.2176815,
+            5.5380365
+          ],
+          [
+            -0.2178376,
+            5.538
+          ],
+          [
+            -0.218128,
+            5.5379393
+          ],
+          [
+            -0.219413,
+            5.5376705
+          ],
+          [
+            -0.220152,
+            5.537501
+          ],
+          [
+            -0.2207426,
+            5.5373748
+          ],
+          [
+            -0.22138,
+            5.5372429
+          ],
+          [
+            -0.2216371,
+            5.537187
+          ],
+          [
+            -0.2217578,
+            5.5371589
+          ],
+          [
+            -0.2221559,
+            5.5370721
+          ],
+          [
+            -0.2232123,
+            5.5368418
+          ],
+          [
+            -0.2234811,
+            5.5367958
+          ],
+          [
+            -0.2236011,
+            5.5367992
+          ],
+          [
+            -0.2236561,
+            5.5367878
+          ],
+          [
+            -0.2244349,
+            5.5366257
+          ],
+          [
+            -0.2260105,
+            5.5362854
+          ],
+          [
+            -0.2265073,
+            5.5361712
+          ],
+          [
+            -0.2290866,
+            5.5356098
+          ],
+          [
+            -0.2292462,
+            5.5355818
+          ],
+          [
+            -0.2303819,
+            5.5353353
+          ],
+          [
+            -0.2309744,
+            5.5352067
+          ],
+          [
+            -0.2316695,
+            5.5350559
+          ],
+          [
+            -0.2319109,
+            5.5350038
+          ],
+          [
+            -0.2329825,
+            5.5347742
+          ],
+          [
+            -0.2336909,
+            5.5346223
+          ],
+          [
+            -0.2344113,
+            5.5344631
+          ],
+          [
+            -0.2352413,
+            5.5342793
+          ],
+          [
+            -0.2360549,
+            5.5340988
+          ],
+          [
+            -0.2362574,
+            5.5340587
+          ],
+          [
+            -0.2364199,
+            5.5347261
+          ],
+          [
+            -0.2370755,
+            5.5346072
+          ],
+          [
+            -0.2377621,
+            5.5344439
+          ],
+          [
+            -0.2379109,
+            5.5350878
+          ],
+          [
+            -0.2381112,
+            5.5359318
+          ],
+          [
+            -0.2383012,
+            5.5367213
+          ],
+          [
+            -0.2383591,
+            5.5369464
+          ],
+          [
+            -0.2385766,
+            5.5378607
+          ],
+          [
+            -0.2387939,
+            5.5387561
+          ],
+          [
+            -0.2388194,
+            5.5388562
+          ],
+          [
+            -0.2390285,
+            5.5397642
+          ],
+          [
+            -0.2392204,
+            5.5405587
+          ],
+          [
+            -0.2392328,
+            5.5406162
+          ],
+          [
+            -0.239483,
+            5.5416386
+          ],
+          [
+            -0.2395627,
+            5.5419752
+          ],
+          [
+            -0.2397929,
+            5.5429598
+          ],
+          [
+            -0.2398922,
+            5.5433335
+          ],
+          [
+            -0.2402892,
+            5.5433055
+          ],
+          [
+            -0.2406412,
+            5.543251
+          ],
+          [
+            -0.2411381,
+            5.5432467
+          ],
+          [
+            -0.2416933,
+            5.5432152
+          ],
+          [
+            -0.2448421,
+            5.5429755
+          ],
+          [
+            -0.2467372,
+            5.5428209
+          ],
+          [
+            -0.2474755,
+            5.5427629
+          ],
+          [
+            -0.247463,
+            5.5437047
+          ],
+          [
+            -0.2475422,
+            5.5441548
+          ],
+          [
+            -0.2476797,
+            5.5441714
+          ],
+          [
+            -0.2476487,
+            5.5453195
+          ],
+          [
+            -0.2485745,
+            5.5452876
+          ],
+          [
+            -0.2486657,
+            5.5452983
+          ],
+          [
+            -0.2489499,
+            5.5452923
+          ],
+          [
+            -0.2497627,
+            5.5452743
+          ],
+          [
+            -0.2499988,
+            5.5452289
+          ],
+          [
+            -0.2502267,
+            5.5452236
+          ],
+          [
+            -0.2509053,
+            5.5452316
+          ],
+          [
+            -0.2517315,
+            5.5452316
+          ],
+          [
+            -0.2524073,
+            5.5452441
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 485 : Soko → Accra Post Office",
+        "attributes": {
+          "operator": "Banana Inn Salaga Tema Station Branch of GPRTU",
+          "to": "Accra Post Office",
+          "from": "Soko",
+          "ref": "485",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2089864,
+            5.540502
+          ],
+          [
+            -0.2089927,
+            5.5404997
+          ],
+          [
+            -0.209079,
+            5.5404927
+          ],
+          [
+            -0.2090849,
+            5.5408186
+          ],
+          [
+            -0.2092142,
+            5.5414874
+          ],
+          [
+            -0.2092296,
+            5.5416736
+          ],
+          [
+            -0.209233,
+            5.5417597
+          ],
+          [
+            -0.209235,
+            5.5418512
+          ],
+          [
+            -0.2092357,
+            5.5419145
+          ],
+          [
+            -0.2092491,
+            5.5419646
+          ],
+          [
+            -0.2092893,
+            5.5420233
+          ],
+          [
+            -0.2097628,
+            5.541927
+          ],
+          [
+            -0.2099871,
+            5.5418817
+          ],
+          [
+            -0.2105861,
+            5.5417402
+          ],
+          [
+            -0.2116212,
+            5.541506
+          ],
+          [
+            -0.2118699,
+            5.5414515
+          ],
+          [
+            -0.2125164,
+            5.5413098
+          ],
+          [
+            -0.2130376,
+            5.5412051
+          ],
+          [
+            -0.2135919,
+            5.5411082
+          ],
+          [
+            -0.2143612,
+            5.5409729
+          ],
+          [
+            -0.2151597,
+            5.5408132
+          ],
+          [
+            -0.2156836,
+            5.5406805
+          ],
+          [
+            -0.2162483,
+            5.540536
+          ],
+          [
+            -0.2166478,
+            5.5404215
+          ],
+          [
+            -0.2170754,
+            5.5403004
+          ],
+          [
+            -0.2176962,
+            5.5401484
+          ],
+          [
+            -0.2182763,
+            5.5399918
+          ],
+          [
+            -0.218384,
+            5.5399512
+          ],
+          [
+            -0.2184596,
+            5.5398992
+          ],
+          [
+            -0.2180573,
+            5.5391321
+          ],
+          [
+            -0.2177212,
+            5.5384666
+          ],
+          [
+            -0.2177084,
+            5.5383358
+          ],
+          [
+            -0.2177111,
+            5.5382624
+          ],
+          [
+            -0.2177232,
+            5.5382076
+          ],
+          [
+            -0.21775,
+            5.5381636
+          ],
+          [
+            -0.2177967,
+            5.5381268
+          ],
+          [
+            -0.2178646,
+            5.5380718
+          ],
+          [
+            -0.2194345,
+            5.5377506
+          ],
+          [
+            -0.2201721,
+            5.5375891
+          ],
+          [
+            -0.2205682,
+            5.5375043
+          ],
+          [
+            -0.2209775,
+            5.5374134
+          ],
+          [
+            -0.2216559,
+            5.5372643
+          ],
+          [
+            -0.2216955,
+            5.5372565
+          ],
+          [
+            -0.2217752,
+            5.537243
+          ],
+          [
+            -0.2219816,
+            5.5371954
+          ],
+          [
+            -0.2230515,
+            5.5369467
+          ],
+          [
+            -0.2234781,
+            5.5368526
+          ],
+          [
+            -0.2236011,
+            5.5367992
+          ],
+          [
+            -0.2236561,
+            5.5367878
+          ],
+          [
+            -0.2244349,
+            5.5366257
+          ],
+          [
+            -0.2260105,
+            5.5362854
+          ],
+          [
+            -0.2265073,
+            5.5361712
+          ],
+          [
+            -0.2290866,
+            5.5356098
+          ],
+          [
+            -0.2292462,
+            5.5355818
+          ],
+          [
+            -0.2303819,
+            5.5353353
+          ],
+          [
+            -0.2309744,
+            5.5352067
+          ],
+          [
+            -0.2316695,
+            5.5350559
+          ],
+          [
+            -0.2319109,
+            5.5350038
+          ],
+          [
+            -0.2329825,
+            5.5347742
+          ],
+          [
+            -0.2336909,
+            5.5346223
+          ],
+          [
+            -0.2344113,
+            5.5344631
+          ],
+          [
+            -0.2352413,
+            5.5342793
+          ],
+          [
+            -0.2360549,
+            5.5340988
+          ],
+          [
+            -0.2362574,
+            5.5340587
+          ],
+          [
+            -0.2364199,
+            5.5347261
+          ],
+          [
+            -0.2370755,
+            5.5346072
+          ],
+          [
+            -0.2377621,
+            5.5344439
+          ],
+          [
+            -0.2379109,
+            5.5350878
+          ],
+          [
+            -0.2381112,
+            5.5359318
+          ],
+          [
+            -0.2383012,
+            5.5367213
+          ],
+          [
+            -0.2383591,
+            5.5369464
+          ],
+          [
+            -0.2385766,
+            5.5378607
+          ],
+          [
+            -0.2387939,
+            5.5387561
+          ],
+          [
+            -0.2388194,
+            5.5388562
+          ],
+          [
+            -0.2390285,
+            5.5397642
+          ],
+          [
+            -0.2392204,
+            5.5405587
+          ],
+          [
+            -0.2392328,
+            5.5406162
+          ],
+          [
+            -0.239483,
+            5.5416386
+          ],
+          [
+            -0.2395627,
+            5.5419752
+          ],
+          [
+            -0.2397929,
+            5.5429598
+          ],
+          [
+            -0.2398922,
+            5.5433335
+          ],
+          [
+            -0.2402892,
+            5.5433055
+          ],
+          [
+            -0.2406412,
+            5.543251
+          ],
+          [
+            -0.2411381,
+            5.5432467
+          ],
+          [
+            -0.2416933,
+            5.5432152
+          ],
+          [
+            -0.2448421,
+            5.5429755
+          ],
+          [
+            -0.2467372,
+            5.5428209
+          ],
+          [
+            -0.2474755,
+            5.5427629
+          ],
+          [
+            -0.247463,
+            5.5437047
+          ],
+          [
+            -0.2475422,
+            5.5441548
+          ],
+          [
+            -0.2476797,
+            5.5441714
+          ],
+          [
+            -0.2476487,
+            5.5453195
+          ],
+          [
+            -0.2485745,
+            5.5452876
+          ],
+          [
+            -0.2486657,
+            5.5452983
+          ],
+          [
+            -0.2489499,
+            5.5452923
+          ],
+          [
+            -0.2497627,
+            5.5452743
+          ],
+          [
+            -0.2499988,
+            5.5452289
+          ],
+          [
+            -0.2502267,
+            5.5452236
+          ],
+          [
+            -0.2509053,
+            5.5452316
+          ],
+          [
+            -0.2517315,
+            5.5452316
+          ],
+          [
+            -0.2524073,
+            5.5452441
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 485 : Accra Post Office → Soko",
+        "attributes": {
+          "operator": "Banana Inn Salaga Tema Station Branch of GPRTU",
+          "to": "Soko",
+          "from": "Accra Post Office",
+          "ref": "485",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2264147,
+          5.5361606
+        ]
+      },
+      "properties": {
+        "name": "Korle Bu",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2270517,
+          5.5361206
+        ]
+      },
+      "properties": {
+        "name": "Korle Bu",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2392821,
+          5.5409656
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2387178,
+          5.5386027
+        ]
+      },
+      "properties": {
+        "name": "Sempe Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2383399,
+          5.5370014
+        ]
+      },
+      "properties": {
+        "name": "Sempe First",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2377661,
+          5.5346741
+        ]
+      },
+      "properties": {
+        "name": "Mamprobi Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2389032,
+          5.5391036
+        ]
+      },
+      "properties": {
+        "name": "Sempe First",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2395311,
+          5.5416466
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2383511,
+          5.5367807
+        ]
+      },
+      "properties": {
+        "name": "Sempe Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2233271,
+          5.5369187
+        ]
+      },
+      "properties": {
+        "name": "Korle-Bu Barber",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2172129,
+          5.5380858
+        ]
+      },
+      "properties": {
+        "name": "UTC",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2228491,
+          5.5368763
+        ]
+      },
+      "properties": {
+        "name": "Korle-Bu Barber",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2288497,
+          5.5356219
+        ]
+      },
+      "properties": {
+        "name": "Total",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2327288,
+          5.5347944
+        ]
+      },
+      "properties": {
+        "name": "Awotsɛ Kojo",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2354874,
+          5.5342777
+        ]
+      },
+      "properties": {
+        "name": "Plaza",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2329717,
+          5.5348332
+        ]
+      },
+      "properties": {
+        "name": "Awotsɛ Kojo",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2289742,
+          5.5356745
+        ]
+      },
+      "properties": {
+        "name": "Total",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2183589,
+          5.5380377
+        ]
+      },
+      "properties": {
+        "name": "UTC",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2298012,
+          5.5354204
+        ]
+      },
+      "properties": {
+        "name": "New Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2361789,
+          5.5340333
+        ]
+      },
+      "properties": {
+        "name": "Plaza",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.208928,
+          5.5383409
+        ]
+      },
+      "properties": {
+        "name": "Ussher Fort",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2089857,
+          5.5405002
+        ]
+      },
+      "properties": {
+        "name": "Accra Post Office",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2089857,
+          5.5405002
+        ]
+      },
+      "properties": {
+        "name": "Accra Post Office",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2486091,
+          5.5453241
+        ]
+      },
+      "properties": {
+        "name": "Soko Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2448359,
+          5.5429921
+        ]
+      },
+      "properties": {
+        "name": "Premier",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2151171,
+          5.5385878
+        ]
+      },
+      "properties": {
+        "name": "Agbado",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2206202,
+          5.5373444
+        ]
+      },
+      "properties": {
+        "name": "Boxing Arena",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2302348,
+          5.5353892
+        ]
+      },
+      "properties": {
+        "name": "New Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2090679,
+          5.5397822
+        ]
+      },
+      "properties": {
+        "name": "Sraha Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2334234,
+          5.534641
+        ]
+      },
+      "properties": {
+        "name": "Electricity",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2524094,
+          5.5452748
+        ]
+      },
+      "properties": {
+        "name": "Appiah Danquah/Soko",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2516712,
+          5.5452739
+        ]
+      },
+      "properties": {
+        "name": "Masalaachi",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2501886,
+          5.5452559
+        ]
+      },
+      "properties": {
+        "name": "Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2467918,
+          5.5427908
+        ]
+      },
+      "properties": {
+        "name": "Adonteng",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2508121,
+          5.5452143
+        ]
+      },
+      "properties": {
+        "name": "Second",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2091873,
+          5.5415778
+        ]
+      },
+      "properties": {
+        "name": "Sraha Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25241,
+          5.5452181
+        ]
+      },
+      "properties": {
+        "name": "Appiah Danquah/Soko",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2118153,
+          5.5415023
+        ]
+      },
+      "properties": {
+        "name": "Atta Quarshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2166568,
+          5.540445
+        ]
+      },
+      "properties": {
+        "name": "Agbado",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2154061,
+          5.5407833
+        ]
+      },
+      "properties": {
+        "name": "Akoto Lante",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2102761,
+          5.5371136
+        ]
+      },
+      "properties": {
+        "name": "One Way",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2130945,
+          5.5389276
+        ]
+      },
+      "properties": {
+        "name": "Akoto Lante",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2131134,
+          5.5412161
+        ]
+      },
+      "properties": {
+        "name": "Shell - Accra",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

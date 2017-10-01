@@ -1,0 +1,1333 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2091735,
+            5.5958565
+          ],
+          [
+            -0.2087179,
+            5.5954625
+          ],
+          [
+            -0.2082347,
+            5.5951485
+          ],
+          [
+            -0.2082096,
+            5.5951308
+          ],
+          [
+            -0.2079313,
+            5.5949354
+          ],
+          [
+            -0.2076468,
+            5.5947022
+          ],
+          [
+            -0.207586,
+            5.5946423
+          ],
+          [
+            -0.2074512,
+            5.5945043
+          ],
+          [
+            -0.2072961,
+            5.5943436
+          ],
+          [
+            -0.2070234,
+            5.5940315
+          ],
+          [
+            -0.2067107,
+            5.593706
+          ],
+          [
+            -0.2064981,
+            5.5934993
+          ],
+          [
+            -0.2062469,
+            5.5932631
+          ],
+          [
+            -0.2057299,
+            5.5928
+          ],
+          [
+            -0.2054771,
+            5.5925739
+          ],
+          [
+            -0.2052037,
+            5.5923076
+          ],
+          [
+            -0.2061737,
+            5.591228
+          ],
+          [
+            -0.2062524,
+            5.591139
+          ],
+          [
+            -0.2066526,
+            5.5906863
+          ],
+          [
+            -0.2070683,
+            5.5901939
+          ],
+          [
+            -0.2071721,
+            5.5899665
+          ],
+          [
+            -0.2072167,
+            5.589847
+          ],
+          [
+            -0.2072561,
+            5.5896586
+          ],
+          [
+            -0.2072963,
+            5.5894383
+          ],
+          [
+            -0.2073546,
+            5.5890027
+          ],
+          [
+            -0.2074525,
+            5.5883114
+          ],
+          [
+            -0.2074977,
+            5.5879864
+          ],
+          [
+            -0.2075322,
+            5.5877384
+          ],
+          [
+            -0.2075645,
+            5.5875056
+          ],
+          [
+            -0.2076363,
+            5.5870031
+          ],
+          [
+            -0.2076858,
+            5.5867522
+          ],
+          [
+            -0.2077468,
+            5.5864427
+          ],
+          [
+            -0.2078471,
+            5.585934
+          ],
+          [
+            -0.2079556,
+            5.5853571
+          ],
+          [
+            -0.2080815,
+            5.5847548
+          ],
+          [
+            -0.2081947,
+            5.584171
+          ],
+          [
+            -0.2083287,
+            5.5834914
+          ],
+          [
+            -0.2084034,
+            5.583056
+          ],
+          [
+            -0.2084615,
+            5.5827191
+          ],
+          [
+            -0.2084818,
+            5.5826011
+          ],
+          [
+            -0.2085179,
+            5.5824403
+          ],
+          [
+            -0.2085737,
+            5.5823018
+          ],
+          [
+            -0.2086544,
+            5.5821426
+          ],
+          [
+            -0.2090217,
+            5.5816425
+          ],
+          [
+            -0.2090461,
+            5.5816093
+          ],
+          [
+            -0.2093408,
+            5.58121
+          ],
+          [
+            -0.2096188,
+            5.5808295
+          ],
+          [
+            -0.2098124,
+            5.5805924
+          ],
+          [
+            -0.2103201,
+            5.57988
+          ],
+          [
+            -0.2107265,
+            5.579348
+          ],
+          [
+            -0.2111303,
+            5.5788225
+          ],
+          [
+            -0.2114597,
+            5.5783721
+          ],
+          [
+            -0.2115247,
+            5.5782832
+          ],
+          [
+            -0.211919,
+            5.5777493
+          ],
+          [
+            -0.2121317,
+            5.5774674
+          ],
+          [
+            -0.212327,
+            5.5772127
+          ],
+          [
+            -0.2127217,
+            5.5766804
+          ],
+          [
+            -0.2130156,
+            5.5762855
+          ],
+          [
+            -0.2131177,
+            5.5761482
+          ],
+          [
+            -0.2135038,
+            5.5756182
+          ],
+          [
+            -0.2139039,
+            5.5750916
+          ],
+          [
+            -0.2143936,
+            5.5744263
+          ],
+          [
+            -0.2146851,
+            5.5740344
+          ],
+          [
+            -0.2149626,
+            5.573649
+          ],
+          [
+            -0.2145939,
+            5.5733777
+          ],
+          [
+            -0.214533,
+            5.5733333
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 309 : Kotobabi Down → Circle Lido",
+        "attributes": {
+          "operator": "Kotobabi Down Branch of G.P.R.T.U Of TUC",
+          "to": "Circle Lido",
+          "from": "Kotobabi Down",
+          "ref": "309",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2134411,
+            5.5715319
+          ],
+          [
+            -0.2135769,
+            5.5721684
+          ],
+          [
+            -0.2135482,
+            5.5723613
+          ],
+          [
+            -0.2135494,
+            5.5724946
+          ],
+          [
+            -0.2135765,
+            5.5725905
+          ],
+          [
+            -0.2142463,
+            5.5731223
+          ],
+          [
+            -0.2142746,
+            5.5731448
+          ],
+          [
+            -0.214533,
+            5.5733333
+          ],
+          [
+            -0.2145939,
+            5.5733777
+          ],
+          [
+            -0.2149626,
+            5.573649
+          ],
+          [
+            -0.2146851,
+            5.5740344
+          ],
+          [
+            -0.2143936,
+            5.5744263
+          ],
+          [
+            -0.2139039,
+            5.5750916
+          ],
+          [
+            -0.2146207,
+            5.5756401
+          ],
+          [
+            -0.2153394,
+            5.5761627
+          ],
+          [
+            -0.2156708,
+            5.5764312
+          ],
+          [
+            -0.2157209,
+            5.5765185
+          ],
+          [
+            -0.2157707,
+            5.5766028
+          ],
+          [
+            -0.215801,
+            5.577295
+          ],
+          [
+            -0.2158348,
+            5.5781644
+          ],
+          [
+            -0.2158364,
+            5.578303
+          ],
+          [
+            -0.2158432,
+            5.5789148
+          ],
+          [
+            -0.2158561,
+            5.5798025
+          ],
+          [
+            -0.2158633,
+            5.5808479
+          ],
+          [
+            -0.2158929,
+            5.5815484
+          ],
+          [
+            -0.2158941,
+            5.5821967
+          ],
+          [
+            -0.2159241,
+            5.5830109
+          ],
+          [
+            -0.2159529,
+            5.5837922
+          ],
+          [
+            -0.2159377,
+            5.5843033
+          ],
+          [
+            -0.2159409,
+            5.5843989
+          ],
+          [
+            -0.2159482,
+            5.5845585
+          ],
+          [
+            -0.2159116,
+            5.5847604
+          ],
+          [
+            -0.2158723,
+            5.5848699
+          ],
+          [
+            -0.2158159,
+            5.5849526
+          ],
+          [
+            -0.2157589,
+            5.5850347
+          ],
+          [
+            -0.2156771,
+            5.5851081
+          ],
+          [
+            -0.2155926,
+            5.5851562
+          ],
+          [
+            -0.2155175,
+            5.5851788
+          ],
+          [
+            -0.2154169,
+            5.5851962
+          ],
+          [
+            -0.215252,
+            5.5852189
+          ],
+          [
+            -0.2143439,
+            5.585209
+          ],
+          [
+            -0.2134821,
+            5.5852142
+          ],
+          [
+            -0.2126579,
+            5.585208
+          ],
+          [
+            -0.211681,
+            5.5852222
+          ],
+          [
+            -0.2107395,
+            5.5852185
+          ],
+          [
+            -0.2102782,
+            5.5852303
+          ],
+          [
+            -0.2100725,
+            5.5852164
+          ],
+          [
+            -0.2099278,
+            5.5851876
+          ],
+          [
+            -0.209788,
+            5.5857221
+          ],
+          [
+            -0.2095912,
+            5.5864231
+          ],
+          [
+            -0.2095331,
+            5.5868837
+          ],
+          [
+            -0.2094969,
+            5.5872034
+          ],
+          [
+            -0.2094152,
+            5.5874496
+          ],
+          [
+            -0.2093144,
+            5.5876729
+          ],
+          [
+            -0.2092074,
+            5.5879488
+          ],
+          [
+            -0.2091403,
+            5.5882037
+          ],
+          [
+            -0.2090867,
+            5.5886161
+          ],
+          [
+            -0.2090273,
+            5.5886918
+          ],
+          [
+            -0.2089669,
+            5.5887225
+          ],
+          [
+            -0.2088941,
+            5.5887345
+          ],
+          [
+            -0.2087768,
+            5.5887265
+          ],
+          [
+            -0.2087161,
+            5.5887104
+          ],
+          [
+            -0.2086435,
+            5.5887253
+          ],
+          [
+            -0.2085782,
+            5.5887993
+          ],
+          [
+            -0.2085458,
+            5.5888597
+          ],
+          [
+            -0.2083233,
+            5.5895843
+          ],
+          [
+            -0.2082869,
+            5.5896536
+          ],
+          [
+            -0.2082449,
+            5.5897051
+          ],
+          [
+            -0.2081801,
+            5.5897341
+          ],
+          [
+            -0.2081122,
+            5.5897373
+          ],
+          [
+            -0.2080345,
+            5.5897308
+          ],
+          [
+            -0.2079633,
+            5.5897437
+          ],
+          [
+            -0.2078954,
+            5.5898017
+          ],
+          [
+            -0.2078511,
+            5.5898544
+          ],
+          [
+            -0.2078256,
+            5.5899128
+          ],
+          [
+            -0.2078019,
+            5.5899885
+          ],
+          [
+            -0.2077404,
+            5.5901367
+          ],
+          [
+            -0.2076289,
+            5.5906863
+          ],
+          [
+            -0.207493,
+            5.5911002
+          ],
+          [
+            -0.2074499,
+            5.5912098
+          ],
+          [
+            -0.2074219,
+            5.591281
+          ],
+          [
+            -0.2073235,
+            5.5914512
+          ],
+          [
+            -0.2070946,
+            5.5917461
+          ],
+          [
+            -0.2069748,
+            5.5918934
+          ],
+          [
+            -0.2070651,
+            5.5919663
+          ],
+          [
+            -0.207132,
+            5.592011
+          ],
+          [
+            -0.2071922,
+            5.592046
+          ],
+          [
+            -0.2072629,
+            5.5920846
+          ],
+          [
+            -0.2075827,
+            5.5922075
+          ],
+          [
+            -0.2079419,
+            5.5923468
+          ],
+          [
+            -0.2067107,
+            5.593706
+          ],
+          [
+            -0.2070234,
+            5.5940315
+          ],
+          [
+            -0.2072961,
+            5.5943436
+          ],
+          [
+            -0.2074512,
+            5.5945043
+          ],
+          [
+            -0.207586,
+            5.5946423
+          ],
+          [
+            -0.2076468,
+            5.5947022
+          ],
+          [
+            -0.2079313,
+            5.5949354
+          ],
+          [
+            -0.2082096,
+            5.5951308
+          ],
+          [
+            -0.2082347,
+            5.5951485
+          ],
+          [
+            -0.2087179,
+            5.5954625
+          ],
+          [
+            -0.2091735,
+            5.5958565
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 309 : Circle Lido → Kotobabi Down",
+        "attributes": {
+          "operator": "Kotobabi Down Branch of G.P.R.T.U Of TUC",
+          "to": "Kotobabi Down",
+          "from": "Circle Lido",
+          "ref": "309",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2084889,
+          5.5827214
+        ]
+      },
+      "properties": {
+        "name": "New Town",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2158397,
+          5.5805706
+        ]
+      },
+      "properties": {
+        "name": "Avalley",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2157956,
+          5.5784909
+        ]
+      },
+      "properties": {
+        "name": "Hubtel",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2063142,
+          5.593276
+        ]
+      },
+      "properties": {
+        "name": "Tobinco Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2158519,
+          5.5813779
+        ]
+      },
+      "properties": {
+        "name": "Caprice Juntion",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2084037,
+          5.58326
+        ]
+      },
+      "properties": {
+        "name": "College",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2082377,
+          5.5840866
+        ]
+      },
+      "properties": {
+        "name": "Lapaz Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2079115,
+          5.5857666
+        ]
+      },
+      "properties": {
+        "name": "Newtown Total",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2077006,
+          5.5867746
+        ]
+      },
+      "properties": {
+        "name": "Accra New Town (37 Station)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2074913,
+          5.5882485
+        ]
+      },
+      "properties": {
+        "name": "Agbadinar",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2074167,
+          5.588822
+        ]
+      },
+      "properties": {
+        "name": "Master Chef",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2072625,
+          5.5897724
+        ]
+      },
+      "properties": {
+        "name": "Five five",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2062694,
+          5.5911473
+        ]
+      },
+      "properties": {
+        "name": "Nkansah Gyan",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.205397,
+          5.592146
+        ]
+      },
+      "properties": {
+        "name": "Taxi Rank",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2091548,
+          5.5958908
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Down (Polo Park)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2078076,
+          5.5923472
+        ]
+      },
+      "properties": {
+        "name": "Prempeh",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2071487,
+          5.5915982
+        ]
+      },
+      "properties": {
+        "name": "School Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2077618,
+          5.5899988
+        ]
+      },
+      "properties": {
+        "name": "Five five",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2091355,
+          5.5880695
+        ]
+      },
+      "properties": {
+        "name": "Bakery",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2095848,
+          5.5863151
+        ]
+      },
+      "properties": {
+        "name": "Mallam Attah Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2129838,
+          5.5851617
+        ]
+      },
+      "properties": {
+        "name": "Roman Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2145516,
+          5.5733002
+        ]
+      },
+      "properties": {
+        "name": "Cirlce Lido",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2091993,
+          5.5958129
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Down (Polo Park)",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2144748,
+          5.5743607
+        ]
+      },
+      "properties": {
+        "name": "City Lights",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2140476,
+          5.5749693
+        ]
+      },
+      "properties": {
+        "name": "Quarters",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2126757,
+          5.5767693
+        ]
+      },
+      "properties": {
+        "name": "Express",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2120326,
+          5.5776349
+        ]
+      },
+      "properties": {
+        "name": "Fidelity",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2105004,
+          5.5796924
+        ]
+      },
+      "properties": {
+        "name": "Asantewaa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2090541,
+          5.5816598
+        ]
+      },
+      "properties": {
+        "name": "Mallam Atta",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2080939,
+          5.5950069
+        ]
+      },
+      "properties": {
+        "name": "Ojawe",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2076275,
+          5.5947354
+        ]
+      },
+      "properties": {
+        "name": "Kotobabi Market junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2076699,
+          5.5903019
+        ]
+      },
+      "properties": {
+        "name": "Jehova junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2098265,
+          5.5854539
+        ]
+      },
+      "properties": {
+        "name": "Dworwulu junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.215747,
+          5.5849824
+        ]
+      },
+      "properties": {
+        "name": "Roman junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2159116,
+          5.5846153
+        ]
+      },
+      "properties": {
+        "name": "Olympic junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2085784,
+          5.5823679
+        ]
+      },
+      "properties": {
+        "name": "Nima Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.208577,
+          5.5887437
+        ]
+      },
+      "properties": {
+        "name": "Newtown",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2092633,
+          5.5875974
+        ]
+      },
+      "properties": {
+        "name": "37",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.213544,
+          5.5715044
+        ]
+      },
+      "properties": {
+        "name": "Circle Lido",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}

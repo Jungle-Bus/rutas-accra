@@ -1,0 +1,1317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2374298,
+            5.5623288
+          ],
+          [
+            -0.2374702,
+            5.5622588
+          ],
+          [
+            -0.2382266,
+            5.5610308
+          ],
+          [
+            -0.2387733,
+            5.5613462
+          ],
+          [
+            -0.2388431,
+            5.5611847
+          ],
+          [
+            -0.2389343,
+            5.5609351
+          ],
+          [
+            -0.2391019,
+            5.5603037
+          ],
+          [
+            -0.2393113,
+            5.5595513
+          ],
+          [
+            -0.2397324,
+            5.5581364
+          ],
+          [
+            -0.2398271,
+            5.5578019
+          ],
+          [
+            -0.2398957,
+            5.5575599
+          ],
+          [
+            -0.2399535,
+            5.5573561
+          ],
+          [
+            -0.2401012,
+            5.5568432
+          ],
+          [
+            -0.2401379,
+            5.5566624
+          ],
+          [
+            -0.240155,
+            5.5564798
+          ],
+          [
+            -0.2401607,
+            5.5564195
+          ],
+          [
+            -0.2401567,
+            5.5560457
+          ],
+          [
+            -0.2401607,
+            5.5553997
+          ],
+          [
+            -0.2401634,
+            5.5545534
+          ],
+          [
+            -0.2401624,
+            5.5532833
+          ],
+          [
+            -0.2401557,
+            5.5511663
+          ],
+          [
+            -0.2401624,
+            5.5507405
+          ],
+          [
+            -0.2401651,
+            5.5504802
+          ],
+          [
+            -0.2401591,
+            5.5502492
+          ],
+          [
+            -0.2401564,
+            5.5492401
+          ],
+          [
+            -0.2401607,
+            5.5480238
+          ],
+          [
+            -0.2401658,
+            5.547342
+          ],
+          [
+            -0.2401628,
+            5.5471813
+          ],
+          [
+            -0.2401604,
+            5.5470575
+          ],
+          [
+            -0.2401567,
+            5.5469375
+          ],
+          [
+            -0.240155,
+            5.5454505
+          ],
+          [
+            -0.2401617,
+            5.5446056
+          ],
+          [
+            -0.240151,
+            5.5444054
+          ],
+          [
+            -0.2401255,
+            5.5442465
+          ],
+          [
+            -0.2400182,
+            5.5438528
+          ],
+          [
+            -0.2398922,
+            5.5433335
+          ],
+          [
+            -0.2397929,
+            5.5429598
+          ],
+          [
+            -0.2395627,
+            5.5419752
+          ],
+          [
+            -0.239483,
+            5.5416386
+          ],
+          [
+            -0.2392328,
+            5.5406162
+          ],
+          [
+            -0.2392204,
+            5.5405587
+          ],
+          [
+            -0.2394217,
+            5.5405237
+          ],
+          [
+            -0.2408377,
+            5.5402781
+          ],
+          [
+            -0.2424374,
+            5.5400004
+          ],
+          [
+            -0.2429255,
+            5.5399074
+          ],
+          [
+            -0.243073,
+            5.5398793
+          ],
+          [
+            -0.2465745,
+            5.53924
+          ],
+          [
+            -0.2475554,
+            5.539064
+          ],
+          [
+            -0.2476759,
+            5.5390496
+          ],
+          [
+            -0.2488064,
+            5.5388186
+          ],
+          [
+            -0.2494683,
+            5.5386666
+          ],
+          [
+            -0.2497983,
+            5.5386012
+          ],
+          [
+            -0.2498693,
+            5.5385999
+          ],
+          [
+            -0.24993,
+            5.5386099
+          ],
+          [
+            -0.2500021,
+            5.5386326
+          ],
+          [
+            -0.2500615,
+            5.53867
+          ],
+          [
+            -0.2501044,
+            5.53871
+          ],
+          [
+            -0.2501392,
+            5.5387928
+          ],
+          [
+            -0.2501731,
+            5.538959
+          ],
+          [
+            -0.2501986,
+            5.5390758
+          ],
+          [
+            -0.2502314,
+            5.5391385
+          ],
+          [
+            -0.2502869,
+            5.539202
+          ],
+          [
+            -0.250729,
+            5.5394688
+          ],
+          [
+            -0.2512413,
+            5.5397753
+          ],
+          [
+            -0.2518674,
+            5.540134
+          ],
+          [
+            -0.2524503,
+            5.5404689
+          ],
+          [
+            -0.2530209,
+            5.540805
+          ],
+          [
+            -0.2535715,
+            5.5410989
+          ],
+          [
+            -0.2541696,
+            5.5414246
+          ],
+          [
+            -0.2547652,
+            5.5417649
+          ],
+          [
+            -0.2548336,
+            5.5418025
+          ],
+          [
+            -0.2550238,
+            5.541907
+          ],
+          [
+            -0.25539,
+            5.5421081
+          ],
+          [
+            -0.2543412,
+            5.54383
+          ],
+          [
+            -0.2541535,
+            5.5442503
+          ],
+          [
+            -0.254145,
+            5.5450336
+          ],
+          [
+            -0.2541114,
+            5.545718
+          ],
+          [
+            -0.2541074,
+            5.5457864
+          ],
+          [
+            -0.2540846,
+            5.5463622
+          ],
+          [
+            -0.2540462,
+            5.5470069
+          ],
+          [
+            -0.2553363,
+            5.5469829
+          ],
+          [
+            -0.2552197,
+            5.5487105
+          ],
+          [
+            -0.2551365,
+            5.5499444
+          ],
+          [
+            -0.2557333,
+            5.5498394
+          ],
+          [
+            -0.2558916,
+            5.549826
+          ],
+          [
+            -0.2564709,
+            5.5497433
+          ],
+          [
+            -0.2570481,
+            5.5496573
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 538 : Zambrama Line → Kaneshie",
+        "attributes": {
+          "operator": "Zambrama Line Nasarawa Branch of GPRTU",
+          "to": "Kaneshie",
+          "from": "Zambrama Line",
+          "ref": "538",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2362222,
+            5.5643726
+          ],
+          [
+            -0.2361764,
+            5.5644503
+          ],
+          [
+            -0.2367174,
+            5.5647726
+          ],
+          [
+            -0.2372256,
+            5.5639609
+          ],
+          [
+            -0.2374832,
+            5.5635165
+          ],
+          [
+            -0.23843,
+            5.5619308
+          ],
+          [
+            -0.2387733,
+            5.5613462
+          ],
+          [
+            -0.2388431,
+            5.5611847
+          ],
+          [
+            -0.2389343,
+            5.5609351
+          ],
+          [
+            -0.2391019,
+            5.5603037
+          ],
+          [
+            -0.2393113,
+            5.5595513
+          ],
+          [
+            -0.2397324,
+            5.5581364
+          ],
+          [
+            -0.2398271,
+            5.5578019
+          ],
+          [
+            -0.2398957,
+            5.5575599
+          ],
+          [
+            -0.2399535,
+            5.5573561
+          ],
+          [
+            -0.2401012,
+            5.5568432
+          ],
+          [
+            -0.2401379,
+            5.5566624
+          ],
+          [
+            -0.240155,
+            5.5564798
+          ],
+          [
+            -0.2401607,
+            5.5564195
+          ],
+          [
+            -0.2401567,
+            5.5560457
+          ],
+          [
+            -0.2401607,
+            5.5553997
+          ],
+          [
+            -0.2401634,
+            5.5545534
+          ],
+          [
+            -0.2401624,
+            5.5532833
+          ],
+          [
+            -0.2401557,
+            5.5511663
+          ],
+          [
+            -0.2401624,
+            5.5507405
+          ],
+          [
+            -0.2401651,
+            5.5504802
+          ],
+          [
+            -0.2401591,
+            5.5502492
+          ],
+          [
+            -0.2401564,
+            5.5492401
+          ],
+          [
+            -0.2401607,
+            5.5480238
+          ],
+          [
+            -0.2401658,
+            5.547342
+          ],
+          [
+            -0.2401628,
+            5.5471813
+          ],
+          [
+            -0.2401604,
+            5.5470575
+          ],
+          [
+            -0.2401567,
+            5.5469375
+          ],
+          [
+            -0.240155,
+            5.5454505
+          ],
+          [
+            -0.2401617,
+            5.5446056
+          ],
+          [
+            -0.240151,
+            5.5444054
+          ],
+          [
+            -0.2401255,
+            5.5442465
+          ],
+          [
+            -0.2400182,
+            5.5438528
+          ],
+          [
+            -0.2398922,
+            5.5433335
+          ],
+          [
+            -0.2397929,
+            5.5429598
+          ],
+          [
+            -0.2395627,
+            5.5419752
+          ],
+          [
+            -0.239483,
+            5.5416386
+          ],
+          [
+            -0.2392328,
+            5.5406162
+          ],
+          [
+            -0.2392204,
+            5.5405587
+          ],
+          [
+            -0.2394217,
+            5.5405237
+          ],
+          [
+            -0.2408377,
+            5.5402781
+          ],
+          [
+            -0.2424374,
+            5.5400004
+          ],
+          [
+            -0.2429255,
+            5.5399074
+          ],
+          [
+            -0.243073,
+            5.5398793
+          ],
+          [
+            -0.2465745,
+            5.53924
+          ],
+          [
+            -0.2475554,
+            5.539064
+          ],
+          [
+            -0.2476759,
+            5.5390496
+          ],
+          [
+            -0.2488064,
+            5.5388186
+          ],
+          [
+            -0.2494683,
+            5.5386666
+          ],
+          [
+            -0.2497983,
+            5.5386012
+          ],
+          [
+            -0.2498693,
+            5.5385999
+          ],
+          [
+            -0.24993,
+            5.5386099
+          ],
+          [
+            -0.2500021,
+            5.5386326
+          ],
+          [
+            -0.2500615,
+            5.53867
+          ],
+          [
+            -0.2501044,
+            5.53871
+          ],
+          [
+            -0.2501392,
+            5.5387928
+          ],
+          [
+            -0.2501731,
+            5.538959
+          ],
+          [
+            -0.2501986,
+            5.5390758
+          ],
+          [
+            -0.2502314,
+            5.5391385
+          ],
+          [
+            -0.2502869,
+            5.539202
+          ],
+          [
+            -0.250729,
+            5.5394688
+          ],
+          [
+            -0.2512413,
+            5.5397753
+          ],
+          [
+            -0.2518674,
+            5.540134
+          ],
+          [
+            -0.2524503,
+            5.5404689
+          ],
+          [
+            -0.2530209,
+            5.540805
+          ],
+          [
+            -0.2535715,
+            5.5410989
+          ],
+          [
+            -0.2541696,
+            5.5414246
+          ],
+          [
+            -0.2547652,
+            5.5417649
+          ],
+          [
+            -0.2548336,
+            5.5418025
+          ],
+          [
+            -0.2550238,
+            5.541907
+          ],
+          [
+            -0.25539,
+            5.5421081
+          ],
+          [
+            -0.2543412,
+            5.54383
+          ],
+          [
+            -0.2541535,
+            5.5442503
+          ],
+          [
+            -0.254145,
+            5.5450336
+          ],
+          [
+            -0.2541114,
+            5.545718
+          ],
+          [
+            -0.2541074,
+            5.5457864
+          ],
+          [
+            -0.2540846,
+            5.5463622
+          ],
+          [
+            -0.2540462,
+            5.5470069
+          ],
+          [
+            -0.2553363,
+            5.5469829
+          ],
+          [
+            -0.2552197,
+            5.5487105
+          ],
+          [
+            -0.2551365,
+            5.5499444
+          ],
+          [
+            -0.2557333,
+            5.5498394
+          ],
+          [
+            -0.2558916,
+            5.549826
+          ],
+          [
+            -0.2564709,
+            5.5497433
+          ],
+          [
+            -0.2570481,
+            5.5496573
+          ],
+          [
+            -0.2572246,
+            5.5496325
+          ],
+          [
+            -0.2573419,
+            5.5496159
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trotro 538 : Kaneshie → Zambrama Line",
+        "attributes": {
+          "operator": "Zambrama Line Nasarawa Branch of GPRTU",
+          "to": "Zambrama Line",
+          "from": "Kaneshie",
+          "ref": "538",
+          "network": "trô trô"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2399263,
+          5.5436043
+        ]
+      },
+      "properties": {
+        "name": "Korle Bu Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401432,
+          5.5562747
+        ]
+      },
+      "properties": {
+        "name": "Kasoa Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401289,
+          5.5535038
+        ]
+      },
+      "properties": {
+        "name": "Pipeier Naa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401201,
+          5.5511073
+        ]
+      },
+      "properties": {
+        "name": "Black Smith",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401327,
+          5.5480701
+        ]
+      },
+      "properties": {
+        "name": "Radio Gold",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2392821,
+          5.5409656
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2402048,
+          5.5529372
+        ]
+      },
+      "properties": {
+        "name": "Pipeier Naa",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2402106,
+          5.5486332
+        ]
+      },
+      "properties": {
+        "name": "Radio Gold",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2395311,
+          5.5416466
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2399215,
+          5.5575568
+        ]
+      },
+      "properties": {
+        "name": "Zongo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2402081,
+          5.5508347
+        ]
+      },
+      "properties": {
+        "name": "Black Smith",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2490921,
+          5.5386984
+        ]
+      },
+      "properties": {
+        "name": "St.Marys",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2532018,
+          5.5408294
+        ]
+      },
+      "properties": {
+        "name": "Banana Inn Transformer",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.255041,
+          5.5418646
+        ]
+      },
+      "properties": {
+        "name": "Banana Inn",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2552249,
+          5.5497411
+        ]
+      },
+      "properties": {
+        "name": "Akoo Store",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2570439,
+          5.5496153
+        ]
+      },
+      "properties": {
+        "name": "Zambrama Line",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2573485,
+          5.5496889
+        ]
+      },
+      "properties": {
+        "name": "Zambrama Line",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2552394,
+          5.5470054
+        ]
+      },
+      "properties": {
+        "name": "Station",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2540345,
+          5.5469124
+        ]
+      },
+      "properties": {
+        "name": "Five Five",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2540688,
+          5.5456878
+        ]
+      },
+      "properties": {
+        "name": "Masalatsi",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.254174,
+          5.5441207
+        ]
+      },
+      "properties": {
+        "name": "Borla",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2547988,
+          5.5418314
+        ]
+      },
+      "properties": {
+        "name": "Banana Inn",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2515806,
+          5.5400326
+        ]
+      },
+      "properties": {
+        "name": "Abodoo Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2477855,
+          5.5390553
+        ]
+      },
+      "properties": {
+        "name": "IBE",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2473816,
+          5.539031
+        ]
+      },
+      "properties": {
+        "name": "IBE",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2511376,
+          5.5396514
+        ]
+      },
+      "properties": {
+        "name": "Abodoo Bridge",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2395878,
+          5.5405319
+        ]
+      },
+      "properties": {
+        "name": "Summerhut",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2385893,
+          5.5611945
+        ]
+      },
+      "properties": {
+        "name": "Asoredan ho",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2400466,
+          5.5403795
+        ]
+      },
+      "properties": {
+        "name": "Summerhut",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2400745,
+          5.5568182
+        ]
+      },
+      "properties": {
+        "name": "Zongo Junction",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2428971,
+          5.5399648
+        ]
+      },
+      "properties": {
+        "name": "Downright",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2374033,
+          5.5623056
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2428541,
+          5.5398852
+        ]
+      },
+      "properties": {
+        "name": "Downright",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2366647,
+          5.5647722
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie Market",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2361929,
+          5.5643666
+        ]
+      },
+      "properties": {
+        "name": "Kaneshie",
+        "attributes": {
+          "official_status": "none"
+        }
+      }
+    }
+  ]
+}
