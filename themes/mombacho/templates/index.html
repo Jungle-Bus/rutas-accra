@@ -1,376 +1,365 @@
 {% extends "base.html" %}
 
 {% block meta_javascript %}
-  <script src="/theme/js/jquery.js"></script>
-  <script src="/theme/js/leaflet.js"></script>
-  <script src="/theme/js/leaflet/leaflet-hash.js"></script>
-  <script src="/theme/js/leaflet/ActiveLayers.js"></script>
-  <script src="/theme/js/leaflet/leaflet.ajax.js"></script>
-  <script src="/theme/js/leaflet/leaflet.label.js"></script>
-  <script src="/theme/js/modal.js"></script>
-  <script src="/theme/js/search.js"></script>
-  <script src="/theme/js/report-form.js"></script>
+    <script src="/theme/js/jquery.js"></script>
+    <script src="/theme/js/leaflet.js"></script>
+    <script src="/theme/js/leaflet/leaflet-hash.js"></script>
+    <script src="/theme/js/leaflet/ActiveLayers.js"></script>
+    <script src="/theme/js/leaflet/leaflet.ajax.js"></script>
+    <script src="/theme/js/leaflet/leaflet.label.js"></script>
+    <script src="/theme/js/modal.js"></script>
+    <script src="/theme/js/search.js"></script>
+    <script src="/theme/js/report-form.js"></script>
 
 {% endblock %}
 
 {% block meta_css %}
-  <link rel="stylesheet" href="/theme/css/leaflet.css" type="text/css" />
-  <!--[if lte IE 8]>
-      <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
-  <![endif]-->
-  <link rel="stylesheet" href="/theme/js/leaflet/zoomslider/L.Control.Zoomslider.css" type="text/css" />
-  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fonts.css">
-  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments.min.css">
-  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/theme/css/leaflet.label.css" type="text/css" />
+    <link rel="stylesheet" href="/theme/css/leaflet.css" type="text/css"/>
+    <!--[if lte IE 8]> <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" /> <![endif]-->
+    <link rel="stylesheet" href="/theme/js/leaflet/zoomslider/L.Control.Zoomslider.css" type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/theme/css/leaflet.label.css" type="text/css"/>
 
-
-  {% if USE_LESS %}
-  <link rel="stylesheet/less" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.less">
-  <script src="/theme/js/less.min.js" type="text/javascript"></script>
-  {% else %}
-  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.min.css">
-  {% endif %}
+    {% if USE_LESS %}
+        <link rel="stylesheet/less" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.less">
+        <script src="/theme/js/less.min.js" type="text/javascript"></script>
+    {% else %}
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.min.css">
+    {% endif %}
 {% endblock %}
 
 {% block content %}
-  {% include "partial/header.html" %}
-  <div class="info-wrapper">
-    <div class="info-box">
-      <div class="info-header">
-        <h3 class="ref"></h3>
-        <div class="destination">
-          <span class="from"></span><br />
-          <span class="to"></span>
-        </div>
-        <span id="info-expander" class="fa fa-chevron-down"></span>
-      </div>
+    {% include "partial/header.html" %}
+    <div class="info-wrapper">
+        <div class="info-box">
+            <div class="info-header">
+                <h3 class="ref"></h3>
+                <div class="destination">
+                    <span class="from"></span><br/>
+                    <span class="to"></span>
+                </div>
+                <span id="info-expander" class="fa fa-chevron-down"></span>
+            </div>
 
-      <div class="official">
-        <span class="operator"></span><br />
-      </div>
-      <div class="stop-overview">
-        <br /><br />
-        <i>Éste mapa es un trabajo colectivo en proceso. Y vos podés apoyar. Si ves una parada que se llama diferente, falta o no tenemos el nombre, avisanos haciendo click en el <span class="fa fa-envelope"></span> abajo.</i>
-        <div class="variant-one">
-          <h4></h4>
-          <ul></ul>
+            <div class="official">
+                <span class="operator"></span><br/>
+            </div>
+            <div class="stop-overview">
+                <br/><br/>
+
+                <div class="variant-one">
+                    <h4></h4>
+                    <ul></ul>
+                </div>
+                <div class="variant-two">
+                    <h4></h4>
+                    <ul></ul>
+                </div>
+                <i>You can help and update this line on OpenStreetMap.org
+                </i>
+            </div>
         </div>
-        <div class="variant-two">
-          <h4></h4>
-          <ul></ul>
-        </div>
-        <div class="stop-legend">
-          <h4>Leyenda</h4>
-          <ul>
-            <li class="stop-official"> Parada oficial (con rótulo)</li>
-            <li class="stop-popular"> Parada popular</li>
-            <li class="stop-unknown"> Estado de parada desconocido</li>
-          </ul>
-        </div>
-      </div>
     </div>
-  </div>
-  <main id="map-wrapper">
-    <!-- MAP -->
-     <div id="map">
-     </div>
+    <main id="map-wrapper">
+        <!-- MAP -->
+        <div id="map"></div>
 
-     <!-- <div id="bus-lines-toggle">></div>  -->
-     <div id="bus-lines-wrapper">
-       <div class="bus-lines-control" id="bus-lines-control-top"><img src="/images/scroller-up.png" /></div>
-       <div id="bus-lines">
-         <a href="?ruta=2" class="bus-line-link lines-northern ruta-2">2</a>
-         <a href="?ruta=3" class="bus-line-link lines-northern ruta-3">3</a>
-         <a href="?ruta=4" class="bus-line-link lines-northern ruta-4">4</a>
-         <a href="?ruta=6" class="bus-line-link lines-northern ruta-6">6</a>
-         <a href="?ruta=7" class="bus-line-link lines-northern ruta-7">7</a>
-         <a href="?ruta=8" class="bus-line-link lines-northern ruta-8">8</a>
-         <a href="?ruta=9" class="bus-line-link lines-northern ruta-9">9</a>
-         <a href="?ruta=10" class="bus-line-link lines-northern ruta-10">10</a>
-         <a href="?ruta=11" class="bus-line-link lines-northern ruta-11">11</a>
-         <a href="?ruta=15" class="bus-line-link lines-northern ruta-15">15</a>
-         <a href="?ruta=16" class="bus-line-link lines-northern ruta-16">16</a>
-         <a href="?ruta=18" class="bus-line-link lines-northern ruta-18">18</a>
-         <a href="?ruta=19" class="bus-line-link lines-northern ruta-19">19</a>
-         <a href="?ruta=20" class="bus-line-link lines-northern ruta-20">20</a>
-         <a href="?ruta=21" class="bus-line-link lines-northern ruta-21">21</a>
-         <a href="?ruta=23" class="bus-line-link lines-northern ruta-23">23</a>
-         <a href="?ruta=26" class="bus-line-link lines-northern ruta-26">26</a>
-         <a href="?ruta=28" class="bus-line-link lines-northern ruta-28">28</a>
-         <a href="?ruta=29" class="bus-line-link lines-northern ruta-29">29</a>
-         <a href="?ruta=30" class="bus-line-link lines-northern ruta-30">30</a>
-         <a href="?ruta=31" class="bus-line-link lines-northern ruta-31">31</a>
-         <a href="?ruta=35" class="bus-line-link lines-northern ruta-35">35</a>
-         <a href="?ruta=36" class="bus-line-link lines-northern ruta-36">36</a>
-         <a href="?ruta=38" class="bus-line-link lines-northern ruta-38">38</a>
-         <a href="?ruta=39" class="bus-line-link lines-northern ruta-39">39</a>
-         <a href="?ruta=40" class="bus-line-link lines-northern ruta-40">40</a>
-         <a href="?ruta=41" class="bus-line-link lines-northern ruta-41">41</a>
-         <a href="?ruta=43" class="bus-line-link lines-northern ruta-43">43</a>
-         <a href="?ruta=46" class="bus-line-link lines-northern ruta-46">46</a>
-         <a href="?ruta=48" class="bus-line-link lines-northern ruta-48">48</a>
-         <a href="?ruta=50" class="bus-line-link lines-northern ruta-50">50</a>
-         <a href="?ruta=51" class="bus-line-link lines-northern ruta-51">51</a>
-         <a href="?ruta=52" class="bus-line-link lines-northern ruta-52">52</a>
-         <a href="?ruta=55" class="bus-line-link lines-northern ruta-55">55</a>
-         <a href="?ruta=56" class="bus-line-link lines-northern ruta-56">56</a>
-         <a href="?ruta=58" class="bus-line-link lines-northern ruta-58">58</a>
-         <a href="?ruta=61" class="bus-line-link lines-northern ruta-61">61</a>
-         <a href="?ruta=64" class="bus-line-link lines-northern ruta-64">64</a>
-         <a href="?ruta=65" class="bus-line-link lines-northern ruta-65">65</a>
-         <a href="?ruta=66" class="bus-line-link lines-northern ruta-66">66</a>
-         <a href="?ruta=70" class="bus-line-link lines-northern ruta-70">70</a>
-         <a href="?ruta=71" class="bus-line-link lines-northern ruta-71">71</a>
-         <a href="?ruta=72" class="bus-line-link lines-northern ruta-72">72</a>
-         <a href="?ruta=76" class="bus-line-link lines-northern ruta-76">76</a>
-         <a href="?ruta=81" class="bus-line-link lines-northern ruta-81">81</a>
-         <a href="?ruta=82" class="bus-line-link lines-northern ruta-82">82</a>
-         <a href="?ruta=84" class="bus-line-link lines-northern ruta-84">84</a>
-         <a href="?ruta=85" class="bus-line-link lines-northern ruta-85">85</a>
-         <a href="?ruta=88" class="bus-line-link lines-northern ruta-88">88</a>
-         <a href="?ruta=90" class="bus-line-link lines-northern ruta-90">90</a>
-         <a href="?ruta=92" class="bus-line-link lines-northern ruta-92">92</a>
-         <a href="?ruta=93" class="bus-line-link lines-northern ruta-93">93</a>
-         <a href="?ruta=98" class="bus-line-link lines-northern ruta-98">98</a>
-         <a href="?ruta=99" class="bus-line-link lines-northern ruta-99">99</a>
-         <a href="?ruta=100" class="bus-line-link lines-northern ruta-100">100</a>
-         <a href="?ruta=102" class="bus-line-link lines-northern ruta-102">102</a>
-         <a href="?ruta=103" class="bus-line-link lines-northern ruta-103">103</a>
-         <a href="?ruta=104" class="bus-line-link lines-northern ruta-104">104</a>
-         <a href="?ruta=105" class="bus-line-link lines-northern ruta-105">105</a>
-         <a href="?ruta=107" class="bus-line-link lines-northern ruta-107">107</a>
-         <a href="?ruta=112" class="bus-line-link lines-northern ruta-112">112</a>
-         <a href="?ruta=114" class="bus-line-link lines-northern ruta-114">114</a>
-         <a href="?ruta=116" class="bus-line-link lines-northern ruta-116">116</a>
-         <a href="?ruta=117" class="bus-line-link lines-northern ruta-117">117</a>
-         <a href="?ruta=118" class="bus-line-link lines-northern ruta-118">118</a>
-         <a href="?ruta=155" class="bus-line-link lines-northern ruta-155">155</a>
-         <a href="?ruta=157" class="bus-line-link lines-northern ruta-157">157</a>
-         <a href="?ruta=159" class="bus-line-link lines-northern ruta-159">159</a>
-         <a href="?ruta=163" class="bus-line-link lines-northern ruta-163">163</a>
-         <a href="?ruta=164" class="bus-line-link lines-northern ruta-164">164</a>
-         <a href="?ruta=166" class="bus-line-link lines-northern ruta-166">166</a>
-         <a href="?ruta=167" class="bus-line-link lines-northern ruta-167">167</a>
-         <a href="?ruta=170" class="bus-line-link lines-northern ruta-170">170</a>
-         <a href="?ruta=172" class="bus-line-link lines-northern ruta-172">172</a>
-         <a href="?ruta=173" class="bus-line-link lines-northern ruta-173">173</a>
-         <a href="?ruta=174" class="bus-line-link lines-northern ruta-174">174</a>
-         <a href="?ruta=175" class="bus-line-link lines-northern ruta-175">175</a>
-         <a href="?ruta=176" class="bus-line-link lines-northern ruta-176">176</a>
-         <a href="?ruta=177" class="bus-line-link lines-northern ruta-177">177</a>
-         <a href="?ruta=178" class="bus-line-link lines-northern ruta-178">178</a>
-         <a href="?ruta=185" class="bus-line-link lines-northern ruta-185">185</a>
-         <a href="?ruta=188" class="bus-line-link lines-northern ruta-188">188</a>
-         <a href="?ruta=192" class="bus-line-link lines-northern ruta-192">192</a>
-         <a href="?ruta=193" class="bus-line-link lines-northern ruta-193">193</a>
-         <a href="?ruta=196" class="bus-line-link lines-northern ruta-196">196</a>
-         <a href="?ruta=200" class="bus-line-link lines-northern ruta-200">200</a>
-         <a href="?ruta=202" class="bus-line-link lines-northern ruta-202">202</a>
-         <a href="?ruta=203" class="bus-line-link lines-northern ruta-203">203</a>
-         <a href="?ruta=204" class="bus-line-link lines-northern ruta-204">204</a>
-         <a href="?ruta=205" class="bus-line-link lines-northern ruta-205">205</a>
-         <a href="?ruta=206" class="bus-line-link lines-northern ruta-206">206</a>
-         <a href="?ruta=207" class="bus-line-link lines-northern ruta-207">207</a>
-         <a href="?ruta=208" class="bus-line-link lines-northern ruta-208">208</a>
-         <a href="?ruta=209" class="bus-line-link lines-northern ruta-209">209</a>
-         <a href="?ruta=210" class="bus-line-link lines-northern ruta-210">210</a>
-         <a href="?ruta=211" class="bus-line-link lines-northern ruta-211">211</a>
-         <a href="?ruta=212" class="bus-line-link lines-northern ruta-212">212</a>
-         <a href="?ruta=214" class="bus-line-link lines-northern ruta-214">214</a>
-         <a href="?ruta=216" class="bus-line-link lines-northern ruta-216">216</a>
-         <a href="?ruta=219" class="bus-line-link lines-northern ruta-219">219</a>
-         <a href="?ruta=221" class="bus-line-link lines-northern ruta-221">221</a>
-         <a href="?ruta=222" class="bus-line-link lines-northern ruta-222">222</a>
-         <a href="?ruta=223" class="bus-line-link lines-northern ruta-223">223</a>
-         <a href="?ruta=224" class="bus-line-link lines-northern ruta-224">224</a>
-         <a href="?ruta=225" class="bus-line-link lines-northern ruta-225">225</a>
-         <a href="?ruta=226" class="bus-line-link lines-northern ruta-226">226</a>
-         <a href="?ruta=227" class="bus-line-link lines-northern ruta-227">227</a>
-         <a href="?ruta=228" class="bus-line-link lines-northern ruta-228">228</a>
-         <a href="?ruta=230" class="bus-line-link lines-northern ruta-230">230</a>
-         <a href="?ruta=231" class="bus-line-link lines-northern ruta-231">231</a>
-         <a href="?ruta=235" class="bus-line-link lines-northern ruta-235">235</a>
-         <a href="?ruta=236" class="bus-line-link lines-northern ruta-236">236</a>
-         <a href="?ruta=237" class="bus-line-link lines-northern ruta-237">237</a>
-         <a href="?ruta=238" class="bus-line-link lines-northern ruta-238">238</a>
-         <a href="?ruta=240" class="bus-line-link lines-northern ruta-240">240</a>
-         <a href="?ruta=241" class="bus-line-link lines-northern ruta-241">241</a>
-         <a href="?ruta=242" class="bus-line-link lines-northern ruta-242">242</a>
-         <a href="?ruta=243" class="bus-line-link lines-northern ruta-243">243</a>
-         <a href="?ruta=247" class="bus-line-link lines-northern ruta-247">247</a>
-         <a href="?ruta=249" class="bus-line-link lines-northern ruta-249">249</a>
-         <a href="?ruta=251" class="bus-line-link lines-northern ruta-251">251</a>
-         <a href="?ruta=254" class="bus-line-link lines-northern ruta-254">254</a>
-         <a href="?ruta=255" class="bus-line-link lines-northern ruta-255">255</a>
-         <a href="?ruta=256" class="bus-line-link lines-northern ruta-256">256</a>
-         <a href="?ruta=260" class="bus-line-link lines-northern ruta-260">260</a>
-         <a href="?ruta=262" class="bus-line-link lines-northern ruta-262">262</a>
-         <a href="?ruta=264" class="bus-line-link lines-northern ruta-264">264</a>
-         <a href="?ruta=265" class="bus-line-link lines-northern ruta-265">265</a>
-         <a href="?ruta=266" class="bus-line-link lines-northern ruta-266">266</a>
-         <a href="?ruta=267" class="bus-line-link lines-northern ruta-267">267</a>
-         <a href="?ruta=269" class="bus-line-link lines-northern ruta-269">269</a>
-         <a href="?ruta=270" class="bus-line-link lines-northern ruta-270">270</a>
-         <a href="?ruta=271" class="bus-line-link lines-northern ruta-271">271</a>
-         <a href="?ruta=272" class="bus-line-link lines-northern ruta-272">272</a>
-         <a href="?ruta=273" class="bus-line-link lines-northern ruta-273">273</a>
-         <a href="?ruta=274" class="bus-line-link lines-northern ruta-274">274</a>
-         <a href="?ruta=275" class="bus-line-link lines-northern ruta-275">275</a>
-         <a href="?ruta=276" class="bus-line-link lines-northern ruta-276">276</a>
-         <a href="?ruta=277" class="bus-line-link lines-northern ruta-277">277</a>
-         <a href="?ruta=278" class="bus-line-link lines-northern ruta-278">278</a>
-         <a href="?ruta=281" class="bus-line-link lines-northern ruta-281">281</a>
-         <a href="?ruta=282" class="bus-line-link lines-northern ruta-282">282</a>
-         <a href="?ruta=283" class="bus-line-link lines-northern ruta-283">283</a>
-         <a href="?ruta=284" class="bus-line-link lines-northern ruta-284">284</a>
-         <a href="?ruta=286" class="bus-line-link lines-northern ruta-286">286</a>
-         <a href="?ruta=287" class="bus-line-link lines-northern ruta-287">287</a>
-         <a href="?ruta=288" class="bus-line-link lines-northern ruta-288">288</a>
-         <a href="?ruta=290" class="bus-line-link lines-northern ruta-290">290</a>
-         <a href="?ruta=291" class="bus-line-link lines-northern ruta-291">291</a>
-         <a href="?ruta=293" class="bus-line-link lines-northern ruta-293">293</a>
-         <a href="?ruta=295" class="bus-line-link lines-northern ruta-295">295</a>
-         <a href="?ruta=296" class="bus-line-link lines-northern ruta-296">296</a>
-         <a href="?ruta=298" class="bus-line-link lines-northern ruta-298">298</a>
-         <a href="?ruta=299" class="bus-line-link lines-northern ruta-299">299</a>
-         <a href="?ruta=301" class="bus-line-link lines-northern ruta-301">301</a>
-         <a href="?ruta=302" class="bus-line-link lines-northern ruta-302">302</a>
-         <a href="?ruta=303" class="bus-line-link lines-northern ruta-303">303</a>
-         <a href="?ruta=305" class="bus-line-link lines-northern ruta-305">305</a>
-         <a href="?ruta=306" class="bus-line-link lines-northern ruta-306">306</a>
-         <a href="?ruta=307" class="bus-line-link lines-northern ruta-307">307</a>
-         <a href="?ruta=308" class="bus-line-link lines-northern ruta-308">308</a>
-         <a href="?ruta=309" class="bus-line-link lines-northern ruta-309">309</a>
-         <a href="?ruta=310" class="bus-line-link lines-northern ruta-310">310</a>
-         <a href="?ruta=313" class="bus-line-link lines-northern ruta-313">313</a>
-         <a href="?ruta=314" class="bus-line-link lines-northern ruta-314">314</a>
-         <a href="?ruta=317" class="bus-line-link lines-northern ruta-317">317</a>
-         <a href="?ruta=318" class="bus-line-link lines-northern ruta-318">318</a>
-         <a href="?ruta=322" class="bus-line-link lines-northern ruta-322">322</a>
-         <a href="?ruta=324" class="bus-line-link lines-northern ruta-324">324</a>
-         <a href="?ruta=325" class="bus-line-link lines-northern ruta-325">325</a>
-         <a href="?ruta=326" class="bus-line-link lines-northern ruta-326">326</a>
-         <a href="?ruta=328" class="bus-line-link lines-northern ruta-328">328</a>
-         <a href="?ruta=331" class="bus-line-link lines-northern ruta-331">331</a>
-         <a href="?ruta=333" class="bus-line-link lines-northern ruta-333">333</a>
-         <a href="?ruta=336" class="bus-line-link lines-northern ruta-336">336</a>
-         <a href="?ruta=337" class="bus-line-link lines-northern ruta-337">337</a>
-         <a href="?ruta=338" class="bus-line-link lines-northern ruta-338">338</a>
-         <a href="?ruta=339" class="bus-line-link lines-northern ruta-339">339</a>
-         <a href="?ruta=342" class="bus-line-link lines-northern ruta-342">342</a>
-         <a href="?ruta=343" class="bus-line-link lines-northern ruta-343">343</a>
-         <a href="?ruta=344" class="bus-line-link lines-northern ruta-344">344</a>
-         <a href="?ruta=347" class="bus-line-link lines-northern ruta-347">347</a>
-         <a href="?ruta=348" class="bus-line-link lines-northern ruta-348">348</a>
-         <a href="?ruta=349" class="bus-line-link lines-northern ruta-349">349</a>
-         <a href="?ruta=351" class="bus-line-link lines-northern ruta-351">351</a>
-         <a href="?ruta=356" class="bus-line-link lines-northern ruta-356">356</a>
-         <a href="?ruta=357" class="bus-line-link lines-northern ruta-357">357</a>
-         <a href="?ruta=363" class="bus-line-link lines-northern ruta-363">363</a>
-         <a href="?ruta=367" class="bus-line-link lines-northern ruta-367">367</a>
-         <a href="?ruta=368" class="bus-line-link lines-northern ruta-368">368</a>
-         <a href="?ruta=369" class="bus-line-link lines-northern ruta-369">369</a>
-         <a href="?ruta=373" class="bus-line-link lines-northern ruta-373">373</a>
-         <a href="?ruta=376" class="bus-line-link lines-northern ruta-376">376</a>
-         <a href="?ruta=377" class="bus-line-link lines-northern ruta-377">377</a>
-         <a href="?ruta=378" class="bus-line-link lines-northern ruta-378">378</a>
-         <a href="?ruta=380" class="bus-line-link lines-northern ruta-380">380</a>
-         <a href="?ruta=383" class="bus-line-link lines-northern ruta-383">383</a>
-         <a href="?ruta=385" class="bus-line-link lines-northern ruta-385">385</a>
-         <a href="?ruta=386" class="bus-line-link lines-northern ruta-386">386</a>
-         <a href="?ruta=388" class="bus-line-link lines-northern ruta-388">388</a>
-         <a href="?ruta=389" class="bus-line-link lines-northern ruta-389">389</a>
-         <a href="?ruta=391" class="bus-line-link lines-northern ruta-391">391</a>
-         <a href="?ruta=393" class="bus-line-link lines-northern ruta-393">393</a>
-         <a href="?ruta=394" class="bus-line-link lines-northern ruta-394">394</a>
-         <a href="?ruta=395" class="bus-line-link lines-northern ruta-395">395</a>
-         <a href="?ruta=398" class="bus-line-link lines-northern ruta-398">398</a>
-         <a href="?ruta=399" class="bus-line-link lines-northern ruta-399">399</a>
-         <a href="?ruta=400" class="bus-line-link lines-northern ruta-400">400</a>
-         <a href="?ruta=401" class="bus-line-link lines-northern ruta-401">401</a>
-         <a href="?ruta=402" class="bus-line-link lines-northern ruta-402">402</a>
-         <a href="?ruta=404" class="bus-line-link lines-northern ruta-404">404</a>
-         <a href="?ruta=405" class="bus-line-link lines-northern ruta-405">405</a>
-         <a href="?ruta=406" class="bus-line-link lines-northern ruta-406">406</a>
-         <a href="?ruta=408" class="bus-line-link lines-northern ruta-408">408</a>
-         <a href="?ruta=410" class="bus-line-link lines-northern ruta-410">410</a>
-         <a href="?ruta=412" class="bus-line-link lines-northern ruta-412">412</a>
-         <a href="?ruta=414" class="bus-line-link lines-northern ruta-414">414</a>
-         <a href="?ruta=415" class="bus-line-link lines-northern ruta-415">415</a>
-         <a href="?ruta=416" class="bus-line-link lines-northern ruta-416">416</a>
-         <a href="?ruta=417" class="bus-line-link lines-northern ruta-417">417</a>
-         <a href="?ruta=419" class="bus-line-link lines-northern ruta-419">419</a>
-         <a href="?ruta=420" class="bus-line-link lines-northern ruta-420">420</a>
-         <a href="?ruta=422" class="bus-line-link lines-northern ruta-422">422</a>
-         <a href="?ruta=423" class="bus-line-link lines-northern ruta-423">423</a>
-         <a href="?ruta=424" class="bus-line-link lines-northern ruta-424">424</a>
-         <a href="?ruta=425" class="bus-line-link lines-northern ruta-425">425</a>
-         <a href="?ruta=428" class="bus-line-link lines-northern ruta-428">428</a>
-         <a href="?ruta=431" class="bus-line-link lines-northern ruta-431">431</a>
-         <a href="?ruta=434" class="bus-line-link lines-northern ruta-434">434</a>
-         <a href="?ruta=435" class="bus-line-link lines-northern ruta-435">435</a>
-         <a href="?ruta=436" class="bus-line-link lines-northern ruta-436">436</a>
-         <a href="?ruta=437" class="bus-line-link lines-northern ruta-437">437</a>
-         <a href="?ruta=438" class="bus-line-link lines-northern ruta-438">438</a>
-         <a href="?ruta=441" class="bus-line-link lines-northern ruta-441">441</a>
-         <a href="?ruta=442" class="bus-line-link lines-northern ruta-442">442</a>
-         <a href="?ruta=443" class="bus-line-link lines-northern ruta-443">443</a>
-         <a href="?ruta=444" class="bus-line-link lines-northern ruta-444">444</a>
-         <a href="?ruta=445" class="bus-line-link lines-northern ruta-445">445</a>
-         <a href="?ruta=447" class="bus-line-link lines-northern ruta-447">447</a>
-         <a href="?ruta=449" class="bus-line-link lines-northern ruta-449">449</a>
-         <a href="?ruta=452" class="bus-line-link lines-northern ruta-452">452</a>
-         <a href="?ruta=454" class="bus-line-link lines-northern ruta-454">454</a>
-         <a href="?ruta=455" class="bus-line-link lines-northern ruta-455">455</a>
-         <a href="?ruta=456" class="bus-line-link lines-northern ruta-456">456</a>
-         <a href="?ruta=458" class="bus-line-link lines-northern ruta-458">458</a>
-         <a href="?ruta=463" class="bus-line-link lines-northern ruta-463">463</a>
-         <a href="?ruta=467" class="bus-line-link lines-northern ruta-467">467</a>
-         <a href="?ruta=468" class="bus-line-link lines-northern ruta-468">468</a>
-         <a href="?ruta=469" class="bus-line-link lines-northern ruta-469">469</a>
-         <a href="?ruta=470" class="bus-line-link lines-northern ruta-470">470</a>
-         <a href="?ruta=473" class="bus-line-link lines-northern ruta-473">473</a>
-         <a href="?ruta=474" class="bus-line-link lines-northern ruta-474">474</a>
-         <a href="?ruta=476" class="bus-line-link lines-northern ruta-476">476</a>
-         <a href="?ruta=480" class="bus-line-link lines-northern ruta-480">480</a>
-         <a href="?ruta=485" class="bus-line-link lines-northern ruta-485">485</a>
-         <a href="?ruta=486" class="bus-line-link lines-northern ruta-486">486</a>
-         <a href="?ruta=488" class="bus-line-link lines-northern ruta-488">488</a>
-         <a href="?ruta=490" class="bus-line-link lines-northern ruta-490">490</a>
-         <a href="?ruta=492" class="bus-line-link lines-northern ruta-492">492</a>
-         <a href="?ruta=520" class="bus-line-link lines-northern ruta-520">520</a>
-         <a href="?ruta=521" class="bus-line-link lines-northern ruta-521">521</a>
-         <a href="?ruta=522" class="bus-line-link lines-northern ruta-522">522</a>
-         <a href="?ruta=523" class="bus-line-link lines-northern ruta-523">523</a>
-         <a href="?ruta=524" class="bus-line-link lines-northern ruta-524">524</a>
-         <a href="?ruta=535" class="bus-line-link lines-northern ruta-535">535</a>
-         <a href="?ruta=536" class="bus-line-link lines-northern ruta-536">536</a>
-         <a href="?ruta=538" class="bus-line-link lines-northern ruta-538">538</a>
-         <a href="?ruta=539" class="bus-line-link lines-northern ruta-539">539</a>
-         <a href="?ruta=540" class="bus-line-link lines-northern ruta-540">540</a>
-         <a href="?ruta=542" class="bus-line-link lines-northern ruta-542">542</a>
-         <a href="?ruta=544" class="bus-line-link lines-northern ruta-544">544</a>
-         <a href="?ruta=990" class="bus-line-link lines-northern ruta-990">990</a>
-         <a href="?ruta=994" class="bus-line-link lines-northern ruta-994">994</a>
-         <a href="?ruta=995" class="bus-line-link lines-northern ruta-995">995</a>
-         <a href="?ruta=996" class="bus-line-link lines-northern ruta-996">996</a>
-         <a href="?ruta=998" class="bus-line-link lines-northern ruta-998">998</a>
-         <a href="?ruta=999" class="bus-line-link lines-northern ruta-999">999</a>
-       </div>
-       <div class="bus-lines-control" id="bus-lines-control-bottom"><img src="/images/scroller-down.png" /></div>
-     </div>
+        <!-- <div id="bus-lines-toggle">></div>  -->
+        <div id="bus-lines-wrapper">
+            <div class="bus-lines-control" id="bus-lines-control-top"><img src="/images/scroller-up.png"/></div>
+            <div id="bus-lines">
+                <a href="?ruta=2" class="bus-line-link lines-northern ruta-2">2</a>
+                <a href="?ruta=3" class="bus-line-link lines-northern ruta-3">3</a>
+                <a href="?ruta=4" class="bus-line-link lines-northern ruta-4">4</a>
+                <a href="?ruta=6" class="bus-line-link lines-northern ruta-6">6</a>
+                <a href="?ruta=7" class="bus-line-link lines-northern ruta-7">7</a>
+                <a href="?ruta=8" class="bus-line-link lines-northern ruta-8">8</a>
+                <a href="?ruta=9" class="bus-line-link lines-northern ruta-9">9</a>
+                <a href="?ruta=10" class="bus-line-link lines-northern ruta-10">10</a>
+                <a href="?ruta=11" class="bus-line-link lines-northern ruta-11">11</a>
+                <a href="?ruta=15" class="bus-line-link lines-northern ruta-15">15</a>
+                <a href="?ruta=16" class="bus-line-link lines-northern ruta-16">16</a>
+                <a href="?ruta=18" class="bus-line-link lines-northern ruta-18">18</a>
+                <a href="?ruta=19" class="bus-line-link lines-northern ruta-19">19</a>
+                <a href="?ruta=20" class="bus-line-link lines-northern ruta-20">20</a>
+                <a href="?ruta=21" class="bus-line-link lines-northern ruta-21">21</a>
+                <a href="?ruta=23" class="bus-line-link lines-northern ruta-23">23</a>
+                <a href="?ruta=26" class="bus-line-link lines-northern ruta-26">26</a>
+                <a href="?ruta=28" class="bus-line-link lines-northern ruta-28">28</a>
+                <a href="?ruta=29" class="bus-line-link lines-northern ruta-29">29</a>
+                <a href="?ruta=30" class="bus-line-link lines-northern ruta-30">30</a>
+                <a href="?ruta=31" class="bus-line-link lines-northern ruta-31">31</a>
+                <a href="?ruta=35" class="bus-line-link lines-northern ruta-35">35</a>
+                <a href="?ruta=36" class="bus-line-link lines-northern ruta-36">36</a>
+                <a href="?ruta=38" class="bus-line-link lines-northern ruta-38">38</a>
+                <a href="?ruta=39" class="bus-line-link lines-northern ruta-39">39</a>
+                <a href="?ruta=40" class="bus-line-link lines-northern ruta-40">40</a>
+                <a href="?ruta=41" class="bus-line-link lines-northern ruta-41">41</a>
+                <a href="?ruta=43" class="bus-line-link lines-northern ruta-43">43</a>
+                <a href="?ruta=46" class="bus-line-link lines-northern ruta-46">46</a>
+                <a href="?ruta=48" class="bus-line-link lines-northern ruta-48">48</a>
+                <a href="?ruta=50" class="bus-line-link lines-northern ruta-50">50</a>
+                <a href="?ruta=51" class="bus-line-link lines-northern ruta-51">51</a>
+                <a href="?ruta=52" class="bus-line-link lines-northern ruta-52">52</a>
+                <a href="?ruta=55" class="bus-line-link lines-northern ruta-55">55</a>
+                <a href="?ruta=56" class="bus-line-link lines-northern ruta-56">56</a>
+                <a href="?ruta=58" class="bus-line-link lines-northern ruta-58">58</a>
+                <a href="?ruta=61" class="bus-line-link lines-northern ruta-61">61</a>
+                <a href="?ruta=64" class="bus-line-link lines-northern ruta-64">64</a>
+                <a href="?ruta=65" class="bus-line-link lines-northern ruta-65">65</a>
+                <a href="?ruta=66" class="bus-line-link lines-northern ruta-66">66</a>
+                <a href="?ruta=70" class="bus-line-link lines-northern ruta-70">70</a>
+                <a href="?ruta=71" class="bus-line-link lines-northern ruta-71">71</a>
+                <a href="?ruta=72" class="bus-line-link lines-northern ruta-72">72</a>
+                <a href="?ruta=76" class="bus-line-link lines-northern ruta-76">76</a>
+                <a href="?ruta=81" class="bus-line-link lines-northern ruta-81">81</a>
+                <a href="?ruta=82" class="bus-line-link lines-northern ruta-82">82</a>
+                <a href="?ruta=84" class="bus-line-link lines-northern ruta-84">84</a>
+                <a href="?ruta=85" class="bus-line-link lines-northern ruta-85">85</a>
+                <a href="?ruta=88" class="bus-line-link lines-northern ruta-88">88</a>
+                <a href="?ruta=90" class="bus-line-link lines-northern ruta-90">90</a>
+                <a href="?ruta=92" class="bus-line-link lines-northern ruta-92">92</a>
+                <a href="?ruta=93" class="bus-line-link lines-northern ruta-93">93</a>
+                <a href="?ruta=98" class="bus-line-link lines-northern ruta-98">98</a>
+                <a href="?ruta=99" class="bus-line-link lines-northern ruta-99">99</a>
+                <a href="?ruta=100" class="bus-line-link lines-northern ruta-100">100</a>
+                <a href="?ruta=102" class="bus-line-link lines-northern ruta-102">102</a>
+                <a href="?ruta=103" class="bus-line-link lines-northern ruta-103">103</a>
+                <a href="?ruta=104" class="bus-line-link lines-northern ruta-104">104</a>
+                <a href="?ruta=105" class="bus-line-link lines-northern ruta-105">105</a>
+                <a href="?ruta=107" class="bus-line-link lines-northern ruta-107">107</a>
+                <a href="?ruta=112" class="bus-line-link lines-northern ruta-112">112</a>
+                <a href="?ruta=114" class="bus-line-link lines-northern ruta-114">114</a>
+                <a href="?ruta=116" class="bus-line-link lines-northern ruta-116">116</a>
+                <a href="?ruta=117" class="bus-line-link lines-northern ruta-117">117</a>
+                <a href="?ruta=118" class="bus-line-link lines-northern ruta-118">118</a>
+                <a href="?ruta=155" class="bus-line-link lines-northern ruta-155">155</a>
+                <a href="?ruta=157" class="bus-line-link lines-northern ruta-157">157</a>
+                <a href="?ruta=159" class="bus-line-link lines-northern ruta-159">159</a>
+                <a href="?ruta=163" class="bus-line-link lines-northern ruta-163">163</a>
+                <a href="?ruta=164" class="bus-line-link lines-northern ruta-164">164</a>
+                <a href="?ruta=166" class="bus-line-link lines-northern ruta-166">166</a>
+                <a href="?ruta=167" class="bus-line-link lines-northern ruta-167">167</a>
+                <a href="?ruta=170" class="bus-line-link lines-northern ruta-170">170</a>
+                <a href="?ruta=172" class="bus-line-link lines-northern ruta-172">172</a>
+                <a href="?ruta=173" class="bus-line-link lines-northern ruta-173">173</a>
+                <a href="?ruta=174" class="bus-line-link lines-northern ruta-174">174</a>
+                <a href="?ruta=175" class="bus-line-link lines-northern ruta-175">175</a>
+                <a href="?ruta=176" class="bus-line-link lines-northern ruta-176">176</a>
+                <a href="?ruta=177" class="bus-line-link lines-northern ruta-177">177</a>
+                <a href="?ruta=178" class="bus-line-link lines-northern ruta-178">178</a>
+                <a href="?ruta=185" class="bus-line-link lines-northern ruta-185">185</a>
+                <a href="?ruta=188" class="bus-line-link lines-northern ruta-188">188</a>
+                <a href="?ruta=192" class="bus-line-link lines-northern ruta-192">192</a>
+                <a href="?ruta=193" class="bus-line-link lines-northern ruta-193">193</a>
+                <a href="?ruta=196" class="bus-line-link lines-northern ruta-196">196</a>
+                <a href="?ruta=200" class="bus-line-link lines-northern ruta-200">200</a>
+                <a href="?ruta=202" class="bus-line-link lines-northern ruta-202">202</a>
+                <a href="?ruta=203" class="bus-line-link lines-northern ruta-203">203</a>
+                <a href="?ruta=204" class="bus-line-link lines-northern ruta-204">204</a>
+                <a href="?ruta=205" class="bus-line-link lines-northern ruta-205">205</a>
+                <a href="?ruta=206" class="bus-line-link lines-northern ruta-206">206</a>
+                <a href="?ruta=207" class="bus-line-link lines-northern ruta-207">207</a>
+                <a href="?ruta=208" class="bus-line-link lines-northern ruta-208">208</a>
+                <a href="?ruta=209" class="bus-line-link lines-northern ruta-209">209</a>
+                <a href="?ruta=210" class="bus-line-link lines-northern ruta-210">210</a>
+                <a href="?ruta=211" class="bus-line-link lines-northern ruta-211">211</a>
+                <a href="?ruta=212" class="bus-line-link lines-northern ruta-212">212</a>
+                <a href="?ruta=214" class="bus-line-link lines-northern ruta-214">214</a>
+                <a href="?ruta=216" class="bus-line-link lines-northern ruta-216">216</a>
+                <a href="?ruta=219" class="bus-line-link lines-northern ruta-219">219</a>
+                <a href="?ruta=221" class="bus-line-link lines-northern ruta-221">221</a>
+                <a href="?ruta=222" class="bus-line-link lines-northern ruta-222">222</a>
+                <a href="?ruta=223" class="bus-line-link lines-northern ruta-223">223</a>
+                <a href="?ruta=224" class="bus-line-link lines-northern ruta-224">224</a>
+                <a href="?ruta=225" class="bus-line-link lines-northern ruta-225">225</a>
+                <a href="?ruta=226" class="bus-line-link lines-northern ruta-226">226</a>
+                <a href="?ruta=227" class="bus-line-link lines-northern ruta-227">227</a>
+                <a href="?ruta=228" class="bus-line-link lines-northern ruta-228">228</a>
+                <a href="?ruta=230" class="bus-line-link lines-northern ruta-230">230</a>
+                <a href="?ruta=231" class="bus-line-link lines-northern ruta-231">231</a>
+                <a href="?ruta=235" class="bus-line-link lines-northern ruta-235">235</a>
+                <a href="?ruta=236" class="bus-line-link lines-northern ruta-236">236</a>
+                <a href="?ruta=237" class="bus-line-link lines-northern ruta-237">237</a>
+                <a href="?ruta=238" class="bus-line-link lines-northern ruta-238">238</a>
+                <a href="?ruta=240" class="bus-line-link lines-northern ruta-240">240</a>
+                <a href="?ruta=241" class="bus-line-link lines-northern ruta-241">241</a>
+                <a href="?ruta=242" class="bus-line-link lines-northern ruta-242">242</a>
+                <a href="?ruta=243" class="bus-line-link lines-northern ruta-243">243</a>
+                <a href="?ruta=247" class="bus-line-link lines-northern ruta-247">247</a>
+                <a href="?ruta=249" class="bus-line-link lines-northern ruta-249">249</a>
+                <a href="?ruta=251" class="bus-line-link lines-northern ruta-251">251</a>
+                <a href="?ruta=254" class="bus-line-link lines-northern ruta-254">254</a>
+                <a href="?ruta=255" class="bus-line-link lines-northern ruta-255">255</a>
+                <a href="?ruta=256" class="bus-line-link lines-northern ruta-256">256</a>
+                <a href="?ruta=260" class="bus-line-link lines-northern ruta-260">260</a>
+                <a href="?ruta=262" class="bus-line-link lines-northern ruta-262">262</a>
+                <a href="?ruta=264" class="bus-line-link lines-northern ruta-264">264</a>
+                <a href="?ruta=265" class="bus-line-link lines-northern ruta-265">265</a>
+                <a href="?ruta=266" class="bus-line-link lines-northern ruta-266">266</a>
+                <a href="?ruta=267" class="bus-line-link lines-northern ruta-267">267</a>
+                <a href="?ruta=269" class="bus-line-link lines-northern ruta-269">269</a>
+                <a href="?ruta=270" class="bus-line-link lines-northern ruta-270">270</a>
+                <a href="?ruta=271" class="bus-line-link lines-northern ruta-271">271</a>
+                <a href="?ruta=272" class="bus-line-link lines-northern ruta-272">272</a>
+                <a href="?ruta=273" class="bus-line-link lines-northern ruta-273">273</a>
+                <a href="?ruta=274" class="bus-line-link lines-northern ruta-274">274</a>
+                <a href="?ruta=275" class="bus-line-link lines-northern ruta-275">275</a>
+                <a href="?ruta=276" class="bus-line-link lines-northern ruta-276">276</a>
+                <a href="?ruta=277" class="bus-line-link lines-northern ruta-277">277</a>
+                <a href="?ruta=278" class="bus-line-link lines-northern ruta-278">278</a>
+                <a href="?ruta=281" class="bus-line-link lines-northern ruta-281">281</a>
+                <a href="?ruta=282" class="bus-line-link lines-northern ruta-282">282</a>
+                <a href="?ruta=283" class="bus-line-link lines-northern ruta-283">283</a>
+                <a href="?ruta=284" class="bus-line-link lines-northern ruta-284">284</a>
+                <a href="?ruta=286" class="bus-line-link lines-northern ruta-286">286</a>
+                <a href="?ruta=287" class="bus-line-link lines-northern ruta-287">287</a>
+                <a href="?ruta=288" class="bus-line-link lines-northern ruta-288">288</a>
+                <a href="?ruta=290" class="bus-line-link lines-northern ruta-290">290</a>
+                <a href="?ruta=291" class="bus-line-link lines-northern ruta-291">291</a>
+                <a href="?ruta=293" class="bus-line-link lines-northern ruta-293">293</a>
+                <a href="?ruta=295" class="bus-line-link lines-northern ruta-295">295</a>
+                <a href="?ruta=296" class="bus-line-link lines-northern ruta-296">296</a>
+                <a href="?ruta=298" class="bus-line-link lines-northern ruta-298">298</a>
+                <a href="?ruta=299" class="bus-line-link lines-northern ruta-299">299</a>
+                <a href="?ruta=301" class="bus-line-link lines-northern ruta-301">301</a>
+                <a href="?ruta=302" class="bus-line-link lines-northern ruta-302">302</a>
+                <a href="?ruta=303" class="bus-line-link lines-northern ruta-303">303</a>
+                <a href="?ruta=305" class="bus-line-link lines-northern ruta-305">305</a>
+                <a href="?ruta=306" class="bus-line-link lines-northern ruta-306">306</a>
+                <a href="?ruta=307" class="bus-line-link lines-northern ruta-307">307</a>
+                <a href="?ruta=308" class="bus-line-link lines-northern ruta-308">308</a>
+                <a href="?ruta=309" class="bus-line-link lines-northern ruta-309">309</a>
+                <a href="?ruta=310" class="bus-line-link lines-northern ruta-310">310</a>
+                <a href="?ruta=313" class="bus-line-link lines-northern ruta-313">313</a>
+                <a href="?ruta=314" class="bus-line-link lines-northern ruta-314">314</a>
+                <a href="?ruta=317" class="bus-line-link lines-northern ruta-317">317</a>
+                <a href="?ruta=318" class="bus-line-link lines-northern ruta-318">318</a>
+                <a href="?ruta=322" class="bus-line-link lines-northern ruta-322">322</a>
+                <a href="?ruta=324" class="bus-line-link lines-northern ruta-324">324</a>
+                <a href="?ruta=325" class="bus-line-link lines-northern ruta-325">325</a>
+                <a href="?ruta=326" class="bus-line-link lines-northern ruta-326">326</a>
+                <a href="?ruta=328" class="bus-line-link lines-northern ruta-328">328</a>
+                <a href="?ruta=331" class="bus-line-link lines-northern ruta-331">331</a>
+                <a href="?ruta=333" class="bus-line-link lines-northern ruta-333">333</a>
+                <a href="?ruta=336" class="bus-line-link lines-northern ruta-336">336</a>
+                <a href="?ruta=337" class="bus-line-link lines-northern ruta-337">337</a>
+                <a href="?ruta=338" class="bus-line-link lines-northern ruta-338">338</a>
+                <a href="?ruta=339" class="bus-line-link lines-northern ruta-339">339</a>
+                <a href="?ruta=342" class="bus-line-link lines-northern ruta-342">342</a>
+                <a href="?ruta=343" class="bus-line-link lines-northern ruta-343">343</a>
+                <a href="?ruta=344" class="bus-line-link lines-northern ruta-344">344</a>
+                <a href="?ruta=347" class="bus-line-link lines-northern ruta-347">347</a>
+                <a href="?ruta=348" class="bus-line-link lines-northern ruta-348">348</a>
+                <a href="?ruta=349" class="bus-line-link lines-northern ruta-349">349</a>
+                <a href="?ruta=351" class="bus-line-link lines-northern ruta-351">351</a>
+                <a href="?ruta=356" class="bus-line-link lines-northern ruta-356">356</a>
+                <a href="?ruta=357" class="bus-line-link lines-northern ruta-357">357</a>
+                <a href="?ruta=363" class="bus-line-link lines-northern ruta-363">363</a>
+                <a href="?ruta=367" class="bus-line-link lines-northern ruta-367">367</a>
+                <a href="?ruta=368" class="bus-line-link lines-northern ruta-368">368</a>
+                <a href="?ruta=369" class="bus-line-link lines-northern ruta-369">369</a>
+                <a href="?ruta=373" class="bus-line-link lines-northern ruta-373">373</a>
+                <a href="?ruta=376" class="bus-line-link lines-northern ruta-376">376</a>
+                <a href="?ruta=377" class="bus-line-link lines-northern ruta-377">377</a>
+                <a href="?ruta=378" class="bus-line-link lines-northern ruta-378">378</a>
+                <a href="?ruta=380" class="bus-line-link lines-northern ruta-380">380</a>
+                <a href="?ruta=383" class="bus-line-link lines-northern ruta-383">383</a>
+                <a href="?ruta=385" class="bus-line-link lines-northern ruta-385">385</a>
+                <a href="?ruta=386" class="bus-line-link lines-northern ruta-386">386</a>
+                <a href="?ruta=388" class="bus-line-link lines-northern ruta-388">388</a>
+                <a href="?ruta=389" class="bus-line-link lines-northern ruta-389">389</a>
+                <a href="?ruta=391" class="bus-line-link lines-northern ruta-391">391</a>
+                <a href="?ruta=393" class="bus-line-link lines-northern ruta-393">393</a>
+                <a href="?ruta=394" class="bus-line-link lines-northern ruta-394">394</a>
+                <a href="?ruta=395" class="bus-line-link lines-northern ruta-395">395</a>
+                <a href="?ruta=398" class="bus-line-link lines-northern ruta-398">398</a>
+                <a href="?ruta=399" class="bus-line-link lines-northern ruta-399">399</a>
+                <a href="?ruta=400" class="bus-line-link lines-northern ruta-400">400</a>
+                <a href="?ruta=401" class="bus-line-link lines-northern ruta-401">401</a>
+                <a href="?ruta=402" class="bus-line-link lines-northern ruta-402">402</a>
+                <a href="?ruta=404" class="bus-line-link lines-northern ruta-404">404</a>
+                <a href="?ruta=405" class="bus-line-link lines-northern ruta-405">405</a>
+                <a href="?ruta=406" class="bus-line-link lines-northern ruta-406">406</a>
+                <a href="?ruta=408" class="bus-line-link lines-northern ruta-408">408</a>
+                <a href="?ruta=410" class="bus-line-link lines-northern ruta-410">410</a>
+                <a href="?ruta=412" class="bus-line-link lines-northern ruta-412">412</a>
+                <a href="?ruta=414" class="bus-line-link lines-northern ruta-414">414</a>
+                <a href="?ruta=415" class="bus-line-link lines-northern ruta-415">415</a>
+                <a href="?ruta=416" class="bus-line-link lines-northern ruta-416">416</a>
+                <a href="?ruta=417" class="bus-line-link lines-northern ruta-417">417</a>
+                <a href="?ruta=419" class="bus-line-link lines-northern ruta-419">419</a>
+                <a href="?ruta=420" class="bus-line-link lines-northern ruta-420">420</a>
+                <a href="?ruta=422" class="bus-line-link lines-northern ruta-422">422</a>
+                <a href="?ruta=423" class="bus-line-link lines-northern ruta-423">423</a>
+                <a href="?ruta=424" class="bus-line-link lines-northern ruta-424">424</a>
+                <a href="?ruta=425" class="bus-line-link lines-northern ruta-425">425</a>
+                <a href="?ruta=428" class="bus-line-link lines-northern ruta-428">428</a>
+                <a href="?ruta=431" class="bus-line-link lines-northern ruta-431">431</a>
+                <a href="?ruta=434" class="bus-line-link lines-northern ruta-434">434</a>
+                <a href="?ruta=435" class="bus-line-link lines-northern ruta-435">435</a>
+                <a href="?ruta=436" class="bus-line-link lines-northern ruta-436">436</a>
+                <a href="?ruta=437" class="bus-line-link lines-northern ruta-437">437</a>
+                <a href="?ruta=438" class="bus-line-link lines-northern ruta-438">438</a>
+                <a href="?ruta=441" class="bus-line-link lines-northern ruta-441">441</a>
+                <a href="?ruta=442" class="bus-line-link lines-northern ruta-442">442</a>
+                <a href="?ruta=443" class="bus-line-link lines-northern ruta-443">443</a>
+                <a href="?ruta=444" class="bus-line-link lines-northern ruta-444">444</a>
+                <a href="?ruta=445" class="bus-line-link lines-northern ruta-445">445</a>
+                <a href="?ruta=447" class="bus-line-link lines-northern ruta-447">447</a>
+                <a href="?ruta=449" class="bus-line-link lines-northern ruta-449">449</a>
+                <a href="?ruta=452" class="bus-line-link lines-northern ruta-452">452</a>
+                <a href="?ruta=454" class="bus-line-link lines-northern ruta-454">454</a>
+                <a href="?ruta=455" class="bus-line-link lines-northern ruta-455">455</a>
+                <a href="?ruta=456" class="bus-line-link lines-northern ruta-456">456</a>
+                <a href="?ruta=458" class="bus-line-link lines-northern ruta-458">458</a>
+                <a href="?ruta=463" class="bus-line-link lines-northern ruta-463">463</a>
+                <a href="?ruta=467" class="bus-line-link lines-northern ruta-467">467</a>
+                <a href="?ruta=468" class="bus-line-link lines-northern ruta-468">468</a>
+                <a href="?ruta=469" class="bus-line-link lines-northern ruta-469">469</a>
+                <a href="?ruta=470" class="bus-line-link lines-northern ruta-470">470</a>
+                <a href="?ruta=473" class="bus-line-link lines-northern ruta-473">473</a>
+                <a href="?ruta=474" class="bus-line-link lines-northern ruta-474">474</a>
+                <a href="?ruta=476" class="bus-line-link lines-northern ruta-476">476</a>
+                <a href="?ruta=480" class="bus-line-link lines-northern ruta-480">480</a>
+                <a href="?ruta=485" class="bus-line-link lines-northern ruta-485">485</a>
+                <a href="?ruta=486" class="bus-line-link lines-northern ruta-486">486</a>
+                <a href="?ruta=488" class="bus-line-link lines-northern ruta-488">488</a>
+                <a href="?ruta=490" class="bus-line-link lines-northern ruta-490">490</a>
+                <a href="?ruta=492" class="bus-line-link lines-northern ruta-492">492</a>
+                <a href="?ruta=520" class="bus-line-link lines-northern ruta-520">520</a>
+                <a href="?ruta=521" class="bus-line-link lines-northern ruta-521">521</a>
+                <a href="?ruta=522" class="bus-line-link lines-northern ruta-522">522</a>
+                <a href="?ruta=523" class="bus-line-link lines-northern ruta-523">523</a>
+                <a href="?ruta=524" class="bus-line-link lines-northern ruta-524">524</a>
+                <a href="?ruta=535" class="bus-line-link lines-northern ruta-535">535</a>
+                <a href="?ruta=536" class="bus-line-link lines-northern ruta-536">536</a>
+                <a href="?ruta=538" class="bus-line-link lines-northern ruta-538">538</a>
+                <a href="?ruta=539" class="bus-line-link lines-northern ruta-539">539</a>
+                <a href="?ruta=540" class="bus-line-link lines-northern ruta-540">540</a>
+                <a href="?ruta=542" class="bus-line-link lines-northern ruta-542">542</a>
+                <a href="?ruta=544" class="bus-line-link lines-northern ruta-544">544</a>
+                <a href="?ruta=990" class="bus-line-link lines-northern ruta-990">990</a>
+                <a href="?ruta=994" class="bus-line-link lines-northern ruta-994">994</a>
+                <a href="?ruta=995" class="bus-line-link lines-northern ruta-995">995</a>
+                <a href="?ruta=996" class="bus-line-link lines-northern ruta-996">996</a>
+                <a href="?ruta=998" class="bus-line-link lines-northern ruta-998">998</a>
+                <a href="?ruta=999" class="bus-line-link lines-northern ruta-999">999</a>
+            </div>
+            <div class="bus-lines-control" id="bus-lines-control-bottom"><img src="/images/scroller-down.png"/></div>
+        </div>
 
-    
-      {% include "partial/search.html" %}
- {% include "partial/social-links.html" %}
+        {% include "partial/search.html" %}
+        {% include "partial/social-links.html" %}
 
-  </main>
-  <!-- <footer></footer> -->
+    </main>
+    <!-- <footer></footer> -->
 {% endblock %}
 
 {% block additional_js %}
-  <script src="/theme/js/public-transport.js"></script>
-  {% include "partial/piwik.html" %}
-  {% include "partial/jsonld.html" %}
+    <script src="/theme/js/public-transport.js"></script>
+    {% include "partial/piwik.html" %}
+    {% include "partial/jsonld.html" %}
 {% endblock %}

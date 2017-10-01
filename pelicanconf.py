@@ -50,8 +50,6 @@ SOCIAL = (('email', 'mailto:contact@junglebus.io'),
           ('twitter', 'http://www.twitter.com/BusJungle'),
           )
 
-MENUITEMS = (('Jungle Bus', 'http://junglebus.io', 'map'),
-             ('Accra routes', '/index.html', 'public-transport'),
-          )
+MENUITEMS = ()
 
 DEFAULT_PAGINATION = False
