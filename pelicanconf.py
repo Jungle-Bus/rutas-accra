@@ -3,15 +3,15 @@
 
 from __future__ import unicode_literals
 
-AUTHOR = u'OpenStreetMap Nicaragua'
-SITENAME = u'MapaNica.net - Rutas de Managua y Ciudad Sandino'
-SITESUBTITLE = 'Transporte Urbano Colectivo de Managua'
-SITEDESCRIPTION = 'Mapa de la red de las rutas de buses del transporte urbano colectivo (TUC) de Managua y Ciudad Sandino'
+AUTHOR = u'Jungle Bus'
+SITENAME = u'Jungle Bus in Accra'
+SITESUBTITLE = 'Find your trotro'
+SITEDESCRIPTION = 'A very good map made from OSM'
 SITEKEYWORDS = 'Bus, Buses, Rutas, Ruta, IRTRAMMA, TUC, Transporte, Transporte Urbano Colectivo, Nicaragua, Managua, CpenStreetMap, Transporte público, Datos Abuertos, Open Data'
 
 USE_LESS = True
 SITEURL = 'https://junglebus.io/accra'
-SITELOGO = '/images/mapanica-rutas.png'
+SITELOGO = '/images/jungle_bus_logo.png'
 THEME = 'themes/mombacho'
 
 FAVICON = '/images/favicon.ico'
@@ -31,9 +31,9 @@ CC_LICENSE = { 'name': 'Creative Commons Attribution-ShareAlike', 'version':'4.0
 PATH = 'content'
 STATIC_PATHS = ['images','php']
 
-TIMEZONE = 'America/Managua'
+TIMEZONE = 'Africa/Accra'
 
-DEFAULT_LANG = u'es'
+DEFAULT_LANG = u'en'
 OG_LOCALE = u'es_NI'
 DEFAULT_DATE_FORMAT = ('%d %B %Y')
 
@@ -46,16 +46,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('email', 'mailto:contacto@mapanica.net'),
-          ('facebook', 'http://www.facebook.com/mapanica'),
-          ('twitter', 'http://www.twitter.com/osm_ni'),
+SOCIAL = (('email', 'mailto:contact@junglebus.io'),
+          ('twitter', 'http://www.twitter.com/BusJungle'),
           )
 
-MENUITEMS = (('Mapa de Nicaragua', 'http://mapanica.net', 'map'),
-             ('Rutas Managua', '/index.html', 'public-transport'),
-             ('Mapas para móviles', 'http://mapanica.net/mapas-moviles.html', 'mobile'),
-             ('Comunidad', 'http://mapanica.net/comunidad.html', 'community'),
-             ('Descargar datos', 'http://datos.mapanica.net', 'datos'),
+MENUITEMS = (('Jungle Bus', 'http://junglebus.io', 'map'),
+             ('Accra routes', '/index.html', 'public-transport'),
           )
 
 DEFAULT_PAGINATION = False

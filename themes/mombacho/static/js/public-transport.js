@@ -14,7 +14,7 @@ function load_map(url_params) {
     attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://memomaps.de/">MeMoMaps</a>'
   });
   var new_transport = L.tileLayer('https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=760b39ce3c124042844d03e0f935bae9', {
-    attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://thunderforest.com/">Gravitystorm</a>'
+    attribution: 'Data © <a href="https://openstreetmap.org">OpenStreetMap</a>; Maps © <a href="https://thunderforest.com/">Gravitystorm</a>'
   });
   var mapbox = L.tileLayer('https://{s}.tiles.mapbox.com/v3/jaakkoh.map-4ch3dsvl/{z}/{x}/{y}.png', {
     attribution: 'Geo datos © <a href="https://openstreetmap.org">OpenStreetMap</a>; Teselas © <a href="https://mapbox.com/">Mapbox</a>'
