@@ -44,7 +44,7 @@ $(document).ready(function (){
     e.preventDefault();
 
     // Define modal
-    modal.open({content: '<img src="/theme/img/loading.gif" alt="Cargando"/>'});
+    modal.open({content: '<img src="theme/img/loading.gif" alt="Cargando"/>'});
 
     // Search callback logic
     var inp = document.getElementById("search-string");

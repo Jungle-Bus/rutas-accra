@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://junglebus.io/accra'
+SITEURL = '//junglebus.io/accra'
 RELATIVE_URLS = False
 USE_LESS = False
 

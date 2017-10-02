@@ -10,11 +10,11 @@ SITEDESCRIPTION = 'A very good map made from OSM'
 SITEKEYWORDS = 'Bus, Buses, Rutas, Ruta, IRTRAMMA, TUC, Transporte, Transporte Urbano Colectivo, Nicaragua, Managua, CpenStreetMap, Transporte público, Datos Abuertos, Open Data'
 
 USE_LESS = True
-SITEURL = 'https://junglebus.io/accra'
-SITELOGO = '/images/jungle_bus_logo.png'
+SITEURL = '//junglebus.io/accra'
+SITELOGO = '/accra/images/jungle_bus_logo.png'
 THEME = 'themes/mombacho'
 
-FAVICON = '/images/favicon.ico'
+FAVICON = '/accra/images/favicon.ico'
 ROBOTS = 'index, follow'
 
 PAGE_URL = '{slug}/'

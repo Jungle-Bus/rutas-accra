@@ -1,30 +1,30 @@
 {% extends "base.html" %}
 
 {% block meta_javascript %}
-    <script src="/theme/js/jquery.js"></script>
-    <script src="/theme/js/leaflet.js"></script>
-    <script src="/theme/js/leaflet/leaflet-hash.js"></script>
-    <script src="/theme/js/leaflet/ActiveLayers.js"></script>
-    <script src="/theme/js/leaflet/leaflet.ajax.js"></script>
-    <script src="/theme/js/leaflet/leaflet.label.js"></script>
-    <script src="/theme/js/modal.js"></script>
-    <script src="/theme/js/search.js"></script>
-    <script src="/theme/js/report-form.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/leaflet-hash.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/ActiveLayers.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/leaflet.ajax.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/leaflet.label.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/modal.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/search.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/report-form.js"></script>
 
 {% endblock %}
 
 {% block meta_css %}
-    <link rel="stylesheet" href="/theme/css/leaflet.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/leaflet.css" type="text/css"/>
     <!--[if lte IE 8]> <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" /> <![endif]-->
-    <link rel="stylesheet" href="/theme/js/leaflet/zoomslider/L.Control.Zoomslider.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/zoomslider/L.Control.Zoomslider.css" type="text/css"/>
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fonts.css">
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments.min.css">
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/theme/css/leaflet.label.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/leaflet.label.css" type="text/css"/>
 
     {% if USE_LESS %}
         <link rel="stylesheet/less" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.less">
-        <script src="/theme/js/less.min.js" type="text/javascript"></script>
+        <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/less.min.js" type="text/javascript"></script>
     {% else %}
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.min.css">
     {% endif %}
@@ -68,7 +68,7 @@
 
         <!-- <div id="bus-lines-toggle">></div>  -->
         <div id="bus-lines-wrapper">
-            <div class="bus-lines-control" id="bus-lines-control-top"><img src="/images/scroller-up.png"/></div>
+            <div class="bus-lines-control" id="bus-lines-control-top"><img src="{{ SITEURL }}/images/scroller-up.png"/></div>
             <div id="bus-lines">
                 <a href="?ruta=2" class="bus-line-link lines-northern ruta-2">2</a>
                 <a href="?ruta=3" class="bus-line-link lines-northern ruta-3">3</a>
@@ -348,7 +348,7 @@
                 <a href="?ruta=998" class="bus-line-link lines-northern ruta-998">998</a>
                 <a href="?ruta=999" class="bus-line-link lines-northern ruta-999">999</a>
             </div>
-            <div class="bus-lines-control" id="bus-lines-control-bottom"><img src="/images/scroller-down.png"/></div>
+            <div class="bus-lines-control" id="bus-lines-control-bottom"><img src="{{ SITEURL }}/images/scroller-down.png"/></div>
         </div>
 
         {% include "partial/search.html" %}
@@ -359,7 +359,7 @@
 {% endblock %}
 
 {% block additional_js %}
-    <script src="/theme/js/public-transport.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/public-transport.js"></script>
     {% include "partial/piwik.html" %}
     {% include "partial/jsonld.html" %}
 {% endblock %}

@@ -1,16 +1,16 @@
 {% extends "base.html" %}
 
 {% block meta_javascript %}
-<script src="/theme/js/jquery.js"></script>
-<script src="/theme/js/leaflet.js"></script>
-<script src="/theme/js/leaflet/leaflet-hash.js"></script>
-<script src="/theme/js/leaflet/ActiveLayers.js"></script>
-<script src="/theme/js/leaflet/leaflet.ajax.js"></script>
-<script src="/theme/js/leaflet/leaflet.label.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/leaflet-hash.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/ActiveLayers.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/leaflet.ajax.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/leaflet/leaflet.label.js"></script>
 {% endblock %}
 
 {% block meta_css %}
-  <link rel="stylesheet" href="/theme/css/leaflet.css" type="text/css" />
+  <link rel="stylesheet" href="theme/css/leaflet.css" type="text/css" />
   <!--[if lte IE 8]>
       <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
   <![endif]-->
@@ -21,13 +21,13 @@
   <div id="map">
     <div id="mapanica-logo">
       <a href="http://rutas.mapanica.net" alt="Mapa de mapanica.net" target="_blank">
-        <img src="/images/mapanica-rutas.png" height="42" width="42" alt="Logotipo de OpenStreetMap Nicaragua"/><br />
+        <img src="{{ SITEURL }}/images/mapanica-rutas.png" height="42" width="42" alt="Logotipo de OpenStreetMap Nicaragua"/><br />
         <span>MapaNica</span>
       </a>
     </div>
   </div>
   <div id="bus-lines-wrapper">
-    <div class="bus-lines-control" id="bus-lines-control-top"><img src="/images/scroller-up.png" /></div>
+    <div class="bus-lines-control" id="bus-lines-control-top"><img src="{{ SITEURL }}/images/scroller-up.png" /></div>
     <div id="bus-lines">
       <a href="?ruta=6" class="bus-line-link lines-northern ruta-6">6</a>
       <a href="?ruta=101" class="bus-line-link lines-northern ruta-101">101</a>
@@ -75,7 +75,7 @@
       <a href="?ruta=ESQ" class="bus-line-link bus-line-link-double lines-southern ruta-ESQ">ESQ</a>
       <a href="?ruta=SIS" class="bus-line-link bus-line-link-double lines-southern ruta-SIS">SIS</a>
     </div>
-    <div class="bus-lines-control" id="bus-lines-control-bottom"><img src="/images/scroller-down.png" /></div>
+    <div class="bus-lines-control" id="bus-lines-control-bottom"><img src="{{ SITEURL }}/images/scroller-down.png" /></div>
   </div>
   <!-- <footer></footer> -->
 {% endblock %}
