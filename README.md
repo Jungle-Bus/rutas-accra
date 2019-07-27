@@ -1,6 +1,11 @@
 # Rutas web site for Accra, Ghana
 
-http://junglebus.io/accra
+This is an interactive map of the public transport in Accra, Ghana. See it live at http://junglebus.io/accra
+
+This project has been developed by [Jungle Bus](http://junglebus.io/) as part of the [Accra Mobile 3](Thttps://wiki.openstreetmap.org/wiki/AccraMobile3) project.
+
+It is a fork of the interactive map made by the Nicaraguan community in Managua : https://github.com/mapanica/rutas
+
 
 ## Generate geojson routes
 
